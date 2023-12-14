@@ -1,0 +1,1001 @@
+Gender,Age,Nationality,Municipality,Canton,Salary,Ethnicity,Surname,admin_name,admin_lat,admin_lon
+M,43,Luxembourg,Schuttrange,Canton Luxembourg,26044.0,white,Smits,Luxembourg,49.6117,6.1319
+F,38,Belgium,Luxembourg,Canton Luxembourg,2960.0,white,Heymans,Luxembourg,49.6117,6.1319
+M,33,Luxembourg,Pétange,Canton Esch,6528.0,white,Vercruysse,Esch,49.4969,5.9806
+F,27,France,Ettelbruck,Canton Diekirch,4862.0,white,Bonneau,Diekirch,49.8681,6.1567
+F,79,Luxembourg,Steinsel,Canton Luxembourg,0.0,white,Étienne,Luxembourg,49.6117,6.1319
+M,20,Italy,Vallée de l'Ernz,Canton Diekirch,9097.0,white,Santi,Diekirch,49.8681,6.1567
+M,64,Portugal,Kayl,Canton Esch,6116.0,white,Tavares,Esch,49.4969,5.9806
+F,63,United Kingdom,Mondercange,Canton Esch,11580.0,white,Jones,Esch,49.4969,5.9806
+M,69,Portugal,Differdange,Canton Esch,0.0,white,Esteves,Esch,49.4969,5.9806
+M,67,Portugal,Bertrange,Canton Luxembourg,0.0,white,Tavares,Luxembourg,49.6117,6.1319
+M,43,Luxembourg,Wiltz,Canton Wiltz,1833.0,white,Jacobs,Wiltz,49.9667,5.9333
+M,35,Luxembourg,Pétange,Canton Esch,2528.0,black,De Schutter,Esch,49.4969,5.9806
+F,26,France,Dudelange,Canton Esch,4453.0,white,Regnier,Esch,49.4969,5.9806
+F,89,Portugal,Schieren,Canton Diekirch,0.0,white,Garcia,Diekirch,49.8681,6.1567
+F,18,Luxembourg,Luxembourg,Canton Luxembourg,1460.0,white,Peeters,Luxembourg,49.6117,6.1319
+M,75,Luxembourg,Pétange,Canton Esch,0.0,white,Nicolas,Esch,49.4969,5.9806
+F,65,Luxembourg,Mamer,Canton Capellen,0.0,black,Allard,Capellen,49.6444,5.9897
+M,38,Portugal,Walferdange,Canton Luxembourg,1145.0,white,Batista,Luxembourg,49.6117,6.1319
+F,28,Luxembourg,Differdange,Canton Esch,3468.0,white,Goossens,Esch,49.4969,5.9806
+F,42,Luxembourg,Mondercange,Canton Esch,1080.0,white,Van Hoof,Esch,49.4969,5.9806
+M,31,Luxembourg,Esch-sur-Alzette,Canton Esch,1803.0,black,Hardy,Esch,49.4969,5.9806
+F,53,Luxembourg,Vianden,Canton Vianden,2539.0,white,Marchal,Vianden,49.9336,6.2075
+M,59,Luxembourg,Dudelange,Canton Esch,3453.0,white,Letellier,Esch,49.4969,5.9806
+M,49,Luxembourg,Rumelange,Canton Esch,1404.0,black,De Boeck,Esch,49.4969,5.9806
+F,32,Belgium,Esch-sur-Alzette,Canton Esch,5803.0,white,Fierens,Esch,49.4969,5.9806
+F,49,Italy,Käerjeng,Canton Capellen,3641.0,white,Bertoli,Capellen,49.6444,5.9897
+F,48,Luxembourg,Luxembourg,Canton Luxembourg,2960.0,black,Leconte,Luxembourg,49.6117,6.1319
+M,65,Luxembourg,Weiswampach,Canton Clervaux,0.0,white,Grondin,Clervaux,50.05,6.0333
+M,24,Luxembourg,Schifflange,Canton Esch,5042.0,white,Gomez,Esch,49.4969,5.9806
+F,56,Luxembourg,Bertrange,Canton Luxembourg,2587.0,white,Martens,Luxembourg,49.6117,6.1319
+F,69,Portugal,Feulen,Canton Diekirch,0.0,white,Araújo,Diekirch,49.8681,6.1567
+F,31,Luxembourg,Niederanven,Canton Luxembourg,6955.0,latino,Bauwens,Luxembourg,49.6117,6.1319
+F,23,Luxembourg,Waldbillig,Canton Echternach,2050.0,black,Van den Eynde,Echternach,49.8117,6.4217
+F,34,Portugal,Luxembourg,Canton Luxembourg,7960.0,white,Carneiro,Luxembourg,49.6117,6.1319
+M,57,Portugal,Remich,Canton Remich,16288.0,white,Batista,Remich,49.5444,6.3667
+F,48,Portugal,Luxembourg,Canton Luxembourg,4460.0,white,Vaz,Luxembourg,49.6117,6.1319
+F,50,Portugal,Differdange,Canton Esch,3968.0,white,Branco,Esch,49.4969,5.9806
+F,26,Luxembourg,Wiltz,Canton Wiltz,4833.0,white,Ramos,Wiltz,49.9667,5.9333
+M,39,Luxembourg,Parc Hosingen,Canton Clervaux,2585.0,white,Vermeersch,Clervaux,50.05,6.0333
+F,43,Luxembourg,Rumelange,Canton Esch,2404.0,white,Merle,Esch,49.4969,5.9806
+F,39,Luxembourg,Schuttrange,Canton Luxembourg,3044.0,white,Verheyen,Luxembourg,49.6117,6.1319
+F,20,Portugal,Luxembourg,Canton Luxembourg,1960.0,white,Campos,Luxembourg,49.6117,6.1319
+F,29,Luxembourg,Luxembourg,Canton Luxembourg,2960.0,white,Meyer,Luxembourg,49.6117,6.1319
+F,39,Italy,Differdange,Canton Esch,2468.0,white,Collina,Esch,49.4969,5.9806
+M,27,Luxembourg,Parc Hosingen,Canton Clervaux,1085.0,white,Somers,Clervaux,50.05,6.0333
+M,40,Belgium,Bettembourg,Canton Esch,4596.0,white,Sels,Esch,49.4969,5.9806
+F,19,Portugal,Dudelange,Canton Esch,11453.0,white,Sá,Esch,49.4969,5.9806
+F,18,Belgium,Habscht,Canton Capellen,3639.0,white,Deman,Capellen,49.6444,5.9897
+M,59,Luxembourg,Mersch,Canton Mersch,7555.0,white,Breugelmans,Mersch,49.75,6.1
+M,21,Luxembourg,Sanem,Canton Esch,1642.0,white,Maes,Esch,49.4969,5.9806
+F,76,France,Betzdorf,Canton Grevenmacher,0.0,white,Nicolas,Grevenmacher,49.6806,6.4417
+F,25,Luxembourg,Schifflange,Canton Esch,9542.0,white,Vissers,Esch,49.4969,5.9806
+M,19,Luxembourg,Kayl,Canton Esch,8116.0,black,Timmermans,Esch,49.4969,5.9806
+F,19,Belgium,Mamer,Canton Capellen,12701.0,white,Van den Bossche,Capellen,49.6444,5.9897
+F,25,Portugal,Luxembourg,Canton Luxembourg,21960.0,white,Leite,Luxembourg,49.6117,6.1319
+F,57,Luxembourg,Schifflange,Canton Esch,4042.0,white,De Pauw,Esch,49.4969,5.9806
+M,30,Luxembourg,Wormeldange,Canton Grevenmacher,8322.0,white,Pinto,Grevenmacher,49.6806,6.4417
+F,64,France,Esch-sur-Alzette,Canton Esch,4803.0,black,Germain,Esch,49.4969,5.9806
+F,37,Luxembourg,Luxembourg,Canton Luxembourg,4460.0,white,De Witte,Luxembourg,49.6117,6.1319
+F,67,Belgium,Bettembourg,Canton Esch,0.0,white,Claeys,Esch,49.4969,5.9806
+M,61,Portugal,Sandweiler,Canton Luxembourg,2583.0,white,Alves,Luxembourg,49.6117,6.1319
+F,92,Poland,Luxembourg,Canton Luxembourg,0.0,white,Albin,Luxembourg,49.6117,6.1319
+M,57,Luxembourg,Sanem,Canton Esch,5142.0,white,Vervoort,Esch,49.4969,5.9806
+M,36,Luxembourg,Beckerich,Canton Redange,3132.0,white,Luyten,Redange,49.7652,5.8894
+M,26,Luxembourg,Luxembourg,Canton Luxembourg,3460.0,black,Allard,Luxembourg,49.6117,6.1319
+F,29,Luxembourg,Hesperange,Canton Luxembourg,5654.0,white,Dupré,Luxembourg,49.6117,6.1319
+F,63,Luxembourg,Luxembourg,Canton Luxembourg,5960.0,black,Fernandez,Luxembourg,49.6117,6.1319
+F,31,Luxembourg,Esch-sur-Alzette,Canton Esch,8303.0,white,Grégoire,Esch,49.4969,5.9806
+F,46,Portugal,Schengen,Canton Remich,3039.0,white,Amorim,Remich,49.5444,6.3667
+M,43,Portugal,Mamer,Canton Capellen,5701.0,white,Amaral,Capellen,49.6444,5.9897
+M,26,Luxembourg,Esch-sur-Alzette,Canton Esch,8303.0,white,Weber,Esch,49.4969,5.9806
+F,65,Romania,Esch-sur-Alzette,Canton Esch,0.0,white,Stănescu,Esch,49.4969,5.9806
+F,39,Luxembourg,Echternach,Canton Echternach,5723.0,white,Gaillard,Echternach,49.8117,6.4217
+F,60,Luxembourg,Walferdange,Canton Luxembourg,10145.0,white,Pauwels,Luxembourg,49.6117,6.1319
+M,80,France,Mertzig,Canton Diekirch,0.0,white,Jacques,Diekirch,49.8681,6.1567
+F,30,Germany,Weiler-la-Tour,Canton Luxembourg,9857.0,white,Döhn,Luxembourg,49.6117,6.1319
+F,46,Portugal,Parc Hosingen,Canton Clervaux,5085.0,white,Pinheiro,Clervaux,50.05,6.0333
+F,29,Luxembourg,Dalheim,Canton Remich,3540.0,latino,Stevens,Remich,49.5444,6.3667
+F,53,France,Luxembourg,Canton Luxembourg,2960.0,white,Martins,Luxembourg,49.6117,6.1319
+F,30,Luxembourg,Grevenmacher,Canton Grevenmacher,8361.0,white,Guillet,Grevenmacher,49.6806,6.4417
+M,35,Luxembourg,Luxembourg,Canton Luxembourg,3460.0,white,Masse,Luxembourg,49.6117,6.1319
+F,82,Italy,Luxembourg,Canton Luxembourg,0.0,white,Pacelli,Luxembourg,49.6117,6.1319
+F,29,Luxembourg,Luxembourg,Canton Luxembourg,20960.0,white,Simon,Luxembourg,49.6117,6.1319
+F,43,Portugal,Luxembourg,Canton Luxembourg,8960.0,white,Batista,Luxembourg,49.6117,6.1319
+F,30,Luxembourg,Helperknapp,Canton Mersch,3417.0,black,Van Acker,Mersch,49.75,6.1
+M,48,Portugal,Rosport-Mompach,Canton Echternach,2096.0,white,Amorim,Echternach,49.8117,6.4217
+F,31,Luxembourg,Luxembourg,Canton Luxembourg,4460.0,latino,Van Assche,Luxembourg,49.6117,6.1319
+M,69,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Mariën,Luxembourg,49.6117,6.1319
+F,34,Luxembourg,Differdange,Canton Esch,8468.0,white,Charles,Esch,49.4969,5.9806
+F,23,Luxembourg,Biwer,Canton Grevenmacher,7484.0,black,Ramaekers,Grevenmacher,49.6806,6.4417
+F,68,Belgium,Troisvierges,Canton Clervaux,0.0,white,Bogaert,Clervaux,50.05,6.0333
+F,64,Luxembourg,Leudelange,Canton Esch,7483.0,white,Lemaître,Esch,49.4969,5.9806
+M,35,Luxembourg,Differdange,Canton Esch,2968.0,black,Cools,Esch,49.4969,5.9806
+M,79,Portugal,Bertrange,Canton Luxembourg,0.0,white,Simões,Luxembourg,49.6117,6.1319
+M,19,Luxembourg,Junglinster,Canton Grevenmacher,1244.0,black,Geeraerts,Grevenmacher,49.6806,6.4417
+M,25,Portugal,Luxembourg,Canton Luxembourg,7460.0,white,Lopes,Luxembourg,49.6117,6.1319
+F,56,Luxembourg,Beaufort,Canton Echternach,2082.0,white,Hendrickx,Echternach,49.8117,6.4217
+M,41,Luxembourg,Habscht,Canton Capellen,9139.0,white,Celis,Capellen,49.6444,5.9897
+F,38,Luxembourg,Steinsel,Canton Luxembourg,1560.0,white,De Wit,Luxembourg,49.6117,6.1319
+F,73,Portugal,Helperknapp,Canton Mersch,0.0,white,Lourenço,Mersch,49.75,6.1
+F,37,Luxembourg,Préizerdaul,Canton Redange,1365.0,white,Barthelemy,Redange,49.7652,5.8894
+M,52,Luxembourg,Frisange,Canton Esch,7628.0,white,Gautier,Esch,49.4969,5.9806
+M,39,Italy,Lorentzweiler,Canton Mersch,12726.0,white,Grassi,Mersch,49.75,6.1
+F,80,Portugal,Käerjeng,Canton Capellen,0.0,white,Morais,Capellen,49.6444,5.9897
+F,45,Ukraine,Heffingen,Canton Mersch,3858.0,white,Ісаєнко,Mersch,49.75,6.1
+M,59,Portugal,Sanem,Canton Esch,3142.0,white,Morais,Esch,49.4969,5.9806
+M,36,Luxembourg,Pétange,Canton Esch,2528.0,latino,Peltier,Esch,49.4969,5.9806
+M,35,Portugal,Esch-sur-Alzette,Canton Esch,6803.0,white,Carneiro,Esch,49.4969,5.9806
+M,41,Italy,Esch-sur-Alzette,Canton Esch,2303.0,white,Rossi,Esch,49.4969,5.9806
+F,45,Luxembourg,Mondercange,Canton Esch,4580.0,white,Bigot,Esch,49.4969,5.9806
+F,58,Luxembourg,Steinsel,Canton Luxembourg,8560.0,white,Hendrickx,Luxembourg,49.6117,6.1319
+F,34,Luxembourg,Sanem,Canton Esch,1642.0,white,De Coninck,Esch,49.4969,5.9806
+F,48,Luxembourg,Luxembourg,Canton Luxembourg,2960.0,black,Verstraete,Luxembourg,49.6117,6.1319
+F,46,Luxembourg,Esch-sur-Alzette,Canton Esch,2303.0,black,Étienne,Esch,49.4969,5.9806
+F,36,Portugal,Esch-sur-Alzette,Canton Esch,2803.0,white,Oliveira,Esch,49.4969,5.9806
+F,27,Luxembourg,Strassen,Canton Luxembourg,15087.0,latino,Duval,Luxembourg,49.6117,6.1319
+M,57,Luxembourg,Wincrange,Canton Clervaux,4032.0,black,Van Damme,Clervaux,50.05,6.0333
+F,63,Luxembourg,Weiler-la-Tour,Canton Luxembourg,3857.0,latino,De Smet,Luxembourg,49.6117,6.1319
+F,56,Luxembourg,Luxembourg,Canton Luxembourg,5460.0,white,Van Rompaey,Luxembourg,49.6117,6.1319
+F,56,Italy,Esch-sur-Alzette,Canton Esch,2803.0,white,Galvani,Esch,49.4969,5.9806
+F,55,Portugal,Steinfort,Canton Capellen,18157.0,white,Campos,Capellen,49.6444,5.9897
+F,34,Luxembourg,Esch-sur-Sûre,Canton Wiltz,4524.0,black,Schmitt,Wiltz,49.9667,5.9333
+M,68,Luxembourg,Préizerdaul,Canton Redange,0.0,white,Fernandes,Redange,49.7652,5.8894
+M,29,Portugal,Differdange,Canton Esch,1968.0,white,Rocha,Esch,49.4969,5.9806
+M,50,Luxembourg,Kehlen,Canton Capellen,6207.0,white,Perrier,Capellen,49.6444,5.9897
+F,62,Luxembourg,Differdange,Canton Esch,1968.0,white,Cousin,Esch,49.4969,5.9806
+F,56,Luxembourg,Mersch,Canton Mersch,3555.0,white,Martins,Mersch,49.75,6.1
+F,64,Belgium,Helperknapp,Canton Mersch,10917.0,white,Mertens,Mersch,49.75,6.1
+F,43,Portugal,Beaufort,Canton Echternach,6582.0,white,Castro,Echternach,49.8117,6.4217
+F,55,Portugal,Differdange,Canton Esch,3468.0,white,Teixeira,Esch,49.4969,5.9806
+F,62,Luxembourg,Habscht,Canton Capellen,3139.0,white,Somers,Capellen,49.6444,5.9897
+M,92,Luxembourg,Luxembourg,Canton Luxembourg,0.0,black,Charles,Luxembourg,49.6117,6.1319
+F,39,Luxembourg,Luxembourg,Canton Luxembourg,7460.0,black,Guillaume,Luxembourg,49.6117,6.1319
+M,56,Luxembourg,Rumelange,Canton Esch,2904.0,white,Jacobs,Esch,49.4969,5.9806
+M,56,Luxembourg,Differdange,Canton Esch,4468.0,latino,Delahaye,Esch,49.4969,5.9806
+F,23,Luxembourg,Bourscheid,Canton Diekirch,2097.0,white,Bonte,Diekirch,49.8681,6.1567
+M,61,Luxembourg,Strassen,Canton Luxembourg,11587.0,white,Bruggeman,Luxembourg,49.6117,6.1319
+M,22,Italy,Mondorf-les-Bains,Canton Remich,1384.0,white,Lombroso,Remich,49.5444,6.3667
+F,70,Luxembourg,Lenningen,Canton Remich,0.0,white,Thys,Remich,49.5444,6.3667
+M,52,Italy,Kehlen,Canton Capellen,11207.0,white,Morandini,Capellen,49.6444,5.9897
+F,54,Luxembourg,Luxembourg,Canton Luxembourg,2460.0,white,Geuens,Luxembourg,49.6117,6.1319
+F,40,Luxembourg,Sanem,Canton Esch,3142.0,white,Leemans,Esch,49.4969,5.9806
+F,58,Luxembourg,Käerjeng,Canton Capellen,4641.0,white,Jacquet,Capellen,49.6444,5.9897
+F,82,Luxembourg,Feulen,Canton Diekirch,0.0,white,Van Gestel,Diekirch,49.8681,6.1567
+F,46,Luxembourg,Kehlen,Canton Capellen,6707.0,white,Andries,Capellen,49.6444,5.9897
+F,91,Luxembourg,Sanem,Canton Esch,0.0,white,De Block,Esch,49.4969,5.9806
+M,19,Luxembourg,Mamer,Canton Capellen,4701.0,latino,Valentin,Capellen,49.6444,5.9897
+M,51,Luxembourg,Kayl,Canton Esch,4616.0,black,Wauters,Esch,49.4969,5.9806
+F,18,Poland,Differdange,Canton Esch,3968.0,white,Waloch,Esch,49.4969,5.9806
+F,31,Luxembourg,Luxembourg,Canton Luxembourg,20960.0,white,Weiss,Luxembourg,49.6117,6.1319
+F,39,Netherlands,Betzdorf,Canton Grevenmacher,1625.0,white,Berendse,Grevenmacher,49.6806,6.4417
+F,47,Luxembourg,Luxembourg,Canton Luxembourg,5460.0,latino,Germain,Luxembourg,49.6117,6.1319
+F,27,Luxembourg,Luxembourg,Canton Luxembourg,5960.0,white,Camus,Luxembourg,49.6117,6.1319
+M,90,Spain,Rambrouch,Canton Redange,0.0,white,Cabezas,Redange,49.7652,5.8894
+F,51,Luxembourg,Manternach,Canton Grevenmacher,5380.0,black,Gay,Grevenmacher,49.6806,6.4417
+M,38,Luxembourg,Redange-sur-Attert,Canton Redange,,white,Van Hoof,Redange,49.7652,5.8894
+F,49,Luxembourg,Luxembourg,Canton Luxembourg,6460.0,white,Dierickx,Luxembourg,49.6117,6.1319
+M,19,France,Préizerdaul,Canton Redange,4865.0,black,Pottier,Redange,49.7652,5.8894
+M,60,Luxembourg,Pétange,Canton Esch,10028.0,white,Roche,Esch,49.4969,5.9806
+F,45,Luxembourg,Luxembourg,Canton Luxembourg,7960.0,white,Grégoire,Luxembourg,49.6117,6.1319
+M,33,Luxembourg,Mamer,Canton Capellen,20701.0,white,Andries,Capellen,49.6444,5.9897
+M,73,France,Habscht,Canton Capellen,0.0,white,Barbe,Capellen,49.6444,5.9897
+M,92,Portugal,Rambrouch,Canton Redange,0.0,white,Vicente,Redange,49.7652,5.8894
+M,68,Portugal,Dalheim,Canton Remich,0.0,white,Soares,Remich,49.5444,6.3667
+M,50,Luxembourg,Lenningen,Canton Remich,5568.0,white,Baetens,Remich,49.5444,6.3667
+F,53,Luxembourg,Weiswampach,Canton Clervaux,7512.0,white,Cuypers,Clervaux,50.05,6.0333
+F,62,Luxembourg,Esch-sur-Alzette,Canton Esch,1303.0,white,Peeters,Esch,49.4969,5.9806
+F,24,Luxembourg,Steinfort,Canton Capellen,5657.0,white,Riou,Capellen,49.6444,5.9897
+M,45,France,Bissen,Canton Mersch,3055.0,white,Raynaud,Mersch,49.75,6.1
+M,58,Portugal,Käerjeng,Canton Capellen,5641.0,white,Jesus,Capellen,49.6444,5.9897
+F,34,Luxembourg,Beaufort,Canton Echternach,11082.0,black,Poulain,Echternach,49.8117,6.4217
+F,56,Luxembourg,Kayl,Canton Esch,1616.0,white,De Wachter,Esch,49.4969,5.9806
+M,22,Luxembourg,Kayl,Canton Esch,3116.0,black,Verboven,Esch,49.4969,5.9806
+F,26,Luxembourg,Tandel,Canton Vianden,3153.0,black,Bouvet,Vianden,49.9336,6.2075
+M,24,Portugal,Niederanven,Canton Luxembourg,16955.0,white,Almeida,Luxembourg,49.6117,6.1319
+M,39,Ukraine,Käerjeng,Canton Capellen,4641.0,white,Бакуменко,Capellen,49.6444,5.9897
+M,55,France,Pétange,Canton Esch,3028.0,white,Andre,Esch,49.4969,5.9806
+M,44,France,Vallée de l'Ernz,Canton Diekirch,5597.0,white,Richard,Diekirch,49.8681,6.1567
+F,38,Luxembourg,Clervaux,Canton Clervaux,7479.0,white,Dillen,Clervaux,50.05,6.0333
+F,46,France,Consdorf,Canton Echternach,2063.0,white,Delmas,Echternach,49.8117,6.4217
+F,47,Italy,Luxembourg,Canton Luxembourg,2460.0,white,Juvara,Luxembourg,49.6117,6.1319
+F,52,Italy,Bettembourg,Canton Esch,5096.0,white,Paruta,Esch,49.4969,5.9806
+F,29,Portugal,Ettelbruck,Canton Diekirch,5862.0,white,Gonçalves,Diekirch,49.8681,6.1567
+M,49,Luxembourg,Luxembourg,Canton Luxembourg,2460.0,white,Vanneste,Luxembourg,49.6117,6.1319
+M,45,France,Rambrouch,Canton Redange,3046.0,black,Carre,Redange,49.7652,5.8894
+F,45,Luxembourg,Boulaide,Canton Wiltz,10895.0,white,Gay,Wiltz,49.9667,5.9333
+F,32,Luxembourg,Mersch,Canton Mersch,5555.0,white,Fournier,Mersch,49.75,6.1
+F,57,Luxembourg,Luxembourg,Canton Luxembourg,15460.0,black,Pauwels,Luxembourg,49.6117,6.1319
+M,53,Belgium,Ettelbruck,Canton Diekirch,3362.0,white,De Wolf,Diekirch,49.8681,6.1567
+F,22,Romania,Mondercange,Canton Esch,4580.0,white,Voinea,Esch,49.4969,5.9806
+M,73,Luxembourg,Clervaux,Canton Clervaux,0.0,white,Lombard,Clervaux,50.05,6.0333
+M,35,Belgium,Steinfort,Canton Capellen,1157.0,white,De Baere,Capellen,49.6444,5.9897
+M,62,Luxembourg,Steinfort,Canton Capellen,2657.0,white,Godard,Capellen,49.6444,5.9897
+M,20,Luxembourg,Mamer,Canton Capellen,8701.0,white,Lacroix,Capellen,49.6444,5.9897
+F,48,Luxembourg,Rumelange,Canton Esch,2404.0,latino,Delahaye,Esch,49.4969,5.9806
+F,38,Luxembourg,Colmar-Berg,Canton Mersch,3224.0,white,Lopez,Mersch,49.75,6.1
+M,45,Luxembourg,Luxembourg,Canton Luxembourg,9960.0,white,Willems,Luxembourg,49.6117,6.1319
+F,69,Portugal,Luxembourg,Canton Luxembourg,0.0,white,Carneiro,Luxembourg,49.6117,6.1319
+M,51,Luxembourg,Wiltz,Canton Wiltz,3333.0,white,Geerts,Wiltz,49.9667,5.9333
+M,19,Luxembourg,Bissen,Canton Mersch,3055.0,white,Barre,Mersch,49.75,6.1
+F,21,Luxembourg,Ettelbruck,Canton Diekirch,862.0,black,Peeters,Diekirch,49.8681,6.1567
+M,38,Luxembourg,Mertert,Canton Grevenmacher,8508.0,black,Goris,Grevenmacher,49.6806,6.4417
+F,55,Luxembourg,Luxembourg,Canton Luxembourg,1960.0,white,Tanghe,Luxembourg,49.6117,6.1319
+M,73,Portugal,Luxembourg,Canton Luxembourg,0.0,white,Machado,Luxembourg,49.6117,6.1319
+F,25,Luxembourg,Differdange,Canton Esch,4968.0,white,Arnaud,Esch,49.4969,5.9806
+F,29,Luxembourg,Remich,Canton Remich,3288.0,white,Ali,Remich,49.5444,6.3667
+M,60,Luxembourg,Luxembourg,Canton Luxembourg,10460.0,white,Van Damme,Luxembourg,49.6117,6.1319
+F,54,Luxembourg,Pétange,Canton Esch,1528.0,white,De Backer,Esch,49.4969,5.9806
+F,68,Portugal,Erpeldange-sur-Sûre,Canton Diekirch,0.0,white,Henriques,Diekirch,49.8681,6.1567
+M,76,Luxembourg,Pétange,Canton Esch,0.0,white,Lopez,Esch,49.4969,5.9806
+F,30,Italy,Dudelange,Canton Esch,4453.0,white,Maffei,Esch,49.4969,5.9806
+M,52,Portugal,Esch-sur-Alzette,Canton Esch,6303.0,white,Carvalho,Esch,49.4969,5.9806
+M,28,Luxembourg,Mamer,Canton Capellen,4201.0,black,Nelissen,Capellen,49.6444,5.9897
+F,34,Luxembourg,Schifflange,Canton Esch,6042.0,white,Poppe,Esch,49.4969,5.9806
+M,60,Italy,Steinfort,Canton Capellen,4657.0,white,Emanuelli,Capellen,49.6444,5.9897
+F,22,Italy,Wormeldange,Canton Grevenmacher,5322.0,white,Antonelli,Grevenmacher,49.6806,6.4417
+F,30,France,Luxembourg,Canton Luxembourg,6460.0,white,Jacques,Luxembourg,49.6117,6.1319
+F,31,Luxembourg,Esch-sur-Alzette,Canton Esch,3303.0,latino,Navarro,Esch,49.4969,5.9806
+F,37,Luxembourg,Feulen,Canton Diekirch,1342.0,white,Devaux,Diekirch,49.8681,6.1567
+M,70,India,Pétange,Canton Esch,0.0,south asians,Ramesh,Esch,49.4969,5.9806
+M,61,France,Luxembourg,Canton Luxembourg,9460.0,black,Moreau,Luxembourg,49.6117,6.1319
+M,61,Luxembourg,Differdange,Canton Esch,2968.0,white,Berger,Esch,49.4969,5.9806
+M,39,Luxembourg,Sanem,Canton Esch,14142.0,white,De Wilde,Esch,49.4969,5.9806
+M,39,Luxembourg,Echternach,Canton Echternach,1223.0,latino,Verelst,Echternach,49.8117,6.4217
+F,58,Luxembourg,Pétange,Canton Esch,2028.0,white,Segers,Esch,49.4969,5.9806
+F,62,Luxembourg,Hesperange,Canton Luxembourg,7154.0,white,Nicolas,Luxembourg,49.6117,6.1319
+M,30,Luxembourg,Luxembourg,Canton Luxembourg,18460.0,white,Dhondt,Luxembourg,49.6117,6.1319
+M,59,Luxembourg,Luxembourg,Canton Luxembourg,3460.0,white,Vincent,Luxembourg,49.6117,6.1319
+M,81,Luxembourg,Bertrange,Canton Luxembourg,0.0,white,Martin,Luxembourg,49.6117,6.1319
+M,41,Luxembourg,Dudelange,Canton Esch,3953.0,white,Gérard,Esch,49.4969,5.9806
+F,36,Portugal,Luxembourg,Canton Luxembourg,10460.0,white,Henriques,Luxembourg,49.6117,6.1319
+M,20,Luxembourg,Redange-sur-Attert,Canton Redange,,white,Vandaele,Redange,49.7652,5.8894
+M,69,Portugal,Clervaux,Canton Clervaux,0.0,white,Moreira,Clervaux,50.05,6.0333
+F,43,Luxembourg,Esch-sur-Alzette,Canton Esch,7303.0,white,Cools,Esch,49.4969,5.9806
+M,75,Luxembourg,Bettembourg,Canton Esch,0.0,white,Perez,Esch,49.4969,5.9806
+M,32,Italy,Flaxweiler,Canton Grevenmacher,3266.0,white,Beffa,Grevenmacher,49.6806,6.4417
+F,73,Luxembourg,Mersch,Canton Mersch,0.0,latino,Carlier,Mersch,49.75,6.1
+F,33,Luxembourg,Sanem,Canton Esch,10142.0,latino,Moons,Esch,49.4969,5.9806
+M,61,Luxembourg,Luxembourg,Canton Luxembourg,8960.0,latino,Foucher,Luxembourg,49.6117,6.1319
+M,65,India,Sanem,Canton Esch,0.0,south asians,Bala,Esch,49.4969,5.9806
+M,61,Luxembourg,Luxembourg,Canton Luxembourg,3460.0,black,Texier,Luxembourg,49.6117,6.1319
+M,62,Germany,Luxembourg,Canton Luxembourg,6960.0,white,Junitz,Luxembourg,49.6117,6.1319
+M,22,Luxembourg,Ettelbruck,Canton Diekirch,1862.0,white,Boone,Diekirch,49.8681,6.1567
+M,40,Luxembourg,Luxembourg,Canton Luxembourg,7460.0,white,Dillen,Luxembourg,49.6117,6.1319
+F,43,France,Vallée de l'Ernz,Canton Diekirch,3097.0,black,Grenier,Diekirch,49.8681,6.1567
+M,62,Portugal,Pétange,Canton Esch,4028.0,white,Borges,Esch,49.4969,5.9806
+M,60,Portugal,Differdange,Canton Esch,3468.0,white,Matias,Esch,49.4969,5.9806
+M,18,Luxembourg,Esch-sur-Alzette,Canton Esch,7303.0,white,Hanssens,Esch,49.4969,5.9806
+F,19,France,Dippach,Canton Capellen,10666.0,black,Torres,Capellen,49.6444,5.9897
+F,58,Portugal,Walferdange,Canton Luxembourg,6145.0,white,Pinto,Luxembourg,49.6117,6.1319
+M,28,Luxembourg,Walferdange,Canton Luxembourg,7645.0,white,Neirynck,Luxembourg,49.6117,6.1319
+F,73,Luxembourg,Pétange,Canton Esch,0.0,white,Snauwaert,Esch,49.4969,5.9806
+M,54,Portugal,Mersch,Canton Mersch,10055.0,white,Borges,Mersch,49.75,6.1
+M,34,Luxembourg,Luxembourg,Canton Luxembourg,4460.0,black,Lemmens,Luxembourg,49.6117,6.1319
+F,77,Portugal,Luxembourg,Canton Luxembourg,0.0,white,Pinheiro,Luxembourg,49.6117,6.1319
+M,33,Luxembourg,Dalheim,Canton Remich,1040.0,latino,Peeters,Remich,49.5444,6.3667
+M,65,Portugal,Schengen,Canton Remich,0.0,white,Marques,Remich,49.5444,6.3667
+F,42,France,Strassen,Canton Luxembourg,7087.0,black,Étienne,Luxembourg,49.6117,6.1319
+M,39,Luxembourg,Diekirch,Canton Diekirch,1890.0,white,Aubry,Diekirch,49.8681,6.1567
+F,32,Portugal,Pétange,Canton Esch,2528.0,white,Marques,Esch,49.4969,5.9806
+M,81,France,Roeser,Canton Esch,0.0,black,Launay,Esch,49.4969,5.9806
+M,41,Luxembourg,Esch-sur-Alzette,Canton Esch,1803.0,white,Guyot,Esch,49.4969,5.9806
+F,76,Portugal,Esch-sur-Alzette,Canton Esch,0.0,white,Cardoso,Esch,49.4969,5.9806
+M,55,Spain,Betzdorf,Canton Grevenmacher,4125.0,white,Iglesias,Grevenmacher,49.6806,6.4417
+F,74,Italy,Esch-sur-Alzette,Canton Esch,0.0,white,Mengolo,Esch,49.4969,5.9806
+F,95,Luxembourg,Esch-sur-Alzette,Canton Esch,0.0,white,De Oliveira,Esch,49.4969,5.9806
+M,25,Luxembourg,Dudelange,Canton Esch,2453.0,white,Guillot,Esch,49.4969,5.9806
+M,68,Portugal,Junglinster,Canton Grevenmacher,0.0,white,Santos,Grevenmacher,49.6806,6.4417
+F,66,Luxembourg,Käerjeng,Canton Capellen,0.0,white,Boyer,Capellen,49.6444,5.9897
+M,19,Luxembourg,Dippach,Canton Capellen,1166.0,white,Bègue,Capellen,49.6444,5.9897
+M,22,Belgium,Luxembourg,Canton Luxembourg,4960.0,white,Vanderstraeten,Luxembourg,49.6117,6.1319
+M,69,France,Esch-sur-Alzette,Canton Esch,0.0,white,Legros,Esch,49.4969,5.9806
+F,39,Luxembourg,Differdange,Canton Esch,1468.0,white,De Bie,Esch,49.4969,5.9806
+F,66,Luxembourg,Beckerich,Canton Redange,0.0,black,Huysmans,Redange,49.7652,5.8894
+F,53,Luxembourg,Steinfort,Canton Capellen,12157.0,white,Demuynck,Capellen,49.6444,5.9897
+F,27,Luxembourg,Hesperange,Canton Luxembourg,5154.0,white,Stas,Luxembourg,49.6117,6.1319
+F,54,Luxembourg,Luxembourg,Canton Luxembourg,3460.0,latino,Maurice,Luxembourg,49.6117,6.1319
+F,86,Ukraine,Grevenmacher,Canton Grevenmacher,0.0,white,Яремко,Grevenmacher,49.6806,6.4417
+F,72,Luxembourg,Schifflange,Canton Esch,0.0,white,D'Hondt,Esch,49.4969,5.9806
+F,21,Luxembourg,Flaxweiler,Canton Grevenmacher,1766.0,white,Gérard,Grevenmacher,49.6806,6.4417
+M,52,Luxembourg,Steinsel,Canton Luxembourg,3060.0,white,Peeters,Luxembourg,49.6117,6.1319
+F,63,Luxembourg,Luxembourg,Canton Luxembourg,10460.0,white,Salmon,Luxembourg,49.6117,6.1319
+F,22,Luxembourg,Luxembourg,Canton Luxembourg,7960.0,white,Carlier,Luxembourg,49.6117,6.1319
+M,54,Portugal,Dalheim,Canton Remich,2540.0,white,Marques,Remich,49.5444,6.3667
+M,57,Luxembourg,Esch-sur-Alzette,Canton Esch,7803.0,white,Callens,Esch,49.4969,5.9806
+M,41,Portugal,Dudelange,Canton Esch,2953.0,white,Esteves,Esch,49.4969,5.9806
+M,37,Portugal,Luxembourg,Canton Luxembourg,5960.0,white,Barbosa,Luxembourg,49.6117,6.1319
+M,77,Luxembourg,Echternach,Canton Echternach,0.0,white,Leysen,Echternach,49.8117,6.4217
+M,37,Luxembourg,Luxembourg,Canton Luxembourg,26960.0,white,Diaz,Luxembourg,49.6117,6.1319
+F,59,France,Kopstal,Canton Capellen,16892.0,white,François,Capellen,49.6444,5.9897
+M,27,Luxembourg,Luxembourg,Canton Luxembourg,1460.0,white,Hermans,Luxembourg,49.6117,6.1319
+F,36,Luxembourg,Esch-sur-Alzette,Canton Esch,2303.0,white,Dupré,Esch,49.4969,5.9806
+M,38,Portugal,Larochette,Canton Mersch,951.0,white,Cunha,Mersch,49.75,6.1
+M,70,Luxembourg,Habscht,Canton Capellen,0.0,latino,Lopez,Capellen,49.6444,5.9897
+F,68,Luxembourg,Sanem,Canton Esch,0.0,white,De Wachter,Esch,49.4969,5.9806
+F,20,Portugal,Hesperange,Canton Luxembourg,8154.0,white,Esteves,Luxembourg,49.6117,6.1319
+F,51,Luxembourg,Wiltz,Canton Wiltz,5833.0,white,Lévêque,Wiltz,49.9667,5.9333
+M,18,Luxembourg,Bertrange,Canton Luxembourg,15587.0,white,De Decker,Luxembourg,49.6117,6.1319
+F,18,Portugal,Weiswampach,Canton Clervaux,3012.0,white,Barbosa,Clervaux,50.05,6.0333
+M,22,Sweden,Differdange,Canton Esch,4468.0,white,Nilsson,Esch,49.4969,5.9806
+F,43,Luxembourg,Kehlen,Canton Capellen,4707.0,latino,Delaunay,Capellen,49.6444,5.9897
+F,60,Luxembourg,Mamer,Canton Capellen,6201.0,white,Celis,Capellen,49.6444,5.9897
+F,52,Belgium,Esch-sur-Sûre,Canton Wiltz,6024.0,white,Meersman,Wiltz,49.9667,5.9333
+M,74,Luxembourg,Hesperange,Canton Luxembourg,0.0,black,De Bruyn,Luxembourg,49.6117,6.1319
+M,64,Portugal,Clervaux,Canton Clervaux,3979.0,white,Jesus,Clervaux,50.05,6.0333
+F,59,Luxembourg,Bertrange,Canton Luxembourg,1087.0,latino,Lelièvre,Luxembourg,49.6117,6.1319
+M,26,Luxembourg,Mamer,Canton Capellen,16201.0,white,Guibert,Capellen,49.6444,5.9897
+F,57,Luxembourg,Lintgen,Canton Mersch,2616.0,black,Weber,Mersch,49.75,6.1
+M,46,Luxembourg,Luxembourg,Canton Luxembourg,960.0,white,Geerts,Luxembourg,49.6117,6.1319
+M,49,Belgium,Bettembourg,Canton Esch,4596.0,white,Verhelst,Esch,49.4969,5.9806
+M,49,Luxembourg,Ettelbruck,Canton Diekirch,7362.0,white,Techer,Diekirch,49.8681,6.1567
+M,21,Luxembourg,Frisange,Canton Esch,10628.0,white,Desmet,Esch,49.4969,5.9806
+F,35,Luxembourg,Käerjeng,Canton Capellen,8141.0,latino,Hoarau,Capellen,49.6444,5.9897
+M,79,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Bertrand,Luxembourg,49.6117,6.1319
+F,34,Luxembourg,Mondercange,Canton Esch,4080.0,white,Rousset,Esch,49.4969,5.9806
+F,36,Portugal,Kopstal,Canton Capellen,4392.0,white,Nunes,Capellen,49.6444,5.9897
+F,60,Luxembourg,Rambrouch,Canton Redange,4546.0,white,Pichon,Redange,49.7652,5.8894
+F,63,United Kingdom,Esch-sur-Alzette,Canton Esch,3303.0,white,Thompson,Esch,49.4969,5.9806
+M,58,Ukraine,Rambrouch,Canton Redange,5046.0,white,Рябченко,Redange,49.7652,5.8894
+F,42,Luxembourg,Pétange,Canton Esch,5028.0,white,Morin,Esch,49.4969,5.9806
+M,40,Luxembourg,Dudelange,Canton Esch,1953.0,white,Demeyere,Esch,49.4969,5.9806
+F,63,Ukraine,Bertrange,Canton Luxembourg,6587.0,white,Ванченко,Luxembourg,49.6117,6.1319
+M,24,Sweden,Hesperange,Canton Luxembourg,6154.0,white,Franzén,Luxembourg,49.6117,6.1319
+F,84,Portugal,Mondorf-les-Bains,Canton Remich,0.0,white,Paiva,Remich,49.5444,6.3667
+M,31,Luxembourg,Wincrange,Canton Clervaux,10532.0,white,Texier,Clervaux,50.05,6.0333
+M,47,Luxembourg,Luxembourg,Canton Luxembourg,20460.0,latino,Van Looveren,Luxembourg,49.6117,6.1319
+M,30,Luxembourg,Luxembourg,Canton Luxembourg,1960.0,black,Da Costa,Luxembourg,49.6117,6.1319
+M,19,Luxembourg,Erpeldange-sur-Sûre,Canton Diekirch,6645.0,latino,Thys,Diekirch,49.8681,6.1567
+F,61,Luxembourg,Bettembourg,Canton Esch,4096.0,white,Grondin,Esch,49.4969,5.9806
+M,60,Luxembourg,Echternach,Canton Echternach,4223.0,white,Ooms,Echternach,49.8117,6.4217
+M,34,Portugal,Luxembourg,Canton Luxembourg,7460.0,white,Correia,Luxembourg,49.6117,6.1319
+F,46,Luxembourg,Walferdange,Canton Luxembourg,4145.0,white,De Cuyper,Luxembourg,49.6117,6.1319
+M,44,Belgium,Strassen,Canton Luxembourg,10587.0,white,Janssen,Luxembourg,49.6117,6.1319
+M,55,Luxembourg,Luxembourg,Canton Luxembourg,9960.0,white,Lesage,Luxembourg,49.6117,6.1319
+M,54,Luxembourg,Dudelange,Canton Esch,3453.0,white,Gielen,Esch,49.4969,5.9806
+M,43,Ukraine,Lac de la Haute-Sûre,Canton Wiltz,4542.0,white,Овсієнко,Wiltz,49.9667,5.9333
+F,56,Luxembourg,Grevenmacher,Canton Grevenmacher,3361.0,latino,De Clercq,Grevenmacher,49.6806,6.4417
+F,59,Luxembourg,Steinsel,Canton Luxembourg,4060.0,white,Verheyen,Luxembourg,49.6117,6.1319
+F,39,Luxembourg,Kayl,Canton Esch,8616.0,white,Van Dessel,Esch,49.4969,5.9806
+F,36,Belgium,Schifflange,Canton Esch,1042.0,white,Roels,Esch,49.4969,5.9806
+M,45,Belgium,Strassen,Canton Luxembourg,11087.0,white,Pieters,Luxembourg,49.6117,6.1319
+F,87,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Daniel,Luxembourg,49.6117,6.1319
+F,64,Brazil,Luxembourg,Canton Luxembourg,2960.0,latino,Moreira,Luxembourg,49.6117,6.1319
+M,66,Luxembourg,Luxembourg,Canton Luxembourg,0.0,latino,Malfait,Luxembourg,49.6117,6.1319
+F,66,Luxembourg,Waldbillig,Canton Echternach,0.0,white,De Backer,Echternach,49.8117,6.4217
+F,80,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Geerts,Luxembourg,49.6117,6.1319
+M,60,Luxembourg,Luxembourg,Canton Luxembourg,2460.0,white,Jourdan,Luxembourg,49.6117,6.1319
+M,49,Luxembourg,Mondorf-les-Bains,Canton Remich,884.0,white,Op de Beeck,Remich,49.5444,6.3667
+F,67,Portugal,Koerich,Canton Capellen,0.0,white,Azevedo,Capellen,49.6444,5.9897
+M,30,Luxembourg,Schieren,Canton Diekirch,2219.0,latino,De Coster,Diekirch,49.8681,6.1567
+F,42,Luxembourg,Differdange,Canton Esch,3968.0,latino,Vermeersch,Esch,49.4969,5.9806
+M,60,Portugal,Flaxweiler,Canton Grevenmacher,2266.0,white,Pinho,Grevenmacher,49.6806,6.4417
+M,72,Luxembourg,Reckange-sur-Mess,Canton Esch,0.0,latino,Vandecasteele,Esch,49.4969,5.9806
+F,44,France,Walferdange,Canton Luxembourg,6645.0,white,Faure,Luxembourg,49.6117,6.1319
+M,58,Luxembourg,Differdange,Canton Esch,1968.0,latino,Barthelemy,Esch,49.4969,5.9806
+M,36,Luxembourg,Rosport-Mompach,Canton Echternach,1096.0,white,Joseph,Echternach,49.8117,6.4217
+F,64,Luxembourg,Luxembourg,Canton Luxembourg,6460.0,white,Simon,Luxembourg,49.6117,6.1319
+F,53,Portugal,Parc Hosingen,Canton Clervaux,5585.0,white,Brito,Clervaux,50.05,6.0333
+F,55,Portugal,Junglinster,Canton Grevenmacher,1244.0,white,Fernandes,Grevenmacher,49.6806,6.4417
+F,60,Italy,Schifflange,Canton Esch,2042.0,white,Mimun,Esch,49.4969,5.9806
+F,63,Luxembourg,Steinsel,Canton Luxembourg,4060.0,white,Imbert,Luxembourg,49.6117,6.1319
+M,58,Netherlands,Erpeldange-sur-Sûre,Canton Diekirch,3145.0,white,van den Velde,Diekirch,49.8681,6.1567
+M,80,Belgium,Roeser,Canton Esch,0.0,white,Claeys,Esch,49.4969,5.9806
+F,42,Luxembourg,Hesperange,Canton Luxembourg,9154.0,white,Gosselin,Luxembourg,49.6117,6.1319
+F,27,Luxembourg,Rumelange,Canton Esch,3904.0,white,Vandevelde,Esch,49.4969,5.9806
+M,48,Luxembourg,Frisange,Canton Esch,5128.0,white,Colpaert,Esch,49.4969,5.9806
+M,26,Italy,Steinsel,Canton Luxembourg,9560.0,white,Comboni,Luxembourg,49.6117,6.1319
+M,35,Luxembourg,Niederanven,Canton Luxembourg,5455.0,white,Bazin,Luxembourg,49.6117,6.1319
+F,61,Luxembourg,Roeser,Canton Esch,2132.0,white,Pierre,Esch,49.4969,5.9806
+F,22,Luxembourg,Luxembourg,Canton Luxembourg,2960.0,white,Van Loo,Luxembourg,49.6117,6.1319
+M,56,Luxembourg,Lenningen,Canton Remich,2568.0,white,Everaert,Remich,49.5444,6.3667
+M,53,Portugal,Sanem,Canton Esch,2642.0,white,Pinheiro,Esch,49.4969,5.9806
+F,35,Luxembourg,Schifflange,Canton Esch,3042.0,white,Verhoeven,Esch,49.4969,5.9806
+F,39,Luxembourg,Pétange,Canton Esch,3028.0,white,Van Assche,Esch,49.4969,5.9806
+M,18,Luxembourg,Walferdange,Canton Luxembourg,2145.0,latino,Pereira,Luxembourg,49.6117,6.1319
+M,55,Belgium,Luxembourg,Canton Luxembourg,7960.0,white,Degroote,Luxembourg,49.6117,6.1319
+F,55,Portugal,Differdange,Canton Esch,5468.0,white,Lourenço,Esch,49.4969,5.9806
+M,25,Luxembourg,Luxembourg,Canton Luxembourg,4460.0,white,De Backer,Luxembourg,49.6117,6.1319
+M,46,Luxembourg,Schifflange,Canton Esch,2042.0,black,Charrier,Esch,49.4969,5.9806
+F,54,Portugal,Luxembourg,Canton Luxembourg,2960.0,white,Campos,Luxembourg,49.6117,6.1319
+F,69,Italy,Bettembourg,Canton Esch,0.0,white,Ricci,Esch,49.4969,5.9806
+M,41,Italy,Useldange,Canton Redange,6396.0,white,Toninelli,Redange,49.7652,5.8894
+M,50,Luxembourg,Luxembourg,Canton Luxembourg,4460.0,white,Lefort,Luxembourg,49.6117,6.1319
+M,40,Luxembourg,Ettelbruck,Canton Diekirch,4362.0,latino,Vaes,Diekirch,49.8681,6.1567
+F,65,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Prévost,Luxembourg,49.6117,6.1319
+M,50,Luxembourg,Luxembourg,Canton Luxembourg,1960.0,black,Meeus,Luxembourg,49.6117,6.1319
+F,41,Luxembourg,Schifflange,Canton Esch,5542.0,white,Leconte,Esch,49.4969,5.9806
+M,77,United Kingdom,Lorentzweiler,Canton Mersch,0.0,white,Smith,Mersch,49.75,6.1
+F,40,Luxembourg,Parc Hosingen,Canton Clervaux,5585.0,white,Gilles,Clervaux,50.05,6.0333
+F,86,Romania,Strassen,Canton Luxembourg,0.0,white,Dobre,Luxembourg,49.6117,6.1319
+M,55,Luxembourg,Esch-sur-Sûre,Canton Wiltz,3524.0,white,Hermans,Wiltz,49.9667,5.9333
+F,77,Luxembourg,Bertrange,Canton Luxembourg,0.0,latino,Verhelst,Luxembourg,49.6117,6.1319
+M,21,Romania,Niederanven,Canton Luxembourg,2455.0,white,Ababei,Luxembourg,49.6117,6.1319
+M,18,Luxembourg,Consdorf,Canton Echternach,8563.0,white,Vercauteren,Echternach,49.8117,6.4217
+F,65,Luxembourg,Differdange,Canton Esch,0.0,white,Van den Bergh,Esch,49.4969,5.9806
+F,41,Luxembourg,Mertert,Canton Grevenmacher,3508.0,white,Diaz,Grevenmacher,49.6806,6.4417
+M,30,Portugal,Wincrange,Canton Clervaux,1032.0,white,Cardoso,Clervaux,50.05,6.0333
+F,68,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Verstraete,Luxembourg,49.6117,6.1319
+M,52,Portugal,Luxembourg,Canton Luxembourg,2460.0,white,Silva,Luxembourg,49.6117,6.1319
+F,27,Luxembourg,Sanem,Canton Esch,5642.0,latino,Timmerman,Esch,49.4969,5.9806
+M,45,Luxembourg,Niederanven,Canton Luxembourg,4455.0,white,Laporte,Luxembourg,49.6117,6.1319
+F,67,Luxembourg,Contern,Canton Luxembourg,0.0,white,Michielsen,Luxembourg,49.6117,6.1319
+F,19,Portugal,Manternach,Canton Grevenmacher,3880.0,white,Ribeiro,Grevenmacher,49.6806,6.4417
+F,41,Luxembourg,Dudelange,Canton Esch,12453.0,white,David,Esch,49.4969,5.9806
+F,22,Luxembourg,Luxembourg,Canton Luxembourg,1960.0,white,Casier,Luxembourg,49.6117,6.1319
+F,31,Luxembourg,Differdange,Canton Esch,2968.0,white,De Smet,Esch,49.4969,5.9806
+M,58,France,Kehlen,Canton Capellen,5207.0,white,Boyer,Capellen,49.6444,5.9897
+F,41,Luxembourg,Kopstal,Canton Capellen,7392.0,white,Schepens,Capellen,49.6444,5.9897
+F,63,France,Pétange,Canton Esch,3028.0,white,Traore,Esch,49.4969,5.9806
+F,87,France,Sanem,Canton Esch,0.0,white,Noël,Esch,49.4969,5.9806
+M,39,France,Luxembourg,Canton Luxembourg,6960.0,white,Rousseau,Luxembourg,49.6117,6.1319
+F,28,Portugal,Luxembourg,Canton Luxembourg,2960.0,white,Lourenço,Luxembourg,49.6117,6.1319
+F,60,France,Luxembourg,Canton Luxembourg,15460.0,black,Bouvier,Luxembourg,49.6117,6.1319
+F,58,Luxembourg,Differdange,Canton Esch,3968.0,white,Blanc,Esch,49.4969,5.9806
+F,25,Portugal,Differdange,Canton Esch,7468.0,white,Coelho,Esch,49.4969,5.9806
+F,38,Luxembourg,Luxembourg,Canton Luxembourg,5960.0,latino,Texier,Luxembourg,49.6117,6.1319
+M,59,Luxembourg,Schifflange,Canton Esch,6542.0,white,Faivre,Esch,49.4969,5.9806
+F,27,Luxembourg,Diekirch,Canton Diekirch,2890.0,white,De Vos,Diekirch,49.8681,6.1567
+F,69,Luxembourg,Esch-sur-Alzette,Canton Esch,0.0,latino,Ferreira,Esch,49.4969,5.9806
+F,31,Luxembourg,Luxembourg,Canton Luxembourg,5460.0,white,Bonnet,Luxembourg,49.6117,6.1319
+F,32,Luxembourg,Bettembourg,Canton Esch,3096.0,white,De Pauw,Esch,49.4969,5.9806
+F,65,France,Luxembourg,Canton Luxembourg,0.0,black,Daniel,Luxembourg,49.6117,6.1319
+M,34,Belgium,Luxembourg,Canton Luxembourg,4960.0,white,Casteleyn,Luxembourg,49.6117,6.1319
+M,65,Luxembourg,Dudelange,Canton Esch,0.0,white,Duhamel,Esch,49.4969,5.9806
+M,34,Luxembourg,Weiswampach,Canton Clervaux,2012.0,white,Berthelot,Clervaux,50.05,6.0333
+M,50,Luxembourg,Schifflange,Canton Esch,2542.0,white,Pottier,Esch,49.4969,5.9806
+F,63,Sweden,Luxembourg,Canton Luxembourg,3960.0,white,Hellström,Luxembourg,49.6117,6.1319
+F,26,Italy,Schieren,Canton Diekirch,3719.0,white,Pellico,Diekirch,49.8681,6.1567
+F,54,Portugal,Wiltz,Canton Wiltz,2833.0,white,Henriques,Wiltz,49.9667,5.9333
+F,47,Luxembourg,Stadtbredimus,Canton Remich,11568.0,white,Decoster,Remich,49.5444,6.3667
+F,53,Italy,Wiltz,Canton Wiltz,4833.0,white,Argentero,Wiltz,49.9667,5.9333
+F,29,Luxembourg,Schuttrange,Canton Luxembourg,16544.0,black,Bertrand,Luxembourg,49.6117,6.1319
+M,44,Luxembourg,Waldbillig,Canton Echternach,3550.0,black,Blondel,Echternach,49.8117,6.4217
+M,83,Belgium,Sanem,Canton Esch,0.0,white,Simons,Esch,49.4969,5.9806
+F,36,France,Luxembourg,Canton Luxembourg,1460.0,black,Normand,Luxembourg,49.6117,6.1319
+F,36,Luxembourg,Bourscheid,Canton Diekirch,5097.0,white,Aerts,Diekirch,49.8681,6.1567
+M,61,Luxembourg,Luxembourg,Canton Luxembourg,1960.0,white,Engels,Luxembourg,49.6117,6.1319
+M,58,France,Mamer,Canton Capellen,6201.0,white,Maillet,Capellen,49.6444,5.9897
+F,27,Luxembourg,Hesperange,Canton Luxembourg,2154.0,latino,Poulain,Luxembourg,49.6117,6.1319
+F,80,Belgium,Esch-sur-Alzette,Canton Esch,0.0,white,Vanhoutte,Esch,49.4969,5.9806
+M,89,France,Dudelange,Canton Esch,0.0,black,Rousset,Esch,49.4969,5.9806
+M,23,Luxembourg,Dudelange,Canton Esch,2953.0,white,Rogiers,Esch,49.4969,5.9806
+M,72,United Kingdom,Lintgen,Canton Mersch,0.0,white,Williams,Mersch,49.75,6.1
+F,49,Luxembourg,Clervaux,Canton Clervaux,2979.0,white,De Ridder,Clervaux,50.05,6.0333
+F,62,Luxembourg,Luxembourg,Canton Luxembourg,960.0,white,Thijs,Luxembourg,49.6117,6.1319
+F,31,Luxembourg,Dudelange,Canton Esch,4953.0,latino,Auger,Esch,49.4969,5.9806
+M,54,Luxembourg,Luxembourg,Canton Luxembourg,16460.0,white,Colin,Luxembourg,49.6117,6.1319
+M,38,Luxembourg,Strassen,Canton Luxembourg,3087.0,white,Meyer,Luxembourg,49.6117,6.1319
+F,29,Luxembourg,Luxembourg,Canton Luxembourg,7960.0,white,Lejeune,Luxembourg,49.6117,6.1319
+M,74,Luxembourg,Roeser,Canton Esch,0.0,white,Delmas,Esch,49.4969,5.9806
+M,28,Luxembourg,Niederanven,Canton Luxembourg,6455.0,white,Regnier,Luxembourg,49.6117,6.1319
+F,61,Luxembourg,Differdange,Canton Esch,2468.0,white,Gevaert,Esch,49.4969,5.9806
+F,39,France,Luxembourg,Canton Luxembourg,6460.0,white,Mendès,Luxembourg,49.6117,6.1319
+M,80,France,Mersch,Canton Mersch,0.0,white,Faure,Mersch,49.75,6.1
+M,40,Italy,Roeser,Canton Esch,4132.0,white,Parmitano,Esch,49.4969,5.9806
+M,47,Luxembourg,Mersch,Canton Mersch,2555.0,white,Marin,Mersch,49.75,6.1
+F,32,France,Differdange,Canton Esch,3968.0,black,Lévêque,Esch,49.4969,5.9806
+F,54,Luxembourg,Kayl,Canton Esch,5616.0,latino,Godard,Esch,49.4969,5.9806
+M,64,Luxembourg,Luxembourg,Canton Luxembourg,15460.0,white,Léger,Luxembourg,49.6117,6.1319
+M,48,Luxembourg,Diekirch,Canton Diekirch,2890.0,white,Le Goff,Diekirch,49.8681,6.1567
+M,25,France,Käerjeng,Canton Capellen,9141.0,white,Regnier,Capellen,49.6444,5.9897
+F,60,Luxembourg,Sanem,Canton Esch,3642.0,white,Janssens,Esch,49.4969,5.9806
+F,42,Luxembourg,Mersch,Canton Mersch,4555.0,white,De Smet,Mersch,49.75,6.1
+F,73,Portugal,Bettembourg,Canton Esch,0.0,white,Fonseca,Esch,49.4969,5.9806
+F,21,Luxembourg,Walferdange,Canton Luxembourg,5645.0,white,Troch,Luxembourg,49.6117,6.1319
+M,52,United States of Ameria,Strassen,Canton Luxembourg,5087.0,white,Carlson,Luxembourg,49.6117,6.1319
+M,71,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Hardy,Luxembourg,49.6117,6.1319
+M,34,Luxembourg,Pétange,Canton Esch,7028.0,white,Heylen,Esch,49.4969,5.9806
+F,69,Portugal,Remich,Canton Remich,0.0,white,Nunes,Remich,49.5444,6.3667
+F,52,Italy,Luxembourg,Canton Luxembourg,10460.0,white,Grifeo,Luxembourg,49.6117,6.1319
+M,69,France,Feulen,Canton Diekirch,0.0,white,Brun,Diekirch,49.8681,6.1567
+F,54,Luxembourg,Luxembourg,Canton Luxembourg,4960.0,white,Segers,Luxembourg,49.6117,6.1319
+M,52,Luxembourg,Vianden,Canton Vianden,4039.0,white,Lefebvre,Vianden,49.9336,6.2075
+F,58,Portugal,Esch-sur-Alzette,Canton Esch,2803.0,white,Fonseca,Esch,49.4969,5.9806
+M,44,Portugal,Esch-sur-Alzette,Canton Esch,1303.0,white,Henriques,Esch,49.4969,5.9806
+M,45,Luxembourg,Wiltz,Canton Wiltz,2833.0,white,Legendre,Wiltz,49.9667,5.9333
+F,53,Portugal,Sanem,Canton Esch,1642.0,white,Pinheiro,Esch,49.4969,5.9806
+M,47,France,Sanem,Canton Esch,3142.0,black,Chauvet,Esch,49.4969,5.9806
+M,60,Hungary,Pétange,Canton Esch,2528.0,white,Nagy,Esch,49.4969,5.9806
+F,57,Luxembourg,Pétange,Canton Esch,4028.0,white,Henry,Esch,49.4969,5.9806
+F,63,Luxembourg,Dudelange,Canton Esch,6953.0,white,Guyon,Esch,49.4969,5.9806
+M,53,Portugal,Weiler-la-Tour,Canton Luxembourg,3357.0,white,Lima,Luxembourg,49.6117,6.1319
+M,65,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Raeymaekers,Luxembourg,49.6117,6.1319
+F,32,Luxembourg,Wiltz,Canton Wiltz,9333.0,white,Baudry,Wiltz,49.9667,5.9333
+F,45,Luxembourg,Rambrouch,Canton Redange,3546.0,white,Poirier,Redange,49.7652,5.8894
+F,41,Luxembourg,Kehlen,Canton Capellen,5707.0,white,Arnaud,Capellen,49.6444,5.9897
+F,82,Luxembourg,Sanem,Canton Esch,0.0,white,Weber,Esch,49.4969,5.9806
+M,64,Belgium,Ettelbruck,Canton Diekirch,7862.0,white,Verheyen,Diekirch,49.8681,6.1567
+M,69,Luxembourg,Dalheim,Canton Remich,0.0,white,Dubois,Remich,49.5444,6.3667
+F,27,Luxembourg,Esch-sur-Alzette,Canton Esch,7303.0,black,Lenaerts,Esch,49.4969,5.9806
+F,65,Belgium,Junglinster,Canton Grevenmacher,0.0,white,Peeters,Grevenmacher,49.6806,6.4417
+M,30,Luxembourg,Differdange,Canton Esch,1968.0,white,Govaerts,Esch,49.4969,5.9806
+M,56,Luxembourg,Walferdange,Canton Luxembourg,2645.0,white,Nijs,Luxembourg,49.6117,6.1319
+M,38,Ukraine,Luxembourg,Canton Luxembourg,1460.0,white,Павленко,Luxembourg,49.6117,6.1319
+F,59,France,Redange-sur-Attert,Canton Redange,,white,Maury,Redange,49.7652,5.8894
+F,55,France,Pétange,Canton Esch,4028.0,white,Marin,Esch,49.4969,5.9806
+M,65,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Gay,Luxembourg,49.6117,6.1319
+M,58,Italy,Schengen,Canton Remich,1539.0,white,Cilea,Remich,49.5444,6.3667
+M,33,Luxembourg,Lintgen,Canton Mersch,3116.0,white,Bonnin,Mersch,49.75,6.1
+M,40,France,Helperknapp,Canton Mersch,2917.0,white,Lefebvre,Mersch,49.75,6.1
+F,47,France,Niederanven,Canton Luxembourg,7955.0,white,Delattre,Luxembourg,49.6117,6.1319
+M,41,Luxembourg,Dudelange,Canton Esch,3453.0,white,Lebrun,Esch,49.4969,5.9806
+F,28,Luxembourg,Schifflange,Canton Esch,1542.0,white,Petitjean,Esch,49.4969,5.9806
+M,78,Luxembourg,Dudelange,Canton Esch,0.0,white,Lejeune,Esch,49.4969,5.9806
+M,36,Luxembourg,Luxembourg,Canton Luxembourg,2960.0,latino,Verhoeven,Luxembourg,49.6117,6.1319
+M,20,Luxembourg,Dudelange,Canton Esch,953.0,black,Poelmans,Esch,49.4969,5.9806
+F,57,Luxembourg,Helperknapp,Canton Mersch,2917.0,latino,Vereecke,Mersch,49.75,6.1
+F,58,Italy,Käerjeng,Canton Capellen,9641.0,white,Tron,Capellen,49.6444,5.9897
+F,19,Luxembourg,Beckerich,Canton Redange,5132.0,white,Fleury,Redange,49.7652,5.8894
+F,60,Luxembourg,Esch-sur-Alzette,Canton Esch,803.0,white,Gaillard,Esch,49.4969,5.9806
+F,52,Brazil,Sanem,Canton Esch,7142.0,latino,Jesus,Esch,49.4969,5.9806
+M,62,Luxembourg,Beaufort,Canton Echternach,4082.0,white,Hermans,Echternach,49.8117,6.4217
+F,29,Luxembourg,Luxembourg,Canton Luxembourg,7960.0,white,Huybrechts,Luxembourg,49.6117,6.1319
+F,32,Luxembourg,Luxembourg,Canton Luxembourg,5960.0,latino,Lombard,Luxembourg,49.6117,6.1319
+M,70,Luxembourg,Esch-sur-Alzette,Canton Esch,0.0,white,Philippe,Esch,49.4969,5.9806
+F,42,Portugal,Luxembourg,Canton Luxembourg,5460.0,white,Henriques,Luxembourg,49.6117,6.1319
+F,27,Luxembourg,Luxembourg,Canton Luxembourg,6460.0,black,Cools,Luxembourg,49.6117,6.1319
+F,27,Luxembourg,Pétange,Canton Esch,3528.0,white,Aubry,Esch,49.4969,5.9806
+M,22,Luxembourg,Kehlen,Canton Capellen,4207.0,white,Riou,Capellen,49.6444,5.9897
+F,25,Luxembourg,Walferdange,Canton Luxembourg,4145.0,latino,Fernandez,Luxembourg,49.6117,6.1319
+F,46,Luxembourg,Kopstal,Canton Capellen,14892.0,white,De Oliveira,Capellen,49.6444,5.9897
+M,58,Luxembourg,Pétange,Canton Esch,3028.0,white,Pottier,Esch,49.4969,5.9806
+M,22,Luxembourg,Differdange,Canton Esch,3468.0,latino,Devos,Esch,49.4969,5.9806
+F,31,Portugal,Helperknapp,Canton Mersch,2917.0,white,Alves,Mersch,49.75,6.1
+F,28,France,Mertert,Canton Grevenmacher,11008.0,white,Weber,Grevenmacher,49.6806,6.4417
+F,31,Luxembourg,Esch-sur-Sûre,Canton Wiltz,7524.0,white,Allain,Wiltz,49.9667,5.9333
+F,23,Luxembourg,Schieren,Canton Diekirch,4719.0,white,Andre,Diekirch,49.8681,6.1567
+M,31,Luxembourg,Bettembourg,Canton Esch,2096.0,white,Bernard,Esch,49.4969,5.9806
+F,51,Luxembourg,Kehlen,Canton Capellen,4207.0,latino,Van Dijck,Capellen,49.6444,5.9897
+M,61,Spain,Diekirch,Canton Diekirch,4890.0,white,Elorza,Diekirch,49.8681,6.1567
+F,31,Luxembourg,Koerich,Canton Capellen,13684.0,white,Verhaegen,Capellen,49.6444,5.9897
+M,23,Luxembourg,Beaufort,Canton Echternach,6082.0,white,Smits,Echternach,49.8117,6.4217
+M,32,Portugal,Luxembourg,Canton Luxembourg,4460.0,white,Antunes,Luxembourg,49.6117,6.1319
+F,59,Portugal,Luxembourg,Canton Luxembourg,3960.0,white,Antunes,Luxembourg,49.6117,6.1319
+F,61,Portugal,Niederanven,Canton Luxembourg,23955.0,white,Miranda,Luxembourg,49.6117,6.1319
+M,26,Luxembourg,Clervaux,Canton Clervaux,3979.0,white,De Cock,Clervaux,50.05,6.0333
+M,38,Netherlands,Sanem,Canton Esch,5642.0,white,Backer,Esch,49.4969,5.9806
+M,37,Luxembourg,Clervaux,Canton Clervaux,4479.0,black,De Coster,Clervaux,50.05,6.0333
+F,23,Luxembourg,Esch-sur-Alzette,Canton Esch,4303.0,white,Lippens,Esch,49.4969,5.9806
+F,49,Luxembourg,Luxembourg,Canton Luxembourg,18460.0,white,Vaillant,Luxembourg,49.6117,6.1319
+F,76,Belgium,Schuttrange,Canton Luxembourg,0.0,white,Declercq,Luxembourg,49.6117,6.1319
+M,19,France,Kayl,Canton Esch,5116.0,white,Becker,Esch,49.4969,5.9806
+M,81,Portugal,Differdange,Canton Esch,0.0,white,Branco,Esch,49.4969,5.9806
+M,28,France,Mertert,Canton Grevenmacher,2008.0,white,Bouvier,Grevenmacher,49.6806,6.4417
+M,46,Luxembourg,Pétange,Canton Esch,2028.0,white,Martens,Esch,49.4969,5.9806
+M,32,Luxembourg,Roeser,Canton Esch,13132.0,latino,Martin,Esch,49.4969,5.9806
+M,75,Luxembourg,Roeser,Canton Esch,0.0,white,Rocher,Esch,49.4969,5.9806
+F,36,Luxembourg,Niederanven,Canton Luxembourg,3455.0,white,Verbruggen,Luxembourg,49.6117,6.1319
+M,63,Portugal,Luxembourg,Canton Luxembourg,8960.0,white,Teixeira,Luxembourg,49.6117,6.1319
+F,30,Germany,Hesperange,Canton Luxembourg,7654.0,white,Riehl,Luxembourg,49.6117,6.1319
+M,31,Luxembourg,Pétange,Canton Esch,2528.0,white,Gosselin,Esch,49.4969,5.9806
+F,26,Luxembourg,Rambrouch,Canton Redange,2046.0,black,Maertens,Redange,49.7652,5.8894
+M,23,Portugal,Luxembourg,Canton Luxembourg,15460.0,white,Ramos,Luxembourg,49.6117,6.1319
+M,20,Germany,Luxembourg,Canton Luxembourg,5960.0,white,Schüler,Luxembourg,49.6117,6.1319
+F,54,Luxembourg,Bertrange,Canton Luxembourg,4587.0,latino,Daems,Luxembourg,49.6117,6.1319
+M,44,Netherlands,Mondercange,Canton Esch,8580.0,white,Zeemans,Esch,49.4969,5.9806
+M,54,Italy,Luxembourg,Canton Luxembourg,7960.0,white,Nolcini,Luxembourg,49.6117,6.1319
+F,40,Luxembourg,Ettelbruck,Canton Diekirch,4862.0,white,Lesage,Diekirch,49.8681,6.1567
+F,50,Luxembourg,Mertert,Canton Grevenmacher,3508.0,latino,Verfaillie,Grevenmacher,49.6806,6.4417
+F,69,Luxembourg,Differdange,Canton Esch,0.0,white,Beyens,Esch,49.4969,5.9806
+F,30,India,Hesperange,Canton Luxembourg,2154.0,south asians,Dixit,Luxembourg,49.6117,6.1319
+F,20,Portugal,Esch-sur-Sûre,Canton Wiltz,1524.0,white,Santos,Wiltz,49.9667,5.9333
+M,21,Luxembourg,Käerjeng,Canton Capellen,2141.0,white,Bertin,Capellen,49.6444,5.9897
+F,26,Luxembourg,Clervaux,Canton Clervaux,2479.0,latino,Riou,Clervaux,50.05,6.0333
+M,49,Luxembourg,Mamer,Canton Capellen,17201.0,latino,Pires,Capellen,49.6444,5.9897
+F,37,Portugal,Mersch,Canton Mersch,16055.0,white,Vicente,Mersch,49.75,6.1
+F,66,Portugal,Kopstal,Canton Capellen,0.0,white,Reis,Capellen,49.6444,5.9897
+M,34,Luxembourg,Roeser,Canton Esch,11132.0,white,Callens,Esch,49.4969,5.9806
+M,36,Luxembourg,Niederanven,Canton Luxembourg,5955.0,latino,Vansteenkiste,Luxembourg,49.6117,6.1319
+F,45,France,Sanem,Canton Esch,5142.0,white,Devaux,Esch,49.4969,5.9806
+M,54,Turkey,Biwer,Canton Grevenmacher,2984.0,turkish,Ertaş,Grevenmacher,49.6806,6.4417
+F,20,Portugal,Ettelbruck,Canton Diekirch,2862.0,white,Jesus,Diekirch,49.8681,6.1567
+F,59,Ireland,Helperknapp,Canton Mersch,1917.0,white,Wallace,Mersch,49.75,6.1
+F,48,Luxembourg,Dudelange,Canton Esch,7953.0,white,De Cock,Esch,49.4969,5.9806
+F,38,Luxembourg,Goesdorf,Canton Wiltz,8111.0,white,Fleury,Wiltz,49.9667,5.9333
+M,65,Portugal,Hesperange,Canton Luxembourg,0.0,white,Vieira,Luxembourg,49.6117,6.1319
+M,66,Ukraine,Biwer,Canton Grevenmacher,0.0,white,Фастенко,Grevenmacher,49.6806,6.4417
+F,55,Luxembourg,Luxembourg,Canton Luxembourg,2460.0,white,Dijoux,Luxembourg,49.6117,6.1319
+M,33,Luxembourg,Mersch,Canton Mersch,1055.0,white,Georges,Mersch,49.75,6.1
+M,45,Luxembourg,Käerjeng,Canton Capellen,1641.0,black,Yilmaz,Capellen,49.6444,5.9897
+F,70,Luxembourg,Esch-sur-Alzette,Canton Esch,0.0,latino,Roels,Esch,49.4969,5.9806
+F,83,Luxembourg,Esch-sur-Alzette,Canton Esch,0.0,white,Martel,Esch,49.4969,5.9806
+M,34,Luxembourg,Mondercange,Canton Esch,1580.0,white,Hendrickx,Esch,49.4969,5.9806
+M,66,Luxembourg,Luxembourg,Canton Luxembourg,0.0,latino,De Bruyn,Luxembourg,49.6117,6.1319
+M,59,Luxembourg,Mertzig,Canton Diekirch,8242.0,white,Goossens,Diekirch,49.8681,6.1567
+F,57,Luxembourg,Bettembourg,Canton Esch,5596.0,white,Imbert,Esch,49.4969,5.9806
+F,33,Luxembourg,Lorentzweiler,Canton Mersch,9726.0,white,Fouquet,Mersch,49.75,6.1
+M,45,Luxembourg,Beaufort,Canton Echternach,5582.0,white,Andre,Echternach,49.8117,6.4217
+F,29,Portugal,Dudelange,Canton Esch,3953.0,white,Correia,Esch,49.4969,5.9806
+M,33,Luxembourg,Luxembourg,Canton Luxembourg,4960.0,white,Fernandez,Luxembourg,49.6117,6.1319
+M,41,Luxembourg,Luxembourg,Canton Luxembourg,4460.0,white,Christiaens,Luxembourg,49.6117,6.1319
+F,43,Luxembourg,Bettembourg,Canton Esch,7096.0,white,Becker,Esch,49.4969,5.9806
+F,33,Portugal,Lac de la Haute-Sûre,Canton Wiltz,3542.0,white,Abreu,Wiltz,49.9667,5.9333
+M,22,Luxembourg,Mamer,Canton Capellen,12201.0,white,Martens,Capellen,49.6444,5.9897
+F,37,Luxembourg,Lac de la Haute-Sûre,Canton Wiltz,8042.0,white,Pelletier,Wiltz,49.9667,5.9333
+M,73,France,Sanem,Canton Esch,0.0,white,De Sousa,Esch,49.4969,5.9806
+M,43,Luxembourg,Strassen,Canton Luxembourg,2087.0,white,Claesen,Luxembourg,49.6117,6.1319
+F,53,Portugal,Luxembourg,Canton Luxembourg,5960.0,white,Almeida,Luxembourg,49.6117,6.1319
+F,37,Luxembourg,Helperknapp,Canton Mersch,3917.0,white,Rémy,Mersch,49.75,6.1
+M,60,Luxembourg,Feulen,Canton Diekirch,3342.0,white,Fleury,Diekirch,49.8681,6.1567
+F,25,France,Bertrange,Canton Luxembourg,6087.0,black,Bourdon,Luxembourg,49.6117,6.1319
+M,44,Portugal,Luxembourg,Canton Luxembourg,13960.0,white,Pinheiro,Luxembourg,49.6117,6.1319
+F,33,Luxembourg,Schifflange,Canton Esch,3542.0,white,Gros,Esch,49.4969,5.9806
+M,73,Italy,Luxembourg,Canton Luxembourg,0.0,white,Bellini,Luxembourg,49.6117,6.1319
+M,61,Luxembourg,Beaufort,Canton Echternach,10082.0,white,Michel,Echternach,49.8117,6.4217
+F,82,Luxembourg,Sanem,Canton Esch,0.0,black,Lecomte,Esch,49.4969,5.9806
+M,18,Luxembourg,Kehlen,Canton Capellen,1207.0,white,Slegers,Capellen,49.6444,5.9897
+M,49,Portugal,Bissen,Canton Mersch,3055.0,white,Machado,Mersch,49.75,6.1
+F,85,Portugal,Remich,Canton Remich,0.0,white,Ferreira,Remich,49.5444,6.3667
+F,95,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Van Rompaey,Luxembourg,49.6117,6.1319
+M,76,Luxembourg,Garnich,Canton Capellen,0.0,white,Houben,Capellen,49.6444,5.9897
+F,72,Luxembourg,Pétange,Canton Esch,0.0,white,Coulon,Esch,49.4969,5.9806
+F,54,France,Luxembourg,Canton Luxembourg,5960.0,black,Rocher,Luxembourg,49.6117,6.1319
+M,48,Portugal,Pétange,Canton Esch,2028.0,white,Tavares,Esch,49.4969,5.9806
+F,39,Luxembourg,Mondercange,Canton Esch,3580.0,white,Diaz,Esch,49.4969,5.9806
+F,79,Spain,Mamer,Canton Capellen,0.0,white,Albero,Capellen,49.6444,5.9897
+F,29,Luxembourg,Luxembourg,Canton Luxembourg,8460.0,white,Dupont,Luxembourg,49.6117,6.1319
+F,76,Portugal,Mertert,Canton Grevenmacher,0.0,white,Henriques,Grevenmacher,49.6806,6.4417
+M,75,France,Luxembourg,Canton Luxembourg,0.0,white,Mary,Luxembourg,49.6117,6.1319
+M,32,France,Differdange,Canton Esch,3968.0,white,Gallet,Esch,49.4969,5.9806
+F,31,Luxembourg,Käerjeng,Canton Capellen,1141.0,white,Toussaint,Capellen,49.6444,5.9897
+M,24,Luxembourg,Garnich,Canton Capellen,4243.0,white,Pichon,Capellen,49.6444,5.9897
+M,66,Luxembourg,Schifflange,Canton Esch,0.0,white,Verdonck,Esch,49.4969,5.9806
+F,52,Portugal,Walferdange,Canton Luxembourg,5645.0,white,Marques,Luxembourg,49.6117,6.1319
+F,30,Sweden,Luxembourg,Canton Luxembourg,2960.0,white,Olsson,Luxembourg,49.6117,6.1319
+F,65,Luxembourg,Differdange,Canton Esch,0.0,black,Maes,Esch,49.4969,5.9806
+M,42,France,Weiler-la-Tour,Canton Luxembourg,10857.0,white,Sanchez,Luxembourg,49.6117,6.1319
+M,24,Luxembourg,Bettembourg,Canton Esch,5096.0,white,Grondin,Esch,49.4969,5.9806
+F,26,Luxembourg,Luxembourg,Canton Luxembourg,7960.0,latino,Pierre,Luxembourg,49.6117,6.1319
+M,31,Luxembourg,Frisange,Canton Esch,5128.0,white,De Smet,Esch,49.4969,5.9806
+F,30,France,Erpeldange-sur-Sûre,Canton Diekirch,10145.0,white,Klein,Diekirch,49.8681,6.1567
+F,57,Luxembourg,Pétange,Canton Esch,3528.0,white,Fernandez,Esch,49.4969,5.9806
+M,80,France,Luxembourg,Canton Luxembourg,0.0,white,Henry,Luxembourg,49.6117,6.1319
+F,73,France,Luxembourg,Canton Luxembourg,0.0,black,Rocher,Luxembourg,49.6117,6.1319
+F,18,Luxembourg,Differdange,Canton Esch,2468.0,white,Marie,Esch,49.4969,5.9806
+M,30,Portugal,Dudelange,Canton Esch,8453.0,white,Baptista,Esch,49.4969,5.9806
+M,73,Luxembourg,Boulaide,Canton Wiltz,0.0,black,Bossuyt,Wiltz,49.9667,5.9333
+M,71,Luxembourg,Bettembourg,Canton Esch,0.0,white,Staelens,Esch,49.4969,5.9806
+F,49,Luxembourg,Bettembourg,Canton Esch,4596.0,white,Claessens,Esch,49.4969,5.9806
+F,47,Luxembourg,Diekirch,Canton Diekirch,7390.0,white,Beernaert,Diekirch,49.8681,6.1567
+M,51,Luxembourg,Schifflange,Canton Esch,3542.0,white,Belmans,Esch,49.4969,5.9806
+F,87,Luxembourg,Luxembourg,Canton Luxembourg,0.0,latino,Engelen,Luxembourg,49.6117,6.1319
+F,40,Luxembourg,Boulaide,Canton Wiltz,6895.0,white,Mercier,Wiltz,49.9667,5.9333
+M,44,Luxembourg,Rambrouch,Canton Redange,1046.0,black,Snauwaert,Redange,49.7652,5.8894
+M,44,France,Kehlen,Canton Capellen,2207.0,white,Charles,Capellen,49.6444,5.9897
+F,24,Portugal,Differdange,Canton Esch,7468.0,white,Pereira,Esch,49.4969,5.9806
+M,40,Luxembourg,Esch-sur-Alzette,Canton Esch,4803.0,white,Van Looveren,Esch,49.4969,5.9806
+M,49,Luxembourg,Schifflange,Canton Esch,8542.0,latino,Lombard,Esch,49.4969,5.9806
+M,42,Portugal,Esch-sur-Alzette,Canton Esch,3803.0,white,Marques,Esch,49.4969,5.9806
+M,19,Luxembourg,Echternach,Canton Echternach,3223.0,white,Dupuy,Echternach,49.8117,6.4217
+M,24,Spain,Dudelange,Canton Esch,5453.0,white,Llamas,Esch,49.4969,5.9806
+M,34,Italy,Luxembourg,Canton Luxembourg,9460.0,white,Forza,Luxembourg,49.6117,6.1319
+M,52,Hungary,Luxembourg,Canton Luxembourg,1960.0,white,Kiss,Luxembourg,49.6117,6.1319
+M,57,Luxembourg,Flaxweiler,Canton Grevenmacher,1766.0,black,De Bruyn,Grevenmacher,49.6806,6.4417
+M,82,Luxembourg,Walferdange,Canton Luxembourg,0.0,latino,Meyers,Luxembourg,49.6117,6.1319
+M,64,Luxembourg,Bertrange,Canton Luxembourg,5587.0,latino,Gomes,Luxembourg,49.6117,6.1319
+F,52,Belgium,Luxembourg,Canton Luxembourg,3460.0,white,Huybrechts,Luxembourg,49.6117,6.1319
+M,18,Luxembourg,Grevenmacher,Canton Grevenmacher,11361.0,black,Callewaert,Grevenmacher,49.6806,6.4417
+M,64,Luxembourg,Luxembourg,Canton Luxembourg,5960.0,white,Pascal,Luxembourg,49.6117,6.1319
+M,21,France,Luxembourg,Canton Luxembourg,5960.0,white,Bouvet,Luxembourg,49.6117,6.1319
+M,42,Luxembourg,Sanem,Canton Esch,5642.0,white,Boucher,Esch,49.4969,5.9806
+F,36,Italy,Bertrange,Canton Luxembourg,18087.0,white,Mannoia,Luxembourg,49.6117,6.1319
+M,36,Luxembourg,Consdorf,Canton Echternach,3063.0,black,Brouwers,Echternach,49.8117,6.4217
+M,46,Luxembourg,Walferdange,Canton Luxembourg,8145.0,white,Guillot,Luxembourg,49.6117,6.1319
+M,71,France,Luxembourg,Canton Luxembourg,0.0,black,Lopez,Luxembourg,49.6117,6.1319
+M,26,Luxembourg,Roeser,Canton Esch,2132.0,black,Wauters,Esch,49.4969,5.9806
+F,46,Ukraine,Luxembourg,Canton Luxembourg,960.0,white,Теліженко,Luxembourg,49.6117,6.1319
+F,38,Luxembourg,Luxembourg,Canton Luxembourg,3960.0,white,Dupont,Luxembourg,49.6117,6.1319
+F,52,Portugal,Luxembourg,Canton Luxembourg,2460.0,white,Vaz,Luxembourg,49.6117,6.1319
+F,44,Luxembourg,Kayl,Canton Esch,3616.0,white,Lucas,Esch,49.4969,5.9806
+M,47,Ukraine,Wiltz,Canton Wiltz,2833.0,white,Кибкало,Wiltz,49.9667,5.9333
+M,52,France,Waldbillig,Canton Echternach,1050.0,white,Teixeira,Echternach,49.8117,6.4217
+F,85,Luxembourg,Schifflange,Canton Esch,0.0,white,Pires,Esch,49.4969,5.9806
+F,22,Luxembourg,Mondercange,Canton Esch,4080.0,latino,Pages,Esch,49.4969,5.9806
+F,30,Hungary,Kehlen,Canton Capellen,11207.0,white,Gál,Capellen,49.6444,5.9897
+F,62,Spain,Lenningen,Canton Remich,20068.0,white,Cámara,Remich,49.5444,6.3667
+M,24,Luxembourg,Dippach,Canton Capellen,7166.0,black,Derycke,Capellen,49.6444,5.9897
+M,20,Luxembourg,Roeser,Canton Esch,12132.0,white,De Smet,Esch,49.4969,5.9806
+F,25,Portugal,Bettembourg,Canton Esch,3596.0,white,Marques,Esch,49.4969,5.9806
+M,40,Luxembourg,Esch-sur-Sûre,Canton Wiltz,6524.0,white,Charrier,Wiltz,49.9667,5.9333
+M,50,Portugal,Roeser,Canton Esch,8632.0,white,Loureiro,Esch,49.4969,5.9806
+F,73,Portugal,Luxembourg,Canton Luxembourg,0.0,white,Amaral,Luxembourg,49.6117,6.1319
+F,53,Portugal,Luxembourg,Canton Luxembourg,2460.0,white,Nascimento,Luxembourg,49.6117,6.1319
+F,18,Portugal,Dudelange,Canton Esch,3953.0,white,Neves,Esch,49.4969,5.9806
+F,74,Luxembourg,Bettembourg,Canton Esch,0.0,white,Hervé,Esch,49.4969,5.9806
+M,48,Luxembourg,Hesperange,Canton Luxembourg,4154.0,white,Van Loock,Luxembourg,49.6117,6.1319
+M,34,Luxembourg,Esch-sur-Alzette,Canton Esch,3803.0,black,Bernier,Esch,49.4969,5.9806
+F,42,Luxembourg,Bous,Canton Remich,12637.0,white,Cousin,Remich,49.5444,6.3667
+F,22,France,Niederanven,Canton Luxembourg,14955.0,white,Andre,Luxembourg,49.6117,6.1319
+F,60,United States of Ameria,Luxembourg,Canton Luxembourg,5960.0,white,Branch,Luxembourg,49.6117,6.1319
+F,46,Portugal,Beaufort,Canton Echternach,4582.0,white,Teixeira,Echternach,49.8117,6.4217
+F,59,Luxembourg,Kayl,Canton Esch,1616.0,black,De Witte,Esch,49.4969,5.9806
+M,33,Romania,Wiltz,Canton Wiltz,3333.0,white,Stan,Wiltz,49.9667,5.9333
+M,55,Luxembourg,Remich,Canton Remich,3288.0,white,De Block,Remich,49.5444,6.3667
+F,38,Luxembourg,Leudelange,Canton Esch,1983.0,black,Techer,Esch,49.4969,5.9806
+F,60,Portugal,Luxembourg,Canton Luxembourg,7960.0,white,Castro,Luxembourg,49.6117,6.1319
+F,69,Germany,Lintgen,Canton Mersch,0.0,white,Scheibe,Mersch,49.75,6.1
+F,21,Portugal,Luxembourg,Canton Luxembourg,4960.0,white,Vaz,Luxembourg,49.6117,6.1319
+M,30,Luxembourg,Differdange,Canton Esch,2968.0,black,Claes,Esch,49.4969,5.9806
+F,44,Luxembourg,Roeser,Canton Esch,17632.0,black,Schneider,Esch,49.4969,5.9806
+F,53,France,Luxembourg,Canton Luxembourg,24960.0,white,Colas,Luxembourg,49.6117,6.1319
+F,34,Luxembourg,Vallée de l'Ernz,Canton Diekirch,3597.0,latino,Snauwaert,Diekirch,49.8681,6.1567
+M,41,Luxembourg,Luxembourg,Canton Luxembourg,12460.0,white,Demeyere,Luxembourg,49.6117,6.1319
+M,51,Luxembourg,Sanem,Canton Esch,3642.0,white,François,Esch,49.4969,5.9806
+F,71,France,Esch-sur-Alzette,Canton Esch,0.0,white,Tessier,Esch,49.4969,5.9806
+F,34,Luxembourg,Bettembourg,Canton Esch,3596.0,white,Labbé,Esch,49.4969,5.9806
+M,21,Luxembourg,Schifflange,Canton Esch,9042.0,white,Pineau,Esch,49.4969,5.9806
+M,75,Luxembourg,Remich,Canton Remich,0.0,white,Meyer,Remich,49.5444,6.3667
+F,22,Luxembourg,Vianden,Canton Vianden,4539.0,white,Valentin,Vianden,49.9336,6.2075
+F,65,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Renard,Luxembourg,49.6117,6.1319
+M,47,Portugal,Rambrouch,Canton Redange,9046.0,white,Pereira,Redange,49.7652,5.8894
+M,47,Luxembourg,Mertzig,Canton Diekirch,8242.0,black,Courtois,Diekirch,49.8681,6.1567
+F,76,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Delmas,Luxembourg,49.6117,6.1319
+F,76,Luxembourg,Luxembourg,Canton Luxembourg,0.0,black,Vlaeminck,Luxembourg,49.6117,6.1319
+M,40,France,Esch-sur-Sûre,Canton Wiltz,2524.0,white,Bourdon,Wiltz,49.9667,5.9333
+M,30,Luxembourg,Sanem,Canton Esch,10642.0,white,Vidal,Esch,49.4969,5.9806
+F,24,France,Mersch,Canton Mersch,1555.0,white,Pascal,Mersch,49.75,6.1
+F,57,France,Leudelange,Canton Esch,5483.0,white,Renault,Esch,49.4969,5.9806
+M,45,Luxembourg,Clervaux,Canton Clervaux,3979.0,white,Renault,Clervaux,50.05,6.0333
+M,30,Portugal,Luxembourg,Canton Luxembourg,24960.0,white,Azevedo,Luxembourg,49.6117,6.1319
+F,70,Luxembourg,Mersch,Canton Mersch,0.0,white,Lippens,Mersch,49.75,6.1
+M,19,France,Hesperange,Canton Luxembourg,9654.0,black,Germain,Luxembourg,49.6117,6.1319
+F,56,Luxembourg,Rumelange,Canton Esch,7404.0,white,Cornelis,Esch,49.4969,5.9806
+M,45,Belgium,Dudelange,Canton Esch,2453.0,white,De Wulf,Esch,49.4969,5.9806
+M,27,Luxembourg,Mersch,Canton Mersch,17055.0,white,Faivre,Mersch,49.75,6.1
+M,58,Luxembourg,Dudelange,Canton Esch,1953.0,white,Thibault,Esch,49.4969,5.9806
+M,47,France,Mondercange,Canton Esch,7080.0,white,Leroy,Esch,49.4969,5.9806
+F,27,Portugal,Contern,Canton Luxembourg,4208.0,white,Faria,Luxembourg,49.6117,6.1319
+M,30,France,Differdange,Canton Esch,2468.0,black,Weber,Esch,49.4969,5.9806
+M,40,Portugal,Schengen,Canton Remich,8539.0,white,Paiva,Remich,49.5444,6.3667
+F,55,Luxembourg,Dudelange,Canton Esch,1453.0,white,Tessier,Esch,49.4969,5.9806
+F,81,Portugal,Hesperange,Canton Luxembourg,0.0,white,Marques,Luxembourg,49.6117,6.1319
+M,19,Luxembourg,Sanem,Canton Esch,3142.0,black,Lamy,Esch,49.4969,5.9806
+M,32,Luxembourg,Troisvierges,Canton Clervaux,3332.0,white,Bertin,Clervaux,50.05,6.0333
+M,77,Luxembourg,Remich,Canton Remich,0.0,white,Guillou,Remich,49.5444,6.3667
+F,27,Luxembourg,Steinfort,Canton Capellen,3157.0,black,Vidal,Capellen,49.6444,5.9897
+F,35,Portugal,Mamer,Canton Capellen,2201.0,white,Pereira,Capellen,49.6444,5.9897
+F,46,Spain,Lac de la Haute-Sûre,Canton Wiltz,2042.0,white,Pol,Wiltz,49.9667,5.9333
+F,39,Luxembourg,Esch-sur-Alzette,Canton Esch,5303.0,white,Lenaerts,Esch,49.4969,5.9806
+F,80,Luxembourg,Hesperange,Canton Luxembourg,0.0,white,Chevallier,Luxembourg,49.6117,6.1319
+M,39,Belgium,Colmar-Berg,Canton Mersch,2224.0,white,De Smedt,Mersch,49.75,6.1
+F,25,Luxembourg,Dudelange,Canton Esch,3953.0,white,Loiseau,Esch,49.4969,5.9806
+F,34,Luxembourg,Wormeldange,Canton Grevenmacher,6822.0,white,Duval,Grevenmacher,49.6806,6.4417
+M,86,Luxembourg,Bettendorf,Canton Diekirch,0.0,white,Sterckx,Diekirch,49.8681,6.1567
+M,40,Luxembourg,Esch-sur-Alzette,Canton Esch,4303.0,white,Wouters,Esch,49.4969,5.9806
+M,31,Luxembourg,Contern,Canton Luxembourg,4708.0,white,Bernard,Luxembourg,49.6117,6.1319
+M,49,Luxembourg,Biwer,Canton Grevenmacher,1484.0,white,Polfliet,Grevenmacher,49.6806,6.4417
+F,28,Luxembourg,Mondercange,Canton Esch,3580.0,black,De Ridder,Esch,49.4969,5.9806
+F,22,Luxembourg,Troisvierges,Canton Clervaux,2832.0,white,Godard,Clervaux,50.05,6.0333
+M,43,Luxembourg,Mamer,Canton Capellen,3201.0,white,Perez,Capellen,49.6444,5.9897
+M,34,Portugal,Luxembourg,Canton Luxembourg,19460.0,white,Pinho,Luxembourg,49.6117,6.1319
+F,36,Luxembourg,Parc Hosingen,Canton Clervaux,2585.0,white,Albert,Clervaux,50.05,6.0333
+M,80,Poland,Luxembourg,Canton Luxembourg,0.0,white,Subocz,Luxembourg,49.6117,6.1319
+F,27,Luxembourg,Luxembourg,Canton Luxembourg,8960.0,white,Maes,Luxembourg,49.6117,6.1319
+F,26,Luxembourg,Wincrange,Canton Clervaux,4032.0,latino,Bauwens,Clervaux,50.05,6.0333
+M,67,Luxembourg,Berdorf,Canton Echternach,0.0,latino,Julien,Echternach,49.8117,6.4217
+F,20,Portugal,Luxembourg,Canton Luxembourg,3460.0,white,Valente,Luxembourg,49.6117,6.1319
+F,73,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Devaux,Luxembourg,49.6117,6.1319
+F,75,Portugal,Ell,Canton Redange,0.0,white,Magalhães,Redange,49.7652,5.8894
+F,43,France,Luxembourg,Canton Luxembourg,960.0,black,Benard,Luxembourg,49.6117,6.1319
+M,30,United States of Ameria,Luxembourg,Canton Luxembourg,9960.0,black,Bridges,Luxembourg,49.6117,6.1319
+M,39,Portugal,Leudelange,Canton Esch,20483.0,white,Ramos,Esch,49.4969,5.9806
+M,27,Luxembourg,Troisvierges,Canton Clervaux,832.0,white,Singh,Clervaux,50.05,6.0333
+M,33,Luxembourg,Luxembourg,Canton Luxembourg,1960.0,white,Alexandre,Luxembourg,49.6117,6.1319
+M,37,Luxembourg,Niederanven,Canton Luxembourg,45955.0,latino,Vos,Luxembourg,49.6117,6.1319
+F,32,France,Kayl,Canton Esch,2616.0,white,Alves,Esch,49.4969,5.9806
+F,33,Turkey,Differdange,Canton Esch,6468.0,turkish,Bilir,Esch,49.4969,5.9806
+F,18,Portugal,Mondorf-les-Bains,Canton Remich,3384.0,white,Morais,Remich,49.5444,6.3667
+F,79,Luxembourg,Schengen,Canton Remich,0.0,white,Boucher,Remich,49.5444,6.3667
+F,46,Luxembourg,Luxembourg,Canton Luxembourg,2460.0,black,Merle,Luxembourg,49.6117,6.1319
+F,46,Luxembourg,Kehlen,Canton Capellen,5707.0,white,Buyse,Capellen,49.6444,5.9897
+F,40,Belgium,Junglinster,Canton Grevenmacher,2744.0,white,Vermeire,Grevenmacher,49.6806,6.4417
+F,41,Luxembourg,Remich,Canton Remich,4788.0,white,Barbier,Remich,49.5444,6.3667
+M,22,Ireland,Erpeldange-sur-Sûre,Canton Diekirch,6645.0,white,Barrnette,Diekirch,49.8681,6.1567
+M,58,Luxembourg,Roeser,Canton Esch,4132.0,black,Le Gall,Esch,49.4969,5.9806
+F,56,Luxembourg,Dudelange,Canton Esch,6453.0,white,Martin,Esch,49.4969,5.9806
+F,21,Luxembourg,Mamer,Canton Capellen,6701.0,black,Blanchard,Capellen,49.6444,5.9897
+M,66,Belgium,Frisange,Canton Esch,0.0,white,De Maeyer,Esch,49.4969,5.9806
+F,55,Luxembourg,Betzdorf,Canton Grevenmacher,4625.0,white,Fontaine,Grevenmacher,49.6806,6.4417
+M,56,Luxembourg,Bettembourg,Canton Esch,7596.0,black,Slegers,Esch,49.4969,5.9806
+M,46,Luxembourg,Sanem,Canton Esch,2642.0,white,Lenaerts,Esch,49.4969,5.9806
+M,43,Turkey,Steinfort,Canton Capellen,5157.0,turkish,Akça,Capellen,49.6444,5.9897
+F,40,Luxembourg,Lenningen,Canton Remich,5068.0,white,Nguyen,Remich,49.5444,6.3667
+F,60,Luxembourg,Pétange,Canton Esch,2028.0,white,Van den Eynde,Esch,49.4969,5.9806
+F,44,Luxembourg,Dudelange,Canton Esch,4453.0,white,Gauthier,Esch,49.4969,5.9806
+M,38,Luxembourg,Käerjeng,Canton Capellen,1641.0,white,Simoens,Capellen,49.6444,5.9897
+M,36,Luxembourg,Dudelange,Canton Esch,1953.0,latino,Laureys,Esch,49.4969,5.9806
+M,41,Netherlands,Wincrange,Canton Clervaux,5032.0,white,Middelkoop,Clervaux,50.05,6.0333
+M,27,Luxembourg,Pétange,Canton Esch,1028.0,white,Meyer,Esch,49.4969,5.9806
+M,37,Portugal,Hesperange,Canton Luxembourg,2654.0,white,Baptista,Luxembourg,49.6117,6.1319
+M,18,Luxembourg,Luxembourg,Canton Luxembourg,5460.0,white,Dumont,Luxembourg,49.6117,6.1319
+M,61,Luxembourg,Dudelange,Canton Esch,8953.0,white,Cornelis,Esch,49.4969,5.9806
+M,36,Luxembourg,Useldange,Canton Redange,3396.0,white,Debruyne,Redange,49.7652,5.8894
+F,29,Luxembourg,Mondercange,Canton Esch,8580.0,white,Courtois,Esch,49.4969,5.9806
+M,56,Portugal,Bettendorf,Canton Diekirch,7138.0,white,Costa,Diekirch,49.8681,6.1567
+M,27,Netherlands,Dudelange,Canton Esch,3953.0,white,Kosten,Esch,49.4969,5.9806
+M,26,France,Erpeldange-sur-Sûre,Canton Diekirch,6645.0,black,Besson,Diekirch,49.8681,6.1567
+F,34,Luxembourg,Hesperange,Canton Luxembourg,6154.0,white,Lemmens,Luxembourg,49.6117,6.1319
+F,55,Germany,Préizerdaul,Canton Redange,4365.0,white,Krein,Redange,49.7652,5.8894
+M,19,Portugal,Käerjeng,Canton Capellen,8641.0,white,Loureiro,Capellen,49.6444,5.9897
+M,49,Luxembourg,Luxembourg,Canton Luxembourg,7460.0,black,Chrétien,Luxembourg,49.6117,6.1319
+M,42,Italy,Luxembourg,Canton Luxembourg,8960.0,white,Morellato,Luxembourg,49.6117,6.1319
+M,44,Luxembourg,Kopstal,Canton Capellen,34392.0,white,Verbruggen,Capellen,49.6444,5.9897
+F,59,Luxembourg,Redange-sur-Attert,Canton Redange,,black,Verdier,Redange,49.7652,5.8894
+M,23,Bosnia and Herzegovina,Strassen,Canton Luxembourg,8587.0,white,Beranová,Luxembourg,49.6117,6.1319
+M,29,Italy,Stadtbredimus,Canton Remich,1568.0,white,Piccio,Remich,49.5444,6.3667
+F,29,Portugal,Kehlen,Canton Capellen,5207.0,white,Borges,Capellen,49.6444,5.9897
+F,40,France,Sandweiler,Canton Luxembourg,23583.0,white,Munoz,Luxembourg,49.6117,6.1319
+M,81,Luxembourg,Dudelange,Canton Esch,0.0,white,Mortier,Esch,49.4969,5.9806
+F,34,Luxembourg,Junglinster,Canton Grevenmacher,4744.0,white,Cordier,Grevenmacher,49.6806,6.4417
+F,31,Luxembourg,Hesperange,Canton Luxembourg,10154.0,white,Masson,Luxembourg,49.6117,6.1319
+F,52,United Kingdom,Luxembourg,Canton Luxembourg,7460.0,asian,Mann,Luxembourg,49.6117,6.1319
+F,79,Luxembourg,Kopstal,Canton Capellen,0.0,white,Martel,Capellen,49.6444,5.9897
+F,54,Luxembourg,Luxembourg,Canton Luxembourg,9960.0,white,Le Gall,Luxembourg,49.6117,6.1319
+F,61,Luxembourg,Rumelange,Canton Esch,7404.0,white,Lemmens,Esch,49.4969,5.9806
+M,63,Luxembourg,Differdange,Canton Esch,4468.0,white,Bouchet,Esch,49.4969,5.9806
+M,55,Luxembourg,Pétange,Canton Esch,3528.0,white,Charles,Esch,49.4969,5.9806
+F,37,Luxembourg,Beaufort,Canton Echternach,6082.0,white,Munoz,Echternach,49.8117,6.4217
+F,44,Luxembourg,Esch-sur-Alzette,Canton Esch,4303.0,white,Poulain,Esch,49.4969,5.9806
+M,51,Luxembourg,Luxembourg,Canton Luxembourg,4960.0,white,Dupont,Luxembourg,49.6117,6.1319
+F,56,France,Bettembourg,Canton Esch,5096.0,white,Imbert,Esch,49.4969,5.9806
+M,37,Luxembourg,Differdange,Canton Esch,5468.0,black,Goossens,Esch,49.4969,5.9806
+M,77,Luxembourg,Wiltz,Canton Wiltz,0.0,latino,Bousquet,Wiltz,49.9667,5.9333
+M,32,Luxembourg,Steinsel,Canton Luxembourg,13060.0,white,Marion,Luxembourg,49.6117,6.1319
+F,28,Luxembourg,Mondercange,Canton Esch,3580.0,white,Everaert,Esch,49.4969,5.9806
+M,62,Luxembourg,Differdange,Canton Esch,3968.0,white,Le Roux,Esch,49.4969,5.9806
+F,79,India,Echternach,Canton Echternach,0.0,south asians,Bose,Echternach,49.8117,6.4217
+F,58,Portugal,Diekirch,Canton Diekirch,5390.0,white,Baptista,Diekirch,49.8681,6.1567
+F,24,Luxembourg,Luxembourg,Canton Luxembourg,5960.0,white,Thibault,Luxembourg,49.6117,6.1319
+M,53,Luxembourg,Koerich,Canton Capellen,9684.0,white,Deckers,Capellen,49.6444,5.9897
+M,63,France,Dudelange,Canton Esch,953.0,white,Costa,Esch,49.4969,5.9806
+F,53,Luxembourg,Lorentzweiler,Canton Mersch,3226.0,white,Nicolas,Mersch,49.75,6.1
+F,36,Luxembourg,Manternach,Canton Grevenmacher,10380.0,black,Coene,Grevenmacher,49.6806,6.4417
+M,30,France,Luxembourg,Canton Luxembourg,11460.0,white,Delannoy,Luxembourg,49.6117,6.1319
+M,46,Belgium,Echternach,Canton Echternach,1223.0,white,De Meester,Echternach,49.8117,6.4217
+F,45,Luxembourg,Dippach,Canton Capellen,5666.0,white,Leduc,Capellen,49.6444,5.9897
+M,46,France,Bettembourg,Canton Esch,16096.0,white,Marchal,Esch,49.4969,5.9806
+F,62,Luxembourg,Bertrange,Canton Luxembourg,3087.0,black,Blondel,Luxembourg,49.6117,6.1319
+F,70,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Maes,Luxembourg,49.6117,6.1319
+F,35,France,Dippach,Canton Capellen,5666.0,white,Langlois,Capellen,49.6444,5.9897
+F,27,Luxembourg,Kayl,Canton Esch,2616.0,black,Diaz,Esch,49.4969,5.9806
+F,58,Luxembourg,Niederanven,Canton Luxembourg,18455.0,white,Masse,Luxembourg,49.6117,6.1319
+F,43,Luxembourg,Lintgen,Canton Mersch,8616.0,latino,Gautier,Mersch,49.75,6.1
+F,65,Luxembourg,Hesperange,Canton Luxembourg,0.0,white,De Maeyer,Luxembourg,49.6117,6.1319
+F,46,Luxembourg,Hesperange,Canton Luxembourg,5654.0,white,De Clercq,Luxembourg,49.6117,6.1319
+M,73,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Vlaeminck,Luxembourg,49.6117,6.1319
+F,28,Portugal,Luxembourg,Canton Luxembourg,5960.0,white,Batista,Luxembourg,49.6117,6.1319
+M,61,Luxembourg,Esch-sur-Alzette,Canton Esch,3303.0,white,Roche,Esch,49.4969,5.9806
+F,44,Luxembourg,Vianden,Canton Vianden,3539.0,white,Dumont,Vianden,49.9336,6.2075
+F,73,Luxembourg,Dudelange,Canton Esch,0.0,white,Beernaert,Esch,49.4969,5.9806
+F,48,France,Biwer,Canton Grevenmacher,1984.0,white,Salmon,Grevenmacher,49.6806,6.4417
+F,64,Luxembourg,Dudelange,Canton Esch,2953.0,white,Geerts,Esch,49.4969,5.9806
+F,54,Luxembourg,Luxembourg,Canton Luxembourg,1960.0,white,Lopez,Luxembourg,49.6117,6.1319
+F,57,Luxembourg,Junglinster,Canton Grevenmacher,20744.0,white,Maes,Grevenmacher,49.6806,6.4417
+M,33,France,Käerjeng,Canton Capellen,1641.0,white,Pottier,Capellen,49.6444,5.9897
+M,39,Romania,Luxembourg,Canton Luxembourg,6460.0,white,Cristea,Luxembourg,49.6117,6.1319
+F,48,Luxembourg,Pétange,Canton Esch,2528.0,black,Janssens,Esch,49.4969,5.9806
+F,59,Luxembourg,Sanem,Canton Esch,5142.0,white,Lévy,Esch,49.4969,5.9806
+M,89,Luxembourg,Grevenmacher,Canton Grevenmacher,0.0,latino,Bogaert,Grevenmacher,49.6806,6.4417
+M,66,Luxembourg,Dudelange,Canton Esch,0.0,white,Wouters,Esch,49.4969,5.9806
+F,78,Luxembourg,Echternach,Canton Echternach,0.0,white,Claes,Echternach,49.8117,6.4217
+M,31,Italy,Luxembourg,Canton Luxembourg,1960.0,white,Agnesi,Luxembourg,49.6117,6.1319
+F,47,Portugal,Redange-sur-Attert,Canton Redange,,white,Carneiro,Redange,49.7652,5.8894
+F,66,Belgium,Kayl,Canton Esch,0.0,white,Lambrechts,Esch,49.4969,5.9806
+M,49,Luxembourg,Schengen,Canton Remich,2039.0,white,Fleury,Remich,49.5444,6.3667
+M,54,Luxembourg,Schuttrange,Canton Luxembourg,14544.0,white,Alexandre,Luxembourg,49.6117,6.1319
+F,69,Luxembourg,Niederanven,Canton Luxembourg,0.0,latino,Willems,Luxembourg,49.6117,6.1319
+M,50,Portugal,Sanem,Canton Esch,3142.0,white,Esteves,Esch,49.4969,5.9806
+M,55,Luxembourg,Junglinster,Canton Grevenmacher,12244.0,white,Lemonnier,Grevenmacher,49.6806,6.4417
+F,85,India,Bissen,Canton Mersch,0.0,south asians,Basu,Mersch,49.75,6.1
+F,31,Luxembourg,Esch-sur-Alzette,Canton Esch,4303.0,white,Chauvin,Esch,49.4969,5.9806
+F,41,Portugal,Käerjeng,Canton Capellen,9641.0,white,Pinho,Capellen,49.6444,5.9897
+F,77,France,Strassen,Canton Luxembourg,0.0,white,Caron,Luxembourg,49.6117,6.1319
+M,23,Luxembourg,Mamer,Canton Capellen,8201.0,white,Maes,Capellen,49.6444,5.9897
+F,41,Luxembourg,Differdange,Canton Esch,1468.0,white,Dejonghe,Esch,49.4969,5.9806
+F,26,Luxembourg,Luxembourg,Canton Luxembourg,7960.0,black,Pascal,Luxembourg,49.6117,6.1319
+M,72,Luxembourg,Beaufort,Canton Echternach,0.0,latino,Govaerts,Echternach,49.8117,6.4217
+F,93,Luxembourg,Biwer,Canton Grevenmacher,0.0,latino,Janssens,Grevenmacher,49.6806,6.4417
+F,59,Luxembourg,Pétange,Canton Esch,3028.0,white,Guérin,Esch,49.4969,5.9806
+M,59,Portugal,Esch-sur-Alzette,Canton Esch,4303.0,white,Ribeiro,Esch,49.4969,5.9806
+M,59,France,Bous,Canton Remich,3137.0,white,Gallet,Remich,49.5444,6.3667
+M,44,Luxembourg,Esch-sur-Alzette,Canton Esch,3803.0,black,Peron,Esch,49.4969,5.9806
+F,62,Luxembourg,Mamer,Canton Capellen,7201.0,white,Maillard,Capellen,49.6444,5.9897
+F,26,Luxembourg,Luxembourg,Canton Luxembourg,2460.0,white,Debruyne,Luxembourg,49.6117,6.1319
+F,36,Portugal,Niederanven,Canton Luxembourg,21455.0,white,Correia,Luxembourg,49.6117,6.1319
+F,38,Belgium,Esch-sur-Sûre,Canton Wiltz,2524.0,white,Verhulst,Wiltz,49.9667,5.9333
+F,54,Luxembourg,Stadtbredimus,Canton Remich,5068.0,white,Alves,Remich,49.5444,6.3667
+F,27,Portugal,Käerjeng,Canton Capellen,7141.0,white,Lima,Capellen,49.6444,5.9897
+F,32,Italy,Parc Hosingen,Canton Clervaux,6085.0,white,Calbo,Clervaux,50.05,6.0333
+F,26,Spain,Biwer,Canton Grevenmacher,7484.0,white,Narváez,Grevenmacher,49.6806,6.4417
+M,54,Luxembourg,Mersch,Canton Mersch,1555.0,black,Maes,Mersch,49.75,6.1
+M,62,Luxembourg,Rosport-Mompach,Canton Echternach,7096.0,white,Segers,Echternach,49.8117,6.4217
+M,76,Luxembourg,Schifflange,Canton Esch,0.0,white,Heylen,Esch,49.4969,5.9806
+F,75,Luxembourg,Schuttrange,Canton Luxembourg,0.0,white,Goossens,Luxembourg,49.6117,6.1319
+F,36,Luxembourg,Differdange,Canton Esch,1968.0,black,Barbier,Esch,49.4969,5.9806
+M,22,Luxembourg,Vianden,Canton Vianden,4039.0,white,Vermeulen,Vianden,49.9336,6.2075
+M,57,Luxembourg,Luxembourg,Canton Luxembourg,3460.0,white,Toussaint,Luxembourg,49.6117,6.1319
+F,47,Luxembourg,Lorentzweiler,Canton Mersch,4726.0,white,Degryse,Mersch,49.75,6.1
+M,61,Italy,Grevenmacher,Canton Grevenmacher,861.0,white,Mimun,Grevenmacher,49.6806,6.4417
+F,26,Luxembourg,Garnich,Canton Capellen,3743.0,white,De Wit,Capellen,49.6444,5.9897
+M,22,Luxembourg,Sanem,Canton Esch,2142.0,latino,Hernandez,Esch,49.4969,5.9806
+F,92,Luxembourg,Feulen,Canton Diekirch,0.0,white,Put,Diekirch,49.8681,6.1567
+M,50,Luxembourg,Schengen,Canton Remich,5539.0,latino,De Backer,Remich,49.5444,6.3667
+M,46,France,Sandweiler,Canton Luxembourg,6083.0,black,Monnier,Luxembourg,49.6117,6.1319
+M,77,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Schmitt,Luxembourg,49.6117,6.1319
+M,58,Portugal,Mondercange,Canton Esch,4080.0,white,Almeida,Esch,49.4969,5.9806
+M,35,Luxembourg,Frisange,Canton Esch,12128.0,white,Dufour,Esch,49.4969,5.9806
+F,35,United States of Ameria,Hesperange,Canton Luxembourg,1154.0,latino,Wang,Luxembourg,49.6117,6.1319
+M,76,Belgium,Contern,Canton Luxembourg,0.0,white,Hendrickx,Luxembourg,49.6117,6.1319
+F,41,Portugal,Ettelbruck,Canton Diekirch,2362.0,white,Amorim,Diekirch,49.8681,6.1567
+F,23,Luxembourg,Helperknapp,Canton Mersch,2917.0,white,Joos,Mersch,49.75,6.1
+F,70,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Decoster,Luxembourg,49.6117,6.1319
+F,36,Luxembourg,Strassen,Canton Luxembourg,2587.0,white,Leemans,Luxembourg,49.6117,6.1319
+M,47,Luxembourg,Kehlen,Canton Capellen,23207.0,black,Charrier,Capellen,49.6444,5.9897
+F,60,Luxembourg,Wincrange,Canton Clervaux,2032.0,black,Huybrechts,Clervaux,50.05,6.0333
+M,23,Luxembourg,Sanem,Canton Esch,5142.0,white,Hendrickx,Esch,49.4969,5.9806
+F,70,Luxembourg,Leudelange,Canton Esch,0.0,latino,Legros,Esch,49.4969,5.9806
+F,20,Belgium,Luxembourg,Canton Luxembourg,1460.0,white,Leysen,Luxembourg,49.6117,6.1319
+F,31,France,Mersch,Canton Mersch,11555.0,white,Lemaître,Mersch,49.75,6.1
+F,18,Luxembourg,Pétange,Canton Esch,3028.0,latino,De Bruyne,Esch,49.4969,5.9806
+M,32,Luxembourg,Pétange,Canton Esch,8028.0,white,Roose,Esch,49.4969,5.9806
+M,65,France,Vallée de l'Ernz,Canton Diekirch,0.0,black,David,Diekirch,49.8681,6.1567
+M,80,Poland,Mondercange,Canton Esch,0.0,white,Kosidło,Esch,49.4969,5.9806
+F,53,Luxembourg,Schifflange,Canton Esch,3042.0,white,Moens,Esch,49.4969,5.9806
+M,49,Luxembourg,Luxembourg,Canton Luxembourg,2460.0,latino,Didier,Luxembourg,49.6117,6.1319
+M,46,Portugal,Lac de la Haute-Sûre,Canton Wiltz,2542.0,white,Henriques,Wiltz,49.9667,5.9333
+F,21,France,Esch-sur-Alzette,Canton Esch,7803.0,black,Baron,Esch,49.4969,5.9806
+M,53,Luxembourg,Wormeldange,Canton Grevenmacher,822.0,black,Delorme,Grevenmacher,49.6806,6.4417
+F,30,Luxembourg,Luxembourg,Canton Luxembourg,7960.0,white,Guillon,Luxembourg,49.6117,6.1319
+M,46,Luxembourg,Steinfort,Canton Capellen,6157.0,latino,Cornelis,Capellen,49.6444,5.9897
+F,49,Luxembourg,Ettelbruck,Canton Diekirch,4862.0,white,Pascal,Diekirch,49.8681,6.1567
+M,22,Germany,Beckerich,Canton Redange,8632.0,white,Zimmer,Redange,49.7652,5.8894
+M,34,Portugal,Flaxweiler,Canton Grevenmacher,8266.0,white,Brito,Grevenmacher,49.6806,6.4417
+M,56,Italy,Wiltz,Canton Wiltz,4333.0,white,Bompiani,Wiltz,49.9667,5.9333
+M,42,Luxembourg,Troisvierges,Canton Clervaux,832.0,white,Maréchal,Clervaux,50.05,6.0333
+F,36,Portugal,Echternach,Canton Echternach,723.0,white,Pinto,Echternach,49.8117,6.4217
+M,20,Luxembourg,Hesperange,Canton Luxembourg,6154.0,white,Gonzalez,Luxembourg,49.6117,6.1319
+M,47,Luxembourg,Junglinster,Canton Grevenmacher,2244.0,black,Dupuy,Grevenmacher,49.6806,6.4417
+F,35,Luxembourg,Wormeldange,Canton Grevenmacher,4322.0,white,De Bruyn,Grevenmacher,49.6806,6.4417
+M,38,Luxembourg,Differdange,Canton Esch,2468.0,black,Decoster,Esch,49.4969,5.9806
+M,38,Luxembourg,Bissen,Canton Mersch,2555.0,white,Peeters,Mersch,49.75,6.1
+F,25,Portugal,Beckerich,Canton Redange,4132.0,white,Fernandes,Redange,49.7652,5.8894
+F,55,Portugal,Esch-sur-Alzette,Canton Esch,1803.0,white,Barros,Esch,49.4969,5.9806
+M,27,Luxembourg,Lintgen,Canton Mersch,12116.0,latino,Van Praet,Mersch,49.75,6.1
+F,27,Brazil,Luxembourg,Canton Luxembourg,3460.0,black,Nogueira,Luxembourg,49.6117,6.1319
+F,72,Portugal,Walferdange,Canton Luxembourg,0.0,white,Alves,Luxembourg,49.6117,6.1319
+M,33,Luxembourg,Pétange,Canton Esch,7528.0,latino,Segers,Esch,49.4969,5.9806
+F,46,Poland,Walferdange,Canton Luxembourg,18645.0,white,Ścieszka,Luxembourg,49.6117,6.1319
+M,40,Portugal,Heffingen,Canton Mersch,4358.0,white,Pacheco,Mersch,49.75,6.1
+F,59,Netherlands,Remich,Canton Remich,12788.0,white,Spruyt,Remich,49.5444,6.3667
+F,24,Luxembourg,Luxembourg,Canton Luxembourg,3460.0,white,Chevallier,Luxembourg,49.6117,6.1319
+M,23,Luxembourg,Sanem,Canton Esch,2642.0,white,Descamps,Esch,49.4969,5.9806
+F,76,Luxembourg,Luxembourg,Canton Luxembourg,0.0,white,Ribeiro,Luxembourg,49.6117,6.1319
+M,50,Luxembourg,Helperknapp,Canton Mersch,6417.0,white,Vranckx,Mersch,49.75,6.1
+M,28,Luxembourg,Bettendorf,Canton Diekirch,12638.0,white,Van den Bergh,Diekirch,49.8681,6.1567
+F,92,United States of Ameria,Sanem,Canton Esch,0.0,black,Valentine,Esch,49.4969,5.9806
+M,35,Luxembourg,Schifflange,Canton Esch,1042.0,white,Schepers,Esch,49.4969,5.9806
+F,55,Luxembourg,Esch-sur-Alzette,Canton Esch,1803.0,black,Raes,Esch,49.4969,5.9806
+M,42,Italy,Lenningen,Canton Remich,19068.0,white,Pinamonte,Remich,49.5444,6.3667
+M,24,Luxembourg,Lac de la Haute-Sûre,Canton Wiltz,1042.0,white,Dupuy,Wiltz,49.9667,5.9333
+M,40,Luxembourg,Reckange-sur-Mess,Canton Esch,8483.0,white,Maes,Esch,49.4969,5.9806
+M,40,Luxembourg,Lintgen,Canton Mersch,3616.0,black,Nicolas,Mersch,49.75,6.1
+M,45,Hungary,Bissen,Canton Mersch,6555.0,white,Szilágyi,Mersch,49.75,6.1
+F,26,Luxembourg,Esch-sur-Alzette,Canton Esch,2303.0,white,Van Dyck,Esch,49.4969,5.9806
+M,30,France,Luxembourg,Canton Luxembourg,2460.0,white,Salmon,Luxembourg,49.6117,6.1319
+F,52,Luxembourg,Dudelange,Canton Esch,5453.0,white,Mertens,Esch,49.4969,5.9806
+F,33,Spain,Diekirch,Canton Diekirch,2890.0,white,Palacio,Diekirch,49.8681,6.1567
+F,28,Luxembourg,Schifflange,Canton Esch,7542.0,latino,Christiaens,Esch,49.4969,5.9806
+F,31,United States of Ameria,Pétange,Canton Esch,4528.0,latino,Love,Esch,49.4969,5.9806
+F,44,Luxembourg,Manternach,Canton Grevenmacher,3380.0,white,Buisson,Grevenmacher,49.6806,6.4417
+M,30,Spain,Contern,Canton Luxembourg,5708.0,white,Suarez,Luxembourg,49.6117,6.1319
+F,83,Portugal,Ell,Canton Redange,0.0,white,Fonseca,Redange,49.7652,5.8894
+F,22,Luxembourg,Luxembourg,Canton Luxembourg,3960.0,white,Verschueren,Luxembourg,49.6117,6.1319
+F,63,Luxembourg,Luxembourg,Canton Luxembourg,3460.0,white,Everaert,Luxembourg,49.6117,6.1319
+F,44,Belgium,Luxembourg,Canton Luxembourg,7460.0,white,Janssen,Luxembourg,49.6117,6.1319
+F,48,Portugal,Kehlen,Canton Capellen,7207.0,white,Moreira,Capellen,49.6444,5.9897
+F,32,France,Mertzig,Canton Diekirch,3742.0,white,Andre,Diekirch,49.8681,6.1567
+M,27,Luxembourg,Goesdorf,Canton Wiltz,3611.0,white,Étienne,Wiltz,49.9667,5.9333
+M,72,Italy,Clervaux,Canton Clervaux,0.0,white,Alfieri,Clervaux,50.05,6.0333
+M,31,Luxembourg,Redange-sur-Attert,Canton Redange,,white,Colas,Redange,49.7652,5.8894
+F,55,Luxembourg,Mersch,Canton Mersch,1055.0,latino,Guilbert,Mersch,49.75,6.1
+F,32,Luxembourg,Esch-sur-Alzette,Canton Esch,7303.0,white,Evrard,Esch,49.4969,5.9806
+F,72,Luxembourg,Junglinster,Canton Grevenmacher,0.0,white,Couturier,Grevenmacher,49.6806,6.4417
+F,39,Ukraine,Bettembourg,Canton Esch,4096.0,white,Данькевич,Esch,49.4969,5.9806
+M,62,Luxembourg,Clervaux,Canton Clervaux,2479.0,white,Vranckx,Clervaux,50.05,6.0333
+F,90,Luxembourg,Weiler-la-Tour,Canton Luxembourg,0.0,white,Julien,Luxembourg,49.6117,6.1319
+F,36,Luxembourg,Ettelbruck,Canton Diekirch,3862.0,white,Pereira,Diekirch,49.8681,6.1567
+F,60,Portugal,Mertert,Canton Grevenmacher,5008.0,white,Anjos,Grevenmacher,49.6806,6.4417
+F,55,Luxembourg,Esch-sur-Sûre,Canton Wiltz,8024.0,black,Legros,Wiltz,49.9667,5.9333
+F,32,Luxembourg,Dudelange,Canton Esch,6453.0,white,Lievens,Esch,49.4969,5.9806
+M,34,Portugal,Hesperange,Canton Luxembourg,1154.0,white,Brito,Luxembourg,49.6117,6.1319
+M,76,Poland,Luxembourg,Canton Luxembourg,0.0,white,Osipiuk,Luxembourg,49.6117,6.1319
+F,66,Portugal,Differdange,Canton Esch,0.0,white,Ramos,Esch,49.4969,5.9806
+F,37,Ukraine,Hesperange,Canton Luxembourg,2654.0,white,Воблий,Luxembourg,49.6117,6.1319
+F,45,Italy,Lintgen,Canton Mersch,12616.0,white,Malaparte,Mersch,49.75,6.1
+F,36,Luxembourg,Sandweiler,Canton Luxembourg,8083.0,latino,Verstraeten,Luxembourg,49.6117,6.1319
+F,31,Luxembourg,Wiltz,Canton Wiltz,3333.0,white,Neyens,Wiltz,49.9667,5.9333
+F,65,Luxembourg,Erpeldange-sur-Sûre,Canton Diekirch,0.0,latino,Weber,Diekirch,49.8681,6.1567
+F,67,Luxembourg,Luxembourg,Canton Luxembourg,0.0,latino,Lopes,Luxembourg,49.6117,6.1319
+M,41,Luxembourg,Lac de la Haute-Sûre,Canton Wiltz,3042.0,white,Hermans,Wiltz,49.9667,5.9333

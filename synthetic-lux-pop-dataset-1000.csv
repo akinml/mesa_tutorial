@@ -1,0 +1,1001 @@
+;Gender;Age;Date_of_birth;Nationality;Municipality;Canton;Salary;Social_matricule;Ethnicity;hair_color;hair_lenght;First_name;Surname
+0;M;43;19801104;Luxembourg;Schuttrange;Canton Luxembourg;26044.0;198011040281*;white;gray;medium;Mathias;Smits
+1;F;38;19850810;Belgium;Luxembourg;Canton Luxembourg;2960.0;198508105283*;white;black;long;Martine;Heymans
+2;M;33;19901221;Luxembourg;Pétange;Canton Esch;6528.0;199012215224*;white;brown;short;Robert;Vercruysse
+3;F;27;19960504;France;Ettelbruck;Canton Diekirch;4862.0;199605042593*;white;black;short;Denise;Bonneau
+4;F;79;19440822;Luxembourg;Steinsel;Canton Luxembourg;0.0;194408220883*;white;gray;long;Georgette;Étienne
+5;M;20;20030126;Italy;Vallée de l'Ernz;Canton Diekirch;9097.0;200301264925*;white;black;short;Augusto;Santi
+6;M;64;19590929;Portugal;Kayl;Canton Esch;6116.0;195909299870*;white;gray;long;António;Tavares
+7;F;63;19601128;United Kingdom;Mondercange;Canton Esch;11580.0;196011282252*;white;blond;medium;Monica;Jones
+8;M;69;19540811;Portugal;Differdange;Canton Esch;0.0;195408112682*;white;gray;medium;Lucas;Esteves
+9;M;67;19561023;Portugal;Bertrange;Canton Luxembourg;0.0;195610235867*;white;black;long;Vítor;Tavares
+10;M;43;19800102;Luxembourg;Wiltz;Canton Wiltz;1833.0;198001026847*;white;black;long;Gabriel;Jacobs
+11;M;35;19880702;Luxembourg;Pétange;Canton Esch;2528.0;198807020244*;black;black;short;Marcel;De Schutter
+12;F;26;19970222;France;Dudelange;Canton Esch;4453.0;199702229703*;white;black;medium;Jacqueline;Regnier
+13;F;89;19340214;Portugal;Schieren;Canton Diekirch;0.0;193402142238*;white;gray;medium;Eduarda;Garcia
+14;F;18;20051115;Luxembourg;Luxembourg;Canton Luxembourg;1460.0;200511159284*;white;red;medium;Veerle;Peeters
+15;M;75;19480105;Luxembourg;Pétange;Canton Esch;0.0;194801052382*;white;gray;long;Thibault;Nicolas
+16;F;65;19580703;Luxembourg;Mamer;Canton Capellen;0.0;195807037451*;black;black;medium;Océane;Allard
+17;M;38;19850812;Portugal;Walferdange;Canton Luxembourg;1145.0;198508126783*;white;black;medium;Lucas;Batista
+18;F;28;19950413;Luxembourg;Differdange;Canton Esch;3468.0;199504134002*;white;brown;medium;Carine;Goossens
+19;F;42;19810412;Luxembourg;Mondercange;Canton Esch;1080.0;198104122508*;white;brown;short;Claude;Van Hoof
+20;M;31;19920905;Luxembourg;Esch-sur-Alzette;Canton Esch;1803.0;199209051525*;black;gray;long;Paul;Hardy
+21;F;53;19700111;Luxembourg;Vianden;Canton Vianden;2539.0;197001113871*;white;brown;long;Lina;Marchal
+22;M;59;19640120;Luxembourg;Dudelange;Canton Esch;3453.0;196401206601*;white;black;medium;Jeremy;Letellier
+23;M;49;19740730;Luxembourg;Rumelange;Canton Esch;1404.0;197407307622*;black;gray;short;Alain;De Boeck
+24;F;32;19911128;Belgium;Esch-sur-Alzette;Canton Esch;5803.0;199111285296*;white;brown;medium;Esther;Fierens
+25;F;49;19740831;Italy;Käerjeng;Canton Capellen;3641.0;197408311782*;white;red;short;Michela;Bertoli
+26;F;48;19750108;Luxembourg;Luxembourg;Canton Luxembourg;2960.0;197501082174*;black;black;short;Rita;Leconte
+27;M;65;19580609;Luxembourg;Weiswampach;Canton Clervaux;0.0;195806098468*;white;black;long;Giovanni;Grondin
+28;M;24;19990928;Luxembourg;Schifflange;Canton Esch;5042.0;199909288328*;white;blond;short;Christophe;Gomez
+29;F;56;19671116;Luxembourg;Bertrange;Canton Luxembourg;2587.0;196711164554*;white;black;short;Lise;Martens
+30;F;69;19541201;Portugal;Feulen;Canton Diekirch;0.0;195412016621*;white;blond;short;Carlota;Araújo
+31;F;31;19920122;Luxembourg;Niederanven;Canton Luxembourg;6955.0;199201228453*;latino;black;short;Frédérique;Bauwens
+32;F;23;20000527;Luxembourg;Waldbillig;Canton Echternach;2050.0;200005276425*;black;black;medium;Susanne;Van den Eynde
+33;F;34;19890320;Portugal;Luxembourg;Canton Luxembourg;7960.0;198903200379*;white;black;short;Amélia;Carneiro
+34;M;57;19660905;Portugal;Remich;Canton Remich;16288.0;196609052689*;white;black;long;Rúben;Batista
+35;F;48;19750402;Portugal;Luxembourg;Canton Luxembourg;4460.0;197504026926*;white;black;medium;Mafalda;Vaz
+36;F;50;19730125;Portugal;Differdange;Canton Esch;3968.0;197301258512*;white;brown;short;Nair;Branco
+37;F;26;19970422;Luxembourg;Wiltz;Canton Wiltz;4833.0;199704225142*;white;brown;short;Pauline;Ramos
+38;M;39;19840404;Luxembourg;Parc Hosingen;Canton Clervaux;2585.0;198404045679*;white;gray;long;David;Vermeersch
+39;F;43;19800604;Luxembourg;Rumelange;Canton Esch;2404.0;198006048879*;white;black;medium;Chantal;Merle
+40;F;39;19840306;Luxembourg;Schuttrange;Canton Luxembourg;3044.0;198403065705*;white;brown;short;José;Verheyen
+41;F;20;20030323;Portugal;Luxembourg;Canton Luxembourg;1960.0;200303233156*;white;red;short;Marta;Campos
+42;F;29;19940913;Luxembourg;Luxembourg;Canton Luxembourg;2960.0;199409132721*;white;brown;long;Marguerite;Meyer
+43;F;39;19840419;Italy;Differdange;Canton Esch;2468.0;198404195252*;white;red;medium;Giovanna;Collina
+44;M;27;19960726;Luxembourg;Parc Hosingen;Canton Clervaux;1085.0;199607266600*;white;blond;short;Freddy;Somers
+45;M;40;19830308;Belgium;Bettembourg;Canton Esch;4596.0;198303087785*;white;blond;medium;Jozef;Sels
+46;F;19;20040918;Portugal;Dudelange;Canton Esch;11453.0;200409184754*;white;red;short;Francisca;Sá
+47;F;18;20050510;Belgium;Habscht;Canton Capellen;3639.0;200505103917*;white;black;short;Nathalie;Deman
+48;M;59;19640405;Luxembourg;Mersch;Canton Mersch;7555.0;196404054693*;white;gray;long;Davy;Breugelmans
+49;M;21;20021022;Luxembourg;Sanem;Canton Esch;1642.0;200210220268*;white;black;medium;Franky;Maes
+50;F;76;19470814;France;Betzdorf;Canton Grevenmacher;0.0;194708149494*;white;gray;short;Camille;Nicolas
+51;F;25;19980413;Luxembourg;Schifflange;Canton Esch;9542.0;199804139734*;white;gray;medium;Valérie;Vissers
+52;M;19;20041231;Luxembourg;Kayl;Canton Esch;8116.0;200412312822*;black;black;medium;André;Timmermans
+53;F;19;20040418;Belgium;Mamer;Canton Capellen;12701.0;200404184135*;white;black;long;Marleen;Van den Bossche
+54;F;25;19980329;Portugal;Luxembourg;Canton Luxembourg;21960.0;199803299361*;white;black;medium;Bárbara;Leite
+55;F;57;19660305;Luxembourg;Schifflange;Canton Esch;4042.0;196603056387*;white;gray;short;Nina;De Pauw
+56;M;30;19930525;Luxembourg;Wormeldange;Canton Grevenmacher;8322.0;199305250890*;white;red;short;Benoît;Pinto
+57;F;64;19591108;France;Esch-sur-Alzette;Canton Esch;4803.0;195911086286*;black;gray;short;Élodie;Germain
+58;F;37;19860922;Luxembourg;Luxembourg;Canton Luxembourg;4460.0;198609220453*;white;gray;medium;Cornelia;De Witte
+59;F;67;19560124;Belgium;Bettembourg;Canton Esch;0.0;195601245235*;white;black;long;Zoë;Claeys
+60;M;61;19621223;Portugal;Sandweiler;Canton Luxembourg;2583.0;196212239104*;white;gray;short;Márcio;Alves
+61;F;92;19310529;Poland;Luxembourg;Canton Luxembourg;0.0;193105296452*;white;gray;short;Justyna;Albin
+62;M;57;19660823;Luxembourg;Sanem;Canton Esch;5142.0;196608235767*;white;black;medium;Gilles;Vervoort
+63;M;36;19871109;Luxembourg;Beckerich;Canton Redange;3132.0;198711098816*;white;blond;short;Georges;Luyten
+64;M;26;19970327;Luxembourg;Luxembourg;Canton Luxembourg;3460.0;199703277087*;black;black;long;Luc;Allard
+65;F;29;19941104;Luxembourg;Hesperange;Canton Luxembourg;5654.0;199411044907*;white;red;short;Clara;Dupré
+66;F;63;19600621;Luxembourg;Luxembourg;Canton Luxembourg;5960.0;196006214284*;black;black;short;Linda;Fernandez
+67;F;31;19920411;Luxembourg;Esch-sur-Alzette;Canton Esch;8303.0;199204112055*;white;brown;medium;Jessica;Grégoire
+68;F;46;19771230;Portugal;Schengen;Canton Remich;3039.0;197712304811*;white;brown;short;Salomé;Amorim
+69;M;43;19800617;Portugal;Mamer;Canton Capellen;5701.0;198006174304*;white;black;long;Leandro;Amaral
+70;M;26;19970102;Luxembourg;Esch-sur-Alzette;Canton Esch;8303.0;199701025631*;white;brown;short;Kasper;Weber
+71;F;65;19580504;Romania;Esch-sur-Alzette;Canton Esch;0.0;195805042846*;white;gray;medium;Catrinel;Stănescu
+72;F;39;19840624;Luxembourg;Echternach;Canton Echternach;5723.0;198406248631*;white;black;medium;Susan;Gaillard
+73;F;60;19630718;Luxembourg;Walferdange;Canton Luxembourg;10145.0;196307185630*;white;black;medium;Alice;Pauwels
+74;M;80;19431025;France;Mertzig;Canton Diekirch;0.0;194310256011*;white;gray;long;Matthieu;Jacques
+75;F;30;19930508;Germany;Weiler-la-Tour;Canton Luxembourg;9857.0;199305087184*;white;brown;long;Ljubica;Döhn
+76;F;46;19770719;Portugal;Parc Hosingen;Canton Clervaux;5085.0;197707190103*;white;gray;short;Inês;Pinheiro
+77;F;29;19941007;Luxembourg;Dalheim;Canton Remich;3540.0;199410073088*;latino;brown;medium;Merel;Stevens
+78;F;53;19700218;France;Luxembourg;Canton Luxembourg;2960.0;197002189575*;white;brown;long;Sophie;Martins
+79;F;30;19930913;Luxembourg;Grevenmacher;Canton Grevenmacher;8361.0;199309131344*;white;black;short;Susanne;Guillet
+80;M;35;19880708;Luxembourg;Luxembourg;Canton Luxembourg;3460.0;198807080402*;white;brown;short;Wim;Masse
+81;F;82;19411126;Italy;Luxembourg;Canton Luxembourg;0.0;194111262652*;white;gray;medium;Lidia;Pacelli
+82;F;29;19940418;Luxembourg;Luxembourg;Canton Luxembourg;20960.0;199404185017*;white;black;short;Chantal;Simon
+83;F;43;19800202;Portugal;Luxembourg;Canton Luxembourg;8960.0;198002026222*;white;black;medium;Anita;Batista
+84;F;30;19930930;Luxembourg;Helperknapp;Canton Mersch;3417.0;199309301805*;black;gray;medium;Laetitia;Van Acker
+85;M;48;19750901;Portugal;Rosport-Mompach;Canton Echternach;2096.0;197509015974*;white;red;short;Valentim;Amorim
+86;F;31;19920808;Luxembourg;Luxembourg;Canton Luxembourg;4460.0;199208082025*;latino;gray;medium;Chantal;Van Assche
+87;M;69;19540328;Luxembourg;Luxembourg;Canton Luxembourg;0.0;195403285464*;white;black;short;Xander;Mariën
+88;F;34;19890129;Luxembourg;Differdange;Canton Esch;8468.0;198901290078*;white;black;long;Jacqueline;Charles
+89;F;23;20000521;Luxembourg;Biwer;Canton Grevenmacher;7484.0;200005219333*;black;blond;short;Lucie;Ramaekers
+90;F;68;19550924;Belgium;Troisvierges;Canton Clervaux;0.0;195509245874*;white;gray;short;Aline;Bogaert
+91;F;64;19590713;Luxembourg;Leudelange;Canton Esch;7483.0;195907137070*;white;gray;medium;Juliette;Lemaître
+92;M;35;19880716;Luxembourg;Differdange;Canton Esch;2968.0;198807164934*;black;black;long;Patrick;Cools
+93;M;79;19440322;Portugal;Bertrange;Canton Luxembourg;0.0;194403221685*;white;gray;long;Mateus;Simões
+94;M;19;20040228;Luxembourg;Junglinster;Canton Grevenmacher;1244.0;200402282964*;black;brown;medium;Patrick;Geeraerts
+95;M;25;19980525;Portugal;Luxembourg;Canton Luxembourg;7460.0;199805259759*;white;red;long;Fernando;Lopes
+96;F;56;19670805;Luxembourg;Beaufort;Canton Echternach;2082.0;196708059865*;white;gray;medium;Dorothée;Hendrickx
+97;M;41;19820722;Luxembourg;Habscht;Canton Capellen;9139.0;198207229643*;white;brown;medium;Noël;Celis
+98;F;38;19851111;Luxembourg;Steinsel;Canton Luxembourg;1560.0;198511117694*;white;brown;long;Magdalena;De Wit
+99;F;73;19500324;Portugal;Helperknapp;Canton Mersch;0.0;195003246040*;white;gray;short;Marta;Lourenço
+100;F;37;19860421;Luxembourg;Préizerdaul;Canton Redange;1365.0;198604213882*;white;red;medium;An;Barthelemy
+101;M;52;19710410;Luxembourg;Frisange;Canton Esch;7628.0;197104108417*;white;blond;short;Theo;Gautier
+102;M;39;19841112;Italy;Lorentzweiler;Canton Mersch;12726.0;198411127215*;white;black;medium;Gilberto;Grassi
+103;F;80;19430519;Portugal;Käerjeng;Canton Capellen;0.0;194305193105*;white;gray;short;Jéssica;Morais
+104;F;45;19780125;Ukraine;Heffingen;Canton Mersch;3858.0;197801257368*;white;black;medium;Марина;Ісаєнко
+105;M;59;19641024;Portugal;Sanem;Canton Esch;3142.0;196410240671*;white;gray;short;Miguel;Morais
+106;M;36;19871216;Luxembourg;Pétange;Canton Esch;2528.0;198712168186*;latino;black;long;Jozef;Peltier
+107;M;35;19880105;Portugal;Esch-sur-Alzette;Canton Esch;6803.0;198801058083*;white;black;long;Márcio;Carneiro
+108;M;41;19820730;Italy;Esch-sur-Alzette;Canton Esch;2303.0;198207302303*;white;gray;medium;Niccolò;Rossi
+109;F;45;19780418;Luxembourg;Mondercange;Canton Esch;4580.0;197804189454*;white;red;long;Claudine;Bigot
+110;F;58;19650721;Luxembourg;Steinsel;Canton Luxembourg;8560.0;196507210112*;white;gray;medium;Margot;Hendrickx
+111;F;34;19891226;Luxembourg;Sanem;Canton Esch;1642.0;198912261679*;white;black;long;Bernadette;De Coninck
+112;F;48;19751228;Luxembourg;Luxembourg;Canton Luxembourg;2960.0;197512285235*;black;brown;medium;Céline;Verstraete
+113;F;46;19770131;Luxembourg;Esch-sur-Alzette;Canton Esch;2303.0;197701314695*;black;black;long;Patricia;Étienne
+114;F;36;19870226;Portugal;Esch-sur-Alzette;Canton Esch;2803.0;198702261329*;white;black;long;Adriana;Oliveira
+115;F;27;19960826;Luxembourg;Strassen;Canton Luxembourg;15087.0;199608263783*;latino;blond;short;Laurence;Duval
+116;M;57;19660818;Luxembourg;Wincrange;Canton Clervaux;4032.0;196608184715*;black;gray;long;Marc;Van Damme
+117;F;63;19600909;Luxembourg;Weiler-la-Tour;Canton Luxembourg;3857.0;196009091521*;latino;gray;medium;Alina;De Smet
+118;F;56;19670315;Luxembourg;Luxembourg;Canton Luxembourg;5460.0;196703152693*;white;gray;long;Elisabeth;Van Rompaey
+119;F;56;19671003;Italy;Esch-sur-Alzette;Canton Esch;2803.0;196710036046*;white;brown;short;Marisa;Galvani
+120;F;55;19680625;Portugal;Steinfort;Canton Capellen;18157.0;196806255110*;white;gray;long;Valentina;Campos
+121;F;34;19890420;Luxembourg;Esch-sur-Sûre;Canton Wiltz;4524.0;198904209590*;black;blond;medium;Hortense;Schmitt
+122;M;68;19550501;Luxembourg;Préizerdaul;Canton Redange;0.0;195505017134*;white;black;short;Vincent;Fernandes
+123;M;29;19940412;Portugal;Differdange;Canton Esch;1968.0;199404122734*;white;brown;long;Denis;Rocha
+124;M;50;19730927;Luxembourg;Kehlen;Canton Capellen;6207.0;197309275898*;white;red;long;Joseph;Perrier
+125;F;62;19610120;Luxembourg;Differdange;Canton Esch;1968.0;196101200059*;white;gray;long;Émilie;Cousin
+126;F;56;19671219;Luxembourg;Mersch;Canton Mersch;3555.0;196712197712*;white;black;short;Marie;Martins
+127;F;64;19590120;Belgium;Helperknapp;Canton Mersch;10917.0;195901200631*;white;black;medium;Ilona;Mertens
+128;F;43;19801203;Portugal;Beaufort;Canton Echternach;6582.0;198012030853*;white;black;short;Erika;Castro
+129;F;55;19680201;Portugal;Differdange;Canton Esch;3468.0;196802011712*;white;black;long;Fabiana;Teixeira
+130;F;62;19610827;Luxembourg;Habscht;Canton Capellen;3139.0;196108277673*;white;gray;long;Claudine;Somers
+131;M;92;19310220;Luxembourg;Luxembourg;Canton Luxembourg;0.0;193102206218*;black;gray;medium;Patrick;Charles
+132;F;39;19840717;Luxembourg;Luxembourg;Canton Luxembourg;7460.0;198407173937*;black;gray;long;Noa;Guillaume
+133;M;56;19670601;Luxembourg;Rumelange;Canton Esch;2904.0;196706013898*;white;black;long;Guido;Jacobs
+134;M;56;19670220;Luxembourg;Differdange;Canton Esch;4468.0;196702205309*;latino;blond;short;Jef;Delahaye
+135;F;23;20000929;Luxembourg;Bourscheid;Canton Diekirch;2097.0;200009297673*;white;brown;long;Emmanuelle;Bonte
+136;M;61;19620716;Luxembourg;Strassen;Canton Luxembourg;11587.0;196207167411*;white;gray;long;André;Bruggeman
+137;M;22;20010610;Italy;Mondorf-les-Bains;Canton Remich;1384.0;200106103198*;white;red;short;Marcello;Lombroso
+138;F;70;19530820;Luxembourg;Lenningen;Canton Remich;0.0;195308202327*;white;gray;long;Adèle;Thys
+139;M;52;19710504;Italy;Kehlen;Canton Capellen;11207.0;197105044753*;white;gray;long;Pierangelo;Morandini
+140;F;54;19691104;Luxembourg;Luxembourg;Canton Luxembourg;2460.0;196911046067*;white;red;medium;Denise;Geuens
+141;F;40;19830913;Luxembourg;Sanem;Canton Esch;3142.0;198309137758*;white;gray;medium;Adrienne;Leemans
+142;F;58;19650221;Luxembourg;Käerjeng;Canton Capellen;4641.0;196502218036*;white;gray;short;Jacqueline;Jacquet
+143;F;82;19411105;Luxembourg;Feulen;Canton Diekirch;0.0;194111050842*;white;gray;medium;Dominique;Van Gestel
+144;F;46;19771016;Luxembourg;Kehlen;Canton Capellen;6707.0;197710166206*;white;black;short;Nadia;Andries
+145;F;91;19320513;Luxembourg;Sanem;Canton Esch;0.0;193205138454*;white;gray;short;Christiane;De Block
+146;M;19;20040622;Luxembourg;Mamer;Canton Capellen;4701.0;200406222145*;latino;black;medium;Alphonse;Valentin
+147;M;51;19720224;Luxembourg;Kayl;Canton Esch;4616.0;197202242813*;black;black;short;Auguste;Wauters
+148;F;18;20050818;Poland;Differdange;Canton Esch;3968.0;200508181375*;white;blond;medium;Ada;Waloch
+149;F;31;19920927;Luxembourg;Luxembourg;Canton Luxembourg;20960.0;199209271057*;white;black;medium;Hortense;Weiss
+150;F;39;19840607;Netherlands;Betzdorf;Canton Grevenmacher;1625.0;198406075514*;white;brown;short;Cato;Berendse
+151;F;47;19760409;Luxembourg;Luxembourg;Canton Luxembourg;5460.0;197604097216*;latino;gray;long;Freya;Germain
+152;F;27;19960325;Luxembourg;Luxembourg;Canton Luxembourg;5960.0;199603250047*;white;black;long;Jacqueline;Camus
+153;M;90;19331216;Spain;Rambrouch;Canton Redange;0.0;193312169542*;white;gray;medium;Marcial;Cabezas
+154;F;51;19720724;Luxembourg;Manternach;Canton Grevenmacher;5380.0;197207249393*;black;black;long;Laure;Gay
+155;M;38;19850226;Luxembourg;Redange-sur-Attert;Canton Redange;Nan;198502263037*;white;gray;medium;Floris;Van Hoof
+156;F;49;19740820;Luxembourg;Luxembourg;Canton Luxembourg;6460.0;197408206781*;white;gray;medium;Adèle;Dierickx
+157;M;19;20040802;France;Préizerdaul;Canton Redange;4865.0;200408022970*;black;red;medium;Laurent;Pottier
+158;M;60;19630822;Luxembourg;Pétange;Canton Esch;10028.0;196308220656*;white;brown;long;Bram;Roche
+159;F;45;19781213;Luxembourg;Luxembourg;Canton Luxembourg;7960.0;197812132723*;white;brown;long;Jeanne;Grégoire
+160;M;33;19900115;Luxembourg;Mamer;Canton Capellen;20701.0;199001157133*;white;blond;short;Joseph;Andries
+161;M;73;19500731;France;Habscht;Canton Capellen;0.0;195007311311*;white;gray;medium;Théophile;Barbe
+162;M;92;19310904;Portugal;Rambrouch;Canton Redange;0.0;193109043902*;white;gray;long;César;Vicente
+163;M;68;19550201;Portugal;Dalheim;Canton Remich;0.0;195502019560*;white;black;short;Gil;Soares
+164;M;50;19730607;Luxembourg;Lenningen;Canton Remich;5568.0;197306077331*;white;red;short;Jérôme;Baetens
+165;F;53;19700729;Luxembourg;Weiswampach;Canton Clervaux;7512.0;197007293685*;white;gray;medium;Danielle;Cuypers
+166;F;62;19610822;Luxembourg;Esch-sur-Alzette;Canton Esch;1303.0;196108227592*;white;gray;short;Marie-Thérèse;Peeters
+167;F;24;19990629;Luxembourg;Steinfort;Canton Capellen;5657.0;199906297170*;white;black;medium;Michelle;Riou
+168;M;45;19781230;France;Bissen;Canton Mersch;3055.0;197812305103*;white;black;long;Denis;Raynaud
+169;M;58;19650514;Portugal;Käerjeng;Canton Capellen;5641.0;196505148004*;white;gray;short;Ismael;Jesus
+170;F;34;19890807;Luxembourg;Beaufort;Canton Echternach;11082.0;198908077787*;black;gray;short;Caroline;Poulain
+171;F;56;19670204;Luxembourg;Kayl;Canton Esch;1616.0;196702044052*;white;gray;medium;Martine;De Wachter
+172;M;22;20011007;Luxembourg;Kayl;Canton Esch;3116.0;200110075020*;black;red;medium;Guy;Verboven
+173;F;26;19970920;Luxembourg;Tandel;Canton Vianden;3153.0;199709201415*;black;black;medium;Petra;Bouvet
+174;M;24;19990530;Portugal;Niederanven;Canton Luxembourg;16955.0;199905307690*;white;brown;long;Denis;Almeida
+175;M;39;19841021;Ukraine;Käerjeng;Canton Capellen;4641.0;198410219184*;white;blond;short;Хома;Бакуменко
+176;M;55;19681229;France;Pétange;Canton Esch;3028.0;196812297451*;white;black;medium;Bertrand;Andre
+177;M;44;19791029;France;Vallée de l'Ernz;Canton Diekirch;5597.0;197910292378*;white;brown;medium;Frédéric;Richard
+178;F;38;19850829;Luxembourg;Clervaux;Canton Clervaux;7479.0;198508296677*;white;black;medium;Manon;Dillen
+179;F;46;19770110;France;Consdorf;Canton Echternach;2063.0;197701102531*;white;red;medium;Sylvie;Delmas
+180;F;47;19760407;Italy;Luxembourg;Canton Luxembourg;2460.0;197604078340*;white;gray;long;Virginia;Juvara
+181;F;52;19710122;Italy;Bettembourg;Canton Esch;5096.0;197101222616*;white;brown;long;Rosina;Paruta
+182;F;29;19940228;Portugal;Ettelbruck;Canton Diekirch;5862.0;199402284751*;white;red;long;Miriam;Gonçalves
+183;M;49;19741120;Luxembourg;Luxembourg;Canton Luxembourg;2460.0;197411204251*;white;black;long;Marc;Vanneste
+184;M;45;19781013;France;Rambrouch;Canton Redange;3046.0;197810133166*;black;brown;short;Joseph;Carre
+185;F;45;19780406;Luxembourg;Boulaide;Canton Wiltz;10895.0;197804062024*;white;gray;long;Anja;Gay
+186;F;32;19910827;Luxembourg;Mersch;Canton Mersch;5555.0;199108275270*;white;black;short;Laetitia;Fournier
+187;F;57;19660924;Luxembourg;Luxembourg;Canton Luxembourg;15460.0;196609243966*;black;black;short;Sonia;Pauwels
+188;M;53;19701225;Belgium;Ettelbruck;Canton Diekirch;3362.0;197012251091*;white;brown;long;Viktor;De Wolf
+189;F;22;20010704;Romania;Mondercange;Canton Esch;4580.0;200107044225*;white;red;medium;Beatrice;Voinea
+190;M;73;19500602;Luxembourg;Clervaux;Canton Clervaux;0.0;195006022178*;white;gray;short;Liam;Lombard
+191;M;35;19880905;Belgium;Steinfort;Canton Capellen;1157.0;198809056677*;white;red;short;Thomas;De Baere
+192;M;62;19610220;Luxembourg;Steinfort;Canton Capellen;2657.0;196102200531*;white;blond;medium;Joseph;Godard
+193;M;20;20031103;Luxembourg;Mamer;Canton Capellen;8701.0;200311036483*;white;black;short;Steve;Lacroix
+194;F;48;19750313;Luxembourg;Rumelange;Canton Esch;2404.0;197503135306*;latino;brown;medium;Sara;Delahaye
+195;F;38;19850519;Luxembourg;Colmar-Berg;Canton Mersch;3224.0;198505194019*;white;blond;short;Aurore;Lopez
+196;M;45;19780404;Luxembourg;Luxembourg;Canton Luxembourg;9960.0;197804045498*;white;gray;medium;Willy;Willems
+197;F;69;19541203;Portugal;Luxembourg;Canton Luxembourg;0.0;195412034787*;white;gray;short;Clara;Carneiro
+198;M;51;19720831;Luxembourg;Wiltz;Canton Wiltz;3333.0;197208315640*;white;gray;medium;Geert;Geerts
+199;M;19;20040906;Luxembourg;Bissen;Canton Mersch;3055.0;200409062726*;white;brown;medium;Denis;Barre
+200;F;21;20020304;Luxembourg;Ettelbruck;Canton Diekirch;862.0;200203048248*;black;brown;long;Margaud;Peeters
+201;M;38;19850907;Luxembourg;Mertert;Canton Grevenmacher;8508.0;198509079587*;black;black;medium;Joseph;Goris
+202;F;55;19680312;Luxembourg;Luxembourg;Canton Luxembourg;1960.0;196803124372*;white;black;long;Zita;Tanghe
+203;M;73;19500208;Portugal;Luxembourg;Canton Luxembourg;0.0;195002081504*;white;gray;short;Luís;Machado
+204;F;25;19981230;Luxembourg;Differdange;Canton Esch;4968.0;199812305939*;white;black;long;Élise;Arnaud
+205;F;29;19940314;Luxembourg;Remich;Canton Remich;3288.0;199403144980*;white;red;short;Vanessa;Ali
+206;M;60;19631001;Luxembourg;Luxembourg;Canton Luxembourg;10460.0;196310016787*;white;black;short;Olivier;Van Damme
+207;F;54;19691023;Luxembourg;Pétange;Canton Esch;1528.0;196910232786*;white;black;short;Caroline;De Backer
+208;F;68;19550903;Portugal;Erpeldange-sur-Sûre;Canton Diekirch;0.0;195509035812*;white;gray;medium;Beatriz;Henriques
+209;M;76;19470606;Luxembourg;Pétange;Canton Esch;0.0;194706062953*;white;gray;short;Paul;Lopez
+210;F;30;19931202;Italy;Dudelange;Canton Esch;4453.0;199312022482*;white;blond;long;Margherita;Maffei
+211;M;52;19710604;Portugal;Esch-sur-Alzette;Canton Esch;6303.0;197106046001*;white;gray;medium;Alexandre;Carvalho
+212;M;28;19951222;Luxembourg;Mamer;Canton Capellen;4201.0;199512228172*;black;red;short;Paul;Nelissen
+213;F;34;19891217;Luxembourg;Schifflange;Canton Esch;6042.0;198912170785*;white;black;medium;Anne;Poppe
+214;M;60;19630409;Italy;Steinfort;Canton Capellen;4657.0;196304090016*;white;black;short;Tullio;Emanuelli
+215;F;22;20010318;Italy;Wormeldange;Canton Grevenmacher;5322.0;200103185278*;white;red;short;Tiziana;Antonelli
+216;F;30;19930503;France;Luxembourg;Canton Luxembourg;6460.0;199305030137*;white;brown;medium;Michelle;Jacques
+217;F;31;19920527;Luxembourg;Esch-sur-Alzette;Canton Esch;3303.0;199205274525*;latino;gray;long;Christelle;Navarro
+218;F;37;19861010;Luxembourg;Feulen;Canton Diekirch;1342.0;198610106435*;white;gray;medium;Marguerite;Devaux
+219;M;70;19530816;India;Pétange;Canton Esch;0.0;195308162936*;south asians;gray;long;Anvi;Ramesh
+220;M;61;19620528;France;Luxembourg;Canton Luxembourg;9460.0;196205282836*;black;black;medium;Alexandre;Moreau
+221;M;61;19620322;Luxembourg;Differdange;Canton Esch;2968.0;196203227607*;white;black;short;Stijn;Berger
+222;M;39;19841117;Luxembourg;Sanem;Canton Esch;14142.0;198411174820*;white;black;medium;Louis;De Wilde
+223;M;39;19840720;Luxembourg;Echternach;Canton Echternach;1223.0;198407203651*;latino;black;medium;Antoine;Verelst
+224;F;58;19650102;Luxembourg;Pétange;Canton Esch;2028.0;196501025561*;white;gray;long;Marine;Segers
+225;F;62;19610526;Luxembourg;Hesperange;Canton Luxembourg;7154.0;196105265816*;white;brown;medium;Lisette;Nicolas
+226;M;30;19931213;Luxembourg;Luxembourg;Canton Luxembourg;18460.0;199312134694*;white;brown;short;Isaac;Dhondt
+227;M;59;19640524;Luxembourg;Luxembourg;Canton Luxembourg;3460.0;196405242220*;white;gray;long;Yannick;Vincent
+228;M;81;19420924;Luxembourg;Bertrange;Canton Luxembourg;0.0;194209249231*;white;gray;long;Auguste;Martin
+229;M;41;19820113;Luxembourg;Dudelange;Canton Esch;3953.0;198201133590*;white;blond;long;Freddy;Gérard
+230;F;36;19871225;Portugal;Luxembourg;Canton Luxembourg;10460.0;198712250481*;white;red;medium;Yara;Henriques
+231;M;20;20030412;Luxembourg;Redange-sur-Attert;Canton Redange;Nan;200304127482*;white;red;long;Marc;Vandaele
+232;M;69;19540211;Portugal;Clervaux;Canton Clervaux;0.0;195402119810*;white;brown;long;Igor;Moreira
+233;F;43;19801127;Luxembourg;Esch-sur-Alzette;Canton Esch;7303.0;198011272694*;white;brown;long;Sophie;Cools
+234;M;75;19480518;Luxembourg;Bettembourg;Canton Esch;0.0;194805180808*;white;gray;medium;Georges;Perez
+235;M;32;19911213;Italy;Flaxweiler;Canton Grevenmacher;3266.0;199112131667*;white;blond;medium;Leopoldo;Beffa
+236;F;73;19500414;Luxembourg;Mersch;Canton Mersch;0.0;195004141862*;latino;gray;medium;Carine;Carlier
+237;F;33;19900314;Luxembourg;Sanem;Canton Esch;10142.0;199003142271*;latino;blond;medium;Sandy;Moons
+238;M;61;19620204;Luxembourg;Luxembourg;Canton Luxembourg;8960.0;196202042328*;latino;gray;short;Yves;Foucher
+239;M;65;19580509;India;Sanem;Canton Esch;0.0;195805094215*;south asians;black;long;Pari;Bala
+240;M;61;19620507;Luxembourg;Luxembourg;Canton Luxembourg;3460.0;196205075009*;black;brown;long;Wim;Texier
+241;M;62;19610808;Germany;Luxembourg;Canton Luxembourg;6960.0;196108085649*;white;black;short;Oliver;Junitz
+242;M;22;20010405;Luxembourg;Ettelbruck;Canton Diekirch;1862.0;200104055488*;white;black;short;Marcel;Boone
+243;M;40;19830513;Luxembourg;Luxembourg;Canton Luxembourg;7460.0;198305136481*;white;red;long;Étienne;Dillen
+244;F;43;19800717;France;Vallée de l'Ernz;Canton Diekirch;3097.0;198007174285*;black;black;short;Laure;Grenier
+245;M;62;19610621;Portugal;Pétange;Canton Esch;4028.0;196106217674*;white;brown;short;Kévim;Borges
+246;M;60;19630607;Portugal;Differdange;Canton Esch;3468.0;196306070094*;white;brown;medium;Noah;Matias
+247;M;18;20051217;Luxembourg;Esch-sur-Alzette;Canton Esch;7303.0;200512173198*;white;red;medium;Benny;Hanssens
+248;F;19;20041010;France;Dippach;Canton Capellen;10666.0;200410101603*;black;black;short;Valentine;Torres
+249;F;58;19650119;Portugal;Walferdange;Canton Luxembourg;6145.0;196501196263*;white;gray;medium;Núria;Pinto
+250;M;28;19950122;Luxembourg;Walferdange;Canton Luxembourg;7645.0;199501223478*;white;gray;medium;Franciscus;Neirynck
+251;F;73;19500422;Luxembourg;Pétange;Canton Esch;0.0;195004226177*;white;gray;long;Michelle;Snauwaert
+252;M;54;19690510;Portugal;Mersch;Canton Mersch;10055.0;196905108449*;white;blond;medium;Cláudio;Borges
+253;M;34;19890714;Luxembourg;Luxembourg;Canton Luxembourg;4460.0;198907149649*;black;black;long;Jasper;Lemmens
+254;F;77;19461203;Portugal;Luxembourg;Canton Luxembourg;0.0;194612038046*;white;gray;short;Petra;Pinheiro
+255;M;33;19901106;Luxembourg;Dalheim;Canton Remich;1040.0;199011062173*;latino;brown;short;Julien;Peeters
+256;M;65;19580917;Portugal;Schengen;Canton Remich;0.0;195809178184*;white;blond;medium;Diego;Marques
+257;F;42;19810404;France;Strassen;Canton Luxembourg;7087.0;198104041011*;black;gray;medium;Valérie;Étienne
+258;M;39;19840227;Luxembourg;Diekirch;Canton Diekirch;1890.0;198402276260*;white;brown;short;Johan;Aubry
+259;F;32;19911109;Portugal;Pétange;Canton Esch;2528.0;199111091191*;white;black;short;Margarida;Marques
+260;M;81;19420920;France;Roeser;Canton Esch;0.0;194209208534*;black;gray;short;Gilbert;Launay
+261;M;41;19820123;Luxembourg;Esch-sur-Alzette;Canton Esch;1803.0;198201234446*;white;black;medium;Raymond;Guyot
+262;F;76;19470214;Portugal;Esch-sur-Alzette;Canton Esch;0.0;194702144889*;white;black;medium;Clara;Cardoso
+263;M;55;19681010;Spain;Betzdorf;Canton Grevenmacher;4125.0;196810105974*;white;gray;long;Albino;Iglesias
+264;F;74;19490718;Italy;Esch-sur-Alzette;Canton Esch;0.0;194907181295*;white;gray;short;Fernanda;Mengolo
+265;F;95;19281023;Luxembourg;Esch-sur-Alzette;Canton Esch;0.0;192810237732*;white;gray;short;Daisy;De Oliveira
+266;M;25;19980818;Luxembourg;Dudelange;Canton Esch;2453.0;199808183852*;white;blond;medium;Honoré;Guillot
+267;M;68;19550829;Portugal;Junglinster;Canton Grevenmacher;0.0;195508292483*;white;gray;long;Leandro;Santos
+268;F;66;19570731;Luxembourg;Käerjeng;Canton Capellen;0.0;195707319089*;white;black;long;Isabelle;Boyer
+269;M;19;20041012;Luxembourg;Dippach;Canton Capellen;1166.0;200410124903*;white;brown;medium;Johnny;Bègue
+270;M;22;20010420;Belgium;Luxembourg;Canton Luxembourg;4960.0;200104208834*;white;blond;short;Mehdi;Vanderstraeten
+271;M;69;19540822;France;Esch-sur-Alzette;Canton Esch;0.0;195408223737*;white;black;short;Étienne;Legros
+272;F;39;19840920;Luxembourg;Differdange;Canton Esch;1468.0;198409204255*;white;black;long;Iris;De Bie
+273;F;66;19570128;Luxembourg;Beckerich;Canton Redange;0.0;195701286179*;black;gray;medium;Alexandrie;Huysmans
+274;F;53;19700801;Luxembourg;Steinfort;Canton Capellen;12157.0;197008017001*;white;black;medium;Alexandrie;Demuynck
+275;F;27;19961004;Luxembourg;Hesperange;Canton Luxembourg;5154.0;199610048022*;white;brown;long;Patricia;Stas
+276;F;54;19690504;Luxembourg;Luxembourg;Canton Luxembourg;3460.0;196905047400*;latino;black;medium;Kelly;Maurice
+277;F;86;19370109;Ukraine;Grevenmacher;Canton Grevenmacher;0.0;193701096481*;white;gray;medium;Михайлина;Яремко
+278;F;72;19511005;Luxembourg;Schifflange;Canton Esch;0.0;195110059108*;white;gray;long;Louisa;D'Hondt
+279;F;21;20020813;Luxembourg;Flaxweiler;Canton Grevenmacher;1766.0;200208131262*;white;brown;long;Amber;Gérard
+280;M;52;19710429;Luxembourg;Steinsel;Canton Luxembourg;3060.0;197104298966*;white;black;medium;Olivier;Peeters
+281;F;63;19600906;Luxembourg;Luxembourg;Canton Luxembourg;10460.0;196009069121*;white;gray;short;Marianne;Salmon
+282;F;22;20011021;Luxembourg;Luxembourg;Canton Luxembourg;7960.0;200110211150*;white;brown;short;Claude;Carlier
+283;M;54;19691212;Portugal;Dalheim;Canton Remich;2540.0;196912122803*;white;gray;short;Gil;Marques
+284;M;57;19660519;Luxembourg;Esch-sur-Alzette;Canton Esch;7803.0;196605192214*;white;brown;short;Lucas;Callens
+285;M;41;19820311;Portugal;Dudelange;Canton Esch;2953.0;198203116287*;white;black;short;Vítor;Esteves
+286;M;37;19861027;Portugal;Luxembourg;Canton Luxembourg;5960.0;198610272639*;white;black;long;Rodrigo;Barbosa
+287;M;77;19461202;Luxembourg;Echternach;Canton Echternach;0.0;194612020271*;white;gray;long;Richard;Leysen
+288;M;37;19860806;Luxembourg;Luxembourg;Canton Luxembourg;26960.0;198608063424*;white;blond;medium;Éric;Diaz
+289;F;59;19641222;France;Kopstal;Canton Capellen;16892.0;196412226094*;white;gray;medium;Alix;François
+290;M;27;19960810;Luxembourg;Luxembourg;Canton Luxembourg;1460.0;199608101295*;white;brown;short;Stijn;Hermans
+291;F;36;19870924;Luxembourg;Esch-sur-Alzette;Canton Esch;2303.0;198709242063*;white;brown;medium;Clémence;Dupré
+292;M;38;19850408;Portugal;Larochette;Canton Mersch;951.0;198504083336*;white;black;short;Mauro;Cunha
+293;M;70;19530516;Luxembourg;Habscht;Canton Capellen;0.0;195305162719*;latino;black;medium;Fernand;Lopez
+294;F;68;19550805;Luxembourg;Sanem;Canton Esch;0.0;195508059402*;white;gray;long;Clémence;De Wachter
+295;F;20;20031105;Portugal;Hesperange;Canton Luxembourg;8154.0;200311052641*;white;black;medium;Petra;Esteves
+296;F;51;19721204;Luxembourg;Wiltz;Canton Wiltz;5833.0;197212047082*;white;red;long;Jeannine;Lévêque
+297;M;18;20050512;Luxembourg;Bertrange;Canton Luxembourg;15587.0;200505120239*;white;red;medium;Anas;De Decker
+298;F;18;20050719;Portugal;Weiswampach;Canton Clervaux;3012.0;200507190013*;white;brown;short;Bruna;Barbosa
+299;M;22;20011207;Sweden;Differdange;Canton Esch;4468.0;200112077740*;white;red;long;Oscar;Nilsson
+300;F;43;19800816;Luxembourg;Kehlen;Canton Capellen;4707.0;198008165636*;latino;black;short;Jade;Delaunay
+301;F;60;19631122;Luxembourg;Mamer;Canton Capellen;6201.0;196311222392*;white;gray;medium;Katrien;Celis
+302;F;52;19710130;Belgium;Esch-sur-Sûre;Canton Wiltz;6024.0;197101303776*;white;black;short;Mathilde;Meersman
+303;M;74;19490705;Luxembourg;Hesperange;Canton Luxembourg;0.0;194907056948*;black;gray;long;Eddy;De Bruyn
+304;M;64;19591029;Portugal;Clervaux;Canton Clervaux;3979.0;195910294163*;white;gray;medium;Ismael;Jesus
+305;F;59;19640918;Luxembourg;Bertrange;Canton Luxembourg;1087.0;196409181608*;latino;brown;medium;Noa;Lelièvre
+306;M;26;19970612;Luxembourg;Mamer;Canton Capellen;16201.0;199706125248*;white;black;long;Rayan;Guibert
+307;F;57;19661024;Luxembourg;Lintgen;Canton Mersch;2616.0;196610240518*;black;brown;short;Laetitia;Weber
+308;M;46;19771106;Luxembourg;Luxembourg;Canton Luxembourg;960.0;197711069829*;white;red;short;David;Geerts
+309;M;49;19740412;Belgium;Bettembourg;Canton Esch;4596.0;197404128694*;white;brown;long;Niels;Verhelst
+310;M;49;19741129;Luxembourg;Ettelbruck;Canton Diekirch;7362.0;197411296300*;white;black;short;Johan;Techer
+311;M;21;20020905;Luxembourg;Frisange;Canton Esch;10628.0;200209054938*;white;blond;short;Kevin;Desmet
+312;F;35;19880123;Luxembourg;Käerjeng;Canton Capellen;8141.0;198801234788*;latino;gray;medium;Nicole;Hoarau
+313;M;79;19440402;Luxembourg;Luxembourg;Canton Luxembourg;0.0;194404021100*;white;gray;long;Daniel;Bertrand
+314;F;34;19891213;Luxembourg;Mondercange;Canton Esch;4080.0;198912134765*;white;brown;short;Hélène;Rousset
+315;F;36;19871212;Portugal;Kopstal;Canton Capellen;4392.0;198712128631*;white;brown;long;Carolina;Nunes
+316;F;60;19630204;Luxembourg;Rambrouch;Canton Redange;4546.0;196302043739*;white;gray;medium;Hilde;Pichon
+317;F;63;19600902;United Kingdom;Esch-sur-Alzette;Canton Esch;3303.0;196009029441*;white;brown;medium;Yolanda;Thompson
+318;M;58;19650618;Ukraine;Rambrouch;Canton Redange;5046.0;196506185819*;white;gray;long;Нестор;Рябченко
+319;F;42;19810816;Luxembourg;Pétange;Canton Esch;5028.0;198108167187*;white;black;short;Liliane;Morin
+320;M;40;19831207;Luxembourg;Dudelange;Canton Esch;1953.0;198312078737*;white;red;long;Emile;Demeyere
+321;F;63;19600329;Ukraine;Bertrange;Canton Luxembourg;6587.0;196003295815*;white;gray;long;Ліза;Ванченко
+322;M;24;19990717;Sweden;Hesperange;Canton Luxembourg;6154.0;199907177807*;white;red;long;Kjell;Franzén
+323;F;84;19390101;Portugal;Mondorf-les-Bains;Canton Remich;0.0;193901015500*;white;gray;medium;Luísa;Paiva
+324;M;31;19921220;Luxembourg;Wincrange;Canton Clervaux;10532.0;199212205376*;white;gray;long;Éric;Texier
+325;M;47;19760909;Luxembourg;Luxembourg;Canton Luxembourg;20460.0;197609099468*;latino;brown;short;Julien;Van Looveren
+326;M;30;19930520;Luxembourg;Luxembourg;Canton Luxembourg;1960.0;199305204303*;black;gray;medium;Jules;Da Costa
+327;M;19;20040425;Luxembourg;Erpeldange-sur-Sûre;Canton Diekirch;6645.0;200404256497*;latino;red;long;Martin;Thys
+328;F;61;19620412;Luxembourg;Bettembourg;Canton Esch;4096.0;196204127518*;white;black;medium;Marine;Grondin
+329;M;60;19630316;Luxembourg;Echternach;Canton Echternach;4223.0;196303165803*;white;black;short;Étienne;Ooms
+330;M;34;19890823;Portugal;Luxembourg;Canton Luxembourg;7460.0;198908236445*;white;black;short;André;Correia
+331;F;46;19770122;Luxembourg;Walferdange;Canton Luxembourg;4145.0;197701224198*;white;gray;medium;Nancy;De Cuyper
+332;M;44;19790824;Belgium;Strassen;Canton Luxembourg;10587.0;197908242514*;white;gray;medium;Henri;Janssen
+333;M;55;19681203;Luxembourg;Luxembourg;Canton Luxembourg;9960.0;196812036317*;white;blond;long;Jozef;Lesage
+334;M;54;19690428;Luxembourg;Dudelange;Canton Esch;3453.0;196904281845*;white;red;medium;Xavier;Gielen
+335;M;43;19801218;Ukraine;Lac de la Haute-Sûre;Canton Wiltz;4542.0;198012185108*;white;gray;short;Опанас;Овсієнко
+336;F;56;19670326;Luxembourg;Grevenmacher;Canton Grevenmacher;3361.0;196703265316*;latino;brown;medium;Margaud;De Clercq
+337;F;59;19640426;Luxembourg;Steinsel;Canton Luxembourg;4060.0;196404263108*;white;gray;long;Marlies;Verheyen
+338;F;39;19840219;Luxembourg;Kayl;Canton Esch;8616.0;198402193843*;white;brown;short;Huguette;Van Dessel
+339;F;36;19870318;Belgium;Schifflange;Canton Esch;1042.0;198703188071*;white;gray;medium;Carine;Roels
+340;M;45;19780831;Belgium;Strassen;Canton Luxembourg;11087.0;197808317644*;white;red;medium;Finn;Pieters
+341;F;87;19360715;Luxembourg;Luxembourg;Canton Luxembourg;0.0;193607155990*;white;gray;long;Amélie;Daniel
+342;F;64;19591030;Brazil;Luxembourg;Canton Luxembourg;2960.0;195910300744*;latino;blond;long;Daniela;Moreira
+343;M;66;19570125;Luxembourg;Luxembourg;Canton Luxembourg;0.0;195701259154*;latino;gray;medium;Ryan;Malfait
+344;F;66;19571124;Luxembourg;Waldbillig;Canton Echternach;0.0;195711244419*;white;blond;long;Rosalie;De Backer
+345;F;80;19430708;Luxembourg;Luxembourg;Canton Luxembourg;0.0;194307081387*;white;gray;long;Amélie;Geerts
+346;M;60;19630105;Luxembourg;Luxembourg;Canton Luxembourg;2460.0;196301053625*;white;gray;medium;Dennis;Jourdan
+347;M;49;19741202;Luxembourg;Mondorf-les-Bains;Canton Remich;884.0;197412023944*;white;gray;medium;Georges;Op de Beeck
+348;F;67;19560201;Portugal;Koerich;Canton Capellen;0.0;195602017095*;white;gray;long;Raquel;Azevedo
+349;M;30;19930420;Luxembourg;Schieren;Canton Diekirch;2219.0;199304209647*;latino;gray;medium;Auguste;De Coster
+350;F;42;19810601;Luxembourg;Differdange;Canton Esch;3968.0;198106017692*;latino;black;medium;Amélie;Vermeersch
+351;M;60;19631028;Portugal;Flaxweiler;Canton Grevenmacher;2266.0;196310284148*;white;gray;short;António;Pinho
+352;M;72;19510106;Luxembourg;Reckange-sur-Mess;Canton Esch;0.0;195101069509*;latino;gray;long;Auguste;Vandecasteele
+353;F;44;19790815;France;Walferdange;Canton Luxembourg;6645.0;197908150855*;white;gray;short;Anastasie;Faure
+354;M;58;19651020;Luxembourg;Differdange;Canton Esch;1968.0;196510205506*;latino;black;short;Nicolas;Barthelemy
+355;M;36;19870519;Luxembourg;Rosport-Mompach;Canton Echternach;1096.0;198705196615*;white;black;medium;Nicolas;Joseph
+356;F;64;19590526;Luxembourg;Luxembourg;Canton Luxembourg;6460.0;195905261216*;white;gray;long;Anne;Simon
+357;F;53;19701122;Portugal;Parc Hosingen;Canton Clervaux;5585.0;197011229369*;white;brown;medium;Joana;Brito
+358;F;55;19680520;Portugal;Junglinster;Canton Grevenmacher;1244.0;196805200725*;white;gray;medium;Vera;Fernandes
+359;F;60;19630913;Italy;Schifflange;Canton Esch;2042.0;196309138520*;white;brown;medium;Cecilia;Mimun
+360;F;63;19600907;Luxembourg;Steinsel;Canton Luxembourg;4060.0;196009076078*;white;black;short;Valérie;Imbert
+361;M;58;19650309;Netherlands;Erpeldange-sur-Sûre;Canton Diekirch;3145.0;196503099265*;white;black;medium;Pepijn;van den Velde
+362;M;80;19431111;Belgium;Roeser;Canton Esch;0.0;194311110458*;white;gray;long;Gust;Claeys
+363;F;42;19811110;Luxembourg;Hesperange;Canton Luxembourg;9154.0;198111102703*;white;gray;long;Colette;Gosselin
+364;F;27;19960221;Luxembourg;Rumelange;Canton Esch;3904.0;199602210289*;white;red;long;Éléonore;Vandevelde
+365;M;48;19750425;Luxembourg;Frisange;Canton Esch;5128.0;197504256329*;white;black;long;Luca;Colpaert
+366;M;26;19970914;Italy;Steinsel;Canton Luxembourg;9560.0;199709141396*;white;black;long;Dino;Comboni
+367;M;35;19880723;Luxembourg;Niederanven;Canton Luxembourg;5455.0;198807234661*;white;gray;short;Arthur;Bazin
+368;F;61;19620423;Luxembourg;Roeser;Canton Esch;2132.0;196204234275*;white;black;medium;Valerie;Pierre
+369;F;22;20010930;Luxembourg;Luxembourg;Canton Luxembourg;2960.0;200109303161*;white;red;medium;Tanja;Van Loo
+370;M;56;19670108;Luxembourg;Lenningen;Canton Remich;2568.0;196701085425*;white;black;medium;Jules;Everaert
+371;M;53;19701224;Portugal;Sanem;Canton Esch;2642.0;197012241993*;white;black;short;António;Pinheiro
+372;F;35;19880709;Luxembourg;Schifflange;Canton Esch;3042.0;198807090053*;white;gray;medium;Caroline;Verhoeven
+373;F;39;19840429;Luxembourg;Pétange;Canton Esch;3028.0;198404298784*;white;gray;short;Alice;Van Assche
+374;M;18;20050928;Luxembourg;Walferdange;Canton Luxembourg;2145.0;200509286409*;latino;blond;long;Gérard;Pereira
+375;M;55;19680211;Belgium;Luxembourg;Canton Luxembourg;7960.0;196802118821*;white;gray;medium;Samuel;Degroote
+376;F;55;19680121;Portugal;Differdange;Canton Esch;5468.0;196801213293*;white;black;short;Alexandra;Lourenço
+377;M;25;19980615;Luxembourg;Luxembourg;Canton Luxembourg;4460.0;199806156677*;white;brown;long;Luc;De Backer
+378;M;46;19770831;Luxembourg;Schifflange;Canton Esch;2042.0;197708314401*;black;black;medium;Mike;Charrier
+379;F;54;19690817;Portugal;Luxembourg;Canton Luxembourg;2960.0;196908178964*;white;blond;short;Alice;Campos
+380;F;69;19541124;Italy;Bettembourg;Canton Esch;0.0;195411240896*;white;black;long;Maria;Ricci
+381;M;41;19820122;Italy;Useldange;Canton Redange;6396.0;198201224108*;white;gray;short;Domenico;Toninelli
+382;M;50;19730310;Luxembourg;Luxembourg;Canton Luxembourg;4460.0;197303108038*;white;black;long;Christophe;Lefort
+383;M;40;19830401;Luxembourg;Ettelbruck;Canton Diekirch;4362.0;198304010120*;latino;gray;short;Michel;Vaes
+384;F;65;19581218;Luxembourg;Luxembourg;Canton Luxembourg;0.0;195812180520*;white;gray;medium;Els;Prévost
+385;M;50;19730114;Luxembourg;Luxembourg;Canton Luxembourg;1960.0;197301148625*;black;black;medium;Maurice;Meeus
+386;F;41;19820710;Luxembourg;Schifflange;Canton Esch;5542.0;198207107594*;white;gray;long;Liliane;Leconte
+387;M;77;19461017;United Kingdom;Lorentzweiler;Canton Mersch;0.0;194610179584*;white;gray;medium;Connor;Smith
+388;F;40;19830122;Luxembourg;Parc Hosingen;Canton Clervaux;5585.0;198301220431*;white;gray;long;Kathleen;Gilles
+389;F;86;19370219;Romania;Strassen;Canton Luxembourg;0.0;193702198650*;white;gray;short;Clementina;Dobre
+390;M;55;19680315;Luxembourg;Esch-sur-Sûre;Canton Wiltz;3524.0;196803150543*;white;gray;long;Ibrahim;Hermans
+391;F;77;19460110;Luxembourg;Bertrange;Canton Luxembourg;0.0;194601106015*;latino;gray;short;Liesbeth;Verhelst
+392;M;21;20020824;Romania;Niederanven;Canton Luxembourg;2455.0;200208248087*;white;brown;short;Remus;Ababei
+393;M;18;20050427;Luxembourg;Consdorf;Canton Echternach;8563.0;200504270642*;white;brown;long;Thibaut;Vercauteren
+394;F;65;19580831;Luxembourg;Differdange;Canton Esch;0.0;195808315248*;white;blond;long;Anaïs;Van den Bergh
+395;F;41;19820503;Luxembourg;Mertert;Canton Grevenmacher;3508.0;198205030390*;white;red;short;Huguette;Diaz
+396;M;30;19930210;Portugal;Wincrange;Canton Clervaux;1032.0;199302108411*;white;red;medium;António;Cardoso
+397;F;68;19550120;Luxembourg;Luxembourg;Canton Luxembourg;0.0;195501204462*;white;brown;short;Maria;Verstraete
+398;M;52;19710123;Portugal;Luxembourg;Canton Luxembourg;2460.0;197101232418*;white;brown;short;Joel;Silva
+399;F;27;19960913;Luxembourg;Sanem;Canton Esch;5642.0;199609133572*;latino;gray;long;Adrienne;Timmerman
+400;M;45;19780618;Luxembourg;Niederanven;Canton Luxembourg;4455.0;197806180394*;white;brown;long;Joseph;Laporte
+401;F;67;19560813;Luxembourg;Contern;Canton Luxembourg;0.0;195608139483*;white;black;medium;Amelie;Michielsen
+402;F;19;20040513;Portugal;Manternach;Canton Grevenmacher;3880.0;200405133131*;white;black;short;Gabriela;Ribeiro
+403;F;41;19820422;Luxembourg;Dudelange;Canton Esch;12453.0;198204223781*;white;red;short;Marine;David
+404;F;22;20011001;Luxembourg;Luxembourg;Canton Luxembourg;1960.0;200110012496*;white;red;medium;Hortense;Casier
+405;F;31;19920926;Luxembourg;Differdange;Canton Esch;2968.0;199209261263*;white;blond;short;Bernadette;De Smet
+406;M;58;19650301;France;Kehlen;Canton Capellen;5207.0;196503018906*;white;gray;long;Thibault;Boyer
+407;F;41;19820522;Luxembourg;Kopstal;Canton Capellen;7392.0;198205227214*;white;gray;long;Hélène;Schepens
+408;F;63;19600205;France;Pétange;Canton Esch;3028.0;196002057667*;white;gray;short;Margaret;Traore
+409;F;87;19360503;France;Sanem;Canton Esch;0.0;193605034169*;white;gray;short;Louise;Noël
+410;M;39;19841102;France;Luxembourg;Canton Luxembourg;6960.0;198411022851*;white;brown;medium;Alexandre;Rousseau
+411;F;28;19950116;Portugal;Luxembourg;Canton Luxembourg;2960.0;199501169045*;white;brown;medium;Renata;Lourenço
+412;F;60;19630913;France;Luxembourg;Canton Luxembourg;15460.0;196309138982*;black;gray;medium;Nathalie;Bouvier
+413;F;58;19651010;Luxembourg;Differdange;Canton Esch;3968.0;196510103108*;white;blond;short;Luce;Blanc
+414;F;25;19980819;Portugal;Differdange;Canton Esch;7468.0;199808193955*;white;blond;medium;Pilar;Coelho
+415;F;38;19850105;Luxembourg;Luxembourg;Canton Luxembourg;5960.0;198501054655*;latino;brown;short;Lisa;Texier
+416;M;59;19641220;Luxembourg;Schifflange;Canton Esch;6542.0;196412207964*;white;black;short;Geert;Faivre
+417;F;27;19960527;Luxembourg;Diekirch;Canton Diekirch;2890.0;199605274216*;white;black;short;Pauline;De Vos
+418;F;69;19540525;Luxembourg;Esch-sur-Alzette;Canton Esch;0.0;195405259199*;latino;gray;long;Claire;Ferreira
+419;F;31;19920903;Luxembourg;Luxembourg;Canton Luxembourg;5460.0;199209034121*;white;black;short;Éléonore;Bonnet
+420;F;32;19910528;Luxembourg;Bettembourg;Canton Esch;3096.0;199105283415*;white;black;medium;Maggie;De Pauw
+421;F;65;19580106;France;Luxembourg;Canton Luxembourg;0.0;195801062739*;black;black;short;Zoé;Daniel
+422;M;34;19890305;Belgium;Luxembourg;Canton Luxembourg;4960.0;198903054596*;white;black;long;Maarten;Casteleyn
+423;M;65;19580211;Luxembourg;Dudelange;Canton Esch;0.0;195802119803*;white;gray;long;Michaël;Duhamel
+424;M;34;19890629;Luxembourg;Weiswampach;Canton Clervaux;2012.0;198906291424*;white;gray;medium;Jules;Berthelot
+425;M;50;19730812;Luxembourg;Schifflange;Canton Esch;2542.0;197308125172*;white;red;medium;Christophe;Pottier
+426;F;63;19600703;Sweden;Luxembourg;Canton Luxembourg;3960.0;196007033283*;white;black;long;Gertrud;Hellström
+427;F;26;19970209;Italy;Schieren;Canton Diekirch;3719.0;199702092633*;white;black;short;Concetta;Pellico
+428;F;54;19691114;Portugal;Wiltz;Canton Wiltz;2833.0;196911141280*;white;black;medium;Letícia;Henriques
+429;F;47;19760526;Luxembourg;Stadtbredimus;Canton Remich;11568.0;197605261246*;white;brown;medium;Monique;Decoster
+430;F;53;19701208;Italy;Wiltz;Canton Wiltz;4833.0;197012086808*;white;red;long;Bianca;Argentero
+431;F;29;19940528;Luxembourg;Schuttrange;Canton Luxembourg;16544.0;199405280912*;black;black;medium;Jacqueline;Bertrand
+432;M;44;19790910;Luxembourg;Waldbillig;Canton Echternach;3550.0;197909106550*;black;brown;short;Mohamed;Blondel
+433;M;83;19401206;Belgium;Sanem;Canton Esch;0.0;194012064694*;white;gray;short;Petrus;Simons
+434;F;36;19870103;France;Luxembourg;Canton Luxembourg;1460.0;198701038538*;black;brown;medium;Marcelle;Normand
+435;F;36;19870910;Luxembourg;Bourscheid;Canton Diekirch;5097.0;198709109559*;white;blond;medium;Édith;Aerts
+436;M;61;19620211;Luxembourg;Luxembourg;Canton Luxembourg;1960.0;196202118402*;white;gray;long;Brecht;Engels
+437;M;58;19650415;France;Mamer;Canton Capellen;6201.0;196504155708*;white;black;medium;Jean;Maillet
+438;F;27;19960210;Luxembourg;Hesperange;Canton Luxembourg;2154.0;199602107103*;latino;gray;short;Élise;Poulain
+439;F;80;19430708;Belgium;Esch-sur-Alzette;Canton Esch;0.0;194307080997*;white;black;medium;Lindsay;Vanhoutte
+440;M;89;19340301;France;Dudelange;Canton Esch;0.0;193403017427*;black;gray;medium;Jacques;Rousset
+441;M;23;20000502;Luxembourg;Dudelange;Canton Esch;2953.0;200005025206*;white;red;long;Honoré;Rogiers
+442;M;72;19511026;United Kingdom;Lintgen;Canton Mersch;0.0;195110266423*;white;gray;medium;Mark;Williams
+443;F;49;19740712;Luxembourg;Clervaux;Canton Clervaux;2979.0;197407129568*;white;gray;short;Sophie;De Ridder
+444;F;62;19611202;Luxembourg;Luxembourg;Canton Luxembourg;960.0;196112029709*;white;black;long;Stéphanie;Thijs
+445;F;31;19920422;Luxembourg;Dudelange;Canton Esch;4953.0;199204227340*;latino;black;long;Arnaude;Auger
+446;M;54;19690121;Luxembourg;Luxembourg;Canton Luxembourg;16460.0;196901211547*;white;brown;long;Kobe;Colin
+447;M;38;19850801;Luxembourg;Strassen;Canton Luxembourg;3087.0;198508011496*;white;brown;short;Daniel;Meyer
+448;F;29;19940803;Luxembourg;Luxembourg;Canton Luxembourg;7960.0;199408037770*;white;red;medium;Marina;Lejeune
+449;M;74;19490916;Luxembourg;Roeser;Canton Esch;0.0;194909165808*;white;gray;long;Yves;Delmas
+450;M;28;19950630;Luxembourg;Niederanven;Canton Luxembourg;6455.0;199506304526*;white;black;short;Emmanuel;Regnier
+451;F;61;19620120;Luxembourg;Differdange;Canton Esch;2468.0;196201204358*;white;gray;short;Tessa;Gevaert
+452;F;39;19840228;France;Luxembourg;Canton Luxembourg;6460.0;198402280740*;white;black;medium;Océane;Mendès
+453;M;80;19430714;France;Mersch;Canton Mersch;0.0;194307149631*;white;gray;long;Thibault;Faure
+454;M;40;19830219;Italy;Roeser;Canton Esch;4132.0;198302191488*;white;gray;long;Lazzaro;Parmitano
+455;M;47;19760131;Luxembourg;Mersch;Canton Mersch;2555.0;197601313706*;white;black;medium;Wouter;Marin
+456;F;32;19910308;France;Differdange;Canton Esch;3968.0;199103088999*;black;brown;long;Anne;Lévêque
+457;F;54;19690323;Luxembourg;Kayl;Canton Esch;5616.0;196903231386*;latino;black;short;Rosette;Godard
+458;M;64;19590615;Luxembourg;Luxembourg;Canton Luxembourg;15460.0;195906150509*;white;blond;medium;Noël;Léger
+459;M;48;19750425;Luxembourg;Diekirch;Canton Diekirch;2890.0;197504258019*;white;gray;short;Richard;Le Goff
+460;M;25;19980812;France;Käerjeng;Canton Capellen;9141.0;199808123979*;white;black;long;Xavier;Regnier
+461;F;60;19631018;Luxembourg;Sanem;Canton Esch;3642.0;196310184090*;white;gray;long;Petra;Janssens
+462;F;42;19811202;Luxembourg;Mersch;Canton Mersch;4555.0;198112021936*;white;gray;medium;Ginette;De Smet
+463;F;73;19500527;Portugal;Bettembourg;Canton Esch;0.0;195005272750*;white;gray;long;Salomé;Fonseca
+464;F;21;20021125;Luxembourg;Walferdange;Canton Luxembourg;5645.0;200211250024*;white;red;long;Magda;Troch
+465;M;52;19710120;United States of Ameria;Strassen;Canton Luxembourg;5087.0;197101204648*;white;red;medium;Jonathan;Carlson
+466;M;71;19521221;Luxembourg;Luxembourg;Canton Luxembourg;0.0;195212219544*;white;gray;medium;Aimé;Hardy
+467;M;34;19891229;Luxembourg;Pétange;Canton Esch;7028.0;198912292338*;white;black;short;Georges;Heylen
+468;F;69;19540810;Portugal;Remich;Canton Remich;0.0;195408104661*;white;gray;medium;Emília;Nunes
+469;F;52;19710418;Italy;Luxembourg;Canton Luxembourg;10460.0;197104189369*;white;gray;medium;Germana;Grifeo
+470;M;69;19541030;France;Feulen;Canton Diekirch;0.0;195410308208*;white;black;short;Yves;Brun
+471;F;54;19691127;Luxembourg;Luxembourg;Canton Luxembourg;4960.0;196911279819*;white;black;medium;Sabine;Segers
+472;M;52;19710327;Luxembourg;Vianden;Canton Vianden;4039.0;197103272219*;white;brown;long;David;Lefebvre
+473;F;58;19650127;Portugal;Esch-sur-Alzette;Canton Esch;2803.0;196501271761*;white;black;medium;Yasmin;Fonseca
+474;M;44;19790816;Portugal;Esch-sur-Alzette;Canton Esch;1303.0;197908169680*;white;brown;long;Benjamim;Henriques
+475;M;45;19780712;Luxembourg;Wiltz;Canton Wiltz;2833.0;197807121285*;white;blond;short;Adrien;Legendre
+476;F;53;19700602;Portugal;Sanem;Canton Esch;1642.0;197006021673*;white;black;medium;Débora;Pinheiro
+477;M;47;19760223;France;Sanem;Canton Esch;3142.0;197602230407*;black;blond;medium;Arthur;Chauvet
+478;M;60;19630316;Hungary;Pétange;Canton Esch;2528.0;196303167032*;white;black;long;Dávid;Nagy
+479;F;57;19661101;Luxembourg;Pétange;Canton Esch;4028.0;196611017908*;white;black;medium;Joséphine;Henry
+480;F;63;19600731;Luxembourg;Dudelange;Canton Esch;6953.0;196007317326*;white;brown;medium;Brigitte;Guyon
+481;M;53;19701029;Portugal;Weiler-la-Tour;Canton Luxembourg;3357.0;197010296346*;white;brown;medium;Vasco;Lima
+482;M;65;19580217;Luxembourg;Luxembourg;Canton Luxembourg;0.0;195802174817*;white;gray;long;Maurice;Raeymaekers
+483;F;32;19910617;Luxembourg;Wiltz;Canton Wiltz;9333.0;199106177792*;white;brown;short;Leen;Baudry
+484;F;45;19780127;Luxembourg;Rambrouch;Canton Redange;3546.0;197801270517*;white;red;long;Luna;Poirier
+485;F;41;19820613;Luxembourg;Kehlen;Canton Capellen;5707.0;198206133664*;white;red;short;Valentine;Arnaud
+486;F;82;19410311;Luxembourg;Sanem;Canton Esch;0.0;194103117019*;white;gray;short;Louise;Weber
+487;M;64;19590217;Belgium;Ettelbruck;Canton Diekirch;7862.0;195902177075*;white;gray;long;Erik;Verheyen
+488;M;69;19540403;Luxembourg;Dalheim;Canton Remich;0.0;195404034144*;white;black;medium;Alexandre;Dubois
+489;F;27;19961217;Luxembourg;Esch-sur-Alzette;Canton Esch;7303.0;199612176137*;black;gray;medium;Yara;Lenaerts
+490;F;65;19580423;Belgium;Junglinster;Canton Grevenmacher;0.0;195804237954*;white;black;medium;Anouk;Peeters
+491;M;30;19930520;Luxembourg;Differdange;Canton Esch;1968.0;199305200172*;white;gray;long;Lodewijk;Govaerts
+492;M;56;19670226;Luxembourg;Walferdange;Canton Luxembourg;2645.0;196702264578*;white;blond;long;Benoît;Nijs
+493;M;38;19851031;Ukraine;Luxembourg;Canton Luxembourg;1460.0;198510312936*;white;gray;short;Болеслав;Павленко
+494;F;59;19640120;France;Redange-sur-Attert;Canton Redange;Nan;196401209407*;white;gray;medium;Laurence;Maury
+495;F;55;19680324;France;Pétange;Canton Esch;4028.0;196803245624*;white;black;medium;Susan;Marin
+496;M;65;19580213;Luxembourg;Luxembourg;Canton Luxembourg;0.0;195802130688*;white;black;medium;Matthieu;Gay
+497;M;58;19650210;Italy;Schengen;Canton Remich;1539.0;196502101523*;white;gray;short;Maurilio;Cilea
+498;M;33;19901026;Luxembourg;Lintgen;Canton Mersch;3116.0;199010264891*;white;red;short;Alfred;Bonnin
+499;M;40;19831130;France;Helperknapp;Canton Mersch;2917.0;198311301011*;white;black;long;Roger;Lefebvre
+500;F;47;19760308;France;Niederanven;Canton Luxembourg;7955.0;197603085108*;white;black;short;Édith;Delattre
+501;M;41;19820616;Luxembourg;Dudelange;Canton Esch;3453.0;198206167974*;white;black;long;Ben;Lebrun
+502;F;28;19950614;Luxembourg;Schifflange;Canton Esch;1542.0;199506146512*;white;blond;medium;Amélie;Petitjean
+503;M;78;19451030;Luxembourg;Dudelange;Canton Esch;0.0;194510304255*;white;gray;medium;Antoine;Lejeune
+504;M;36;19871007;Luxembourg;Luxembourg;Canton Luxembourg;2960.0;198710071333*;latino;blond;long;Théophile;Verhoeven
+505;M;20;20030321;Luxembourg;Dudelange;Canton Esch;953.0;200303212731*;black;black;short;Michiel;Poelmans
+506;F;57;19660703;Luxembourg;Helperknapp;Canton Mersch;2917.0;196607037382*;latino;black;medium;Sabine;Vereecke
+507;F;58;19650618;Italy;Käerjeng;Canton Capellen;9641.0;196506189580*;white;black;medium;Renata;Tron
+508;F;19;20040405;Luxembourg;Beckerich;Canton Redange;5132.0;200404059789*;white;red;medium;Amélie;Fleury
+509;F;60;19630830;Luxembourg;Esch-sur-Alzette;Canton Esch;803.0;196308300655*;white;black;long;Ilse;Gaillard
+510;F;52;19710702;Brazil;Sanem;Canton Esch;7142.0;197107024558*;latino;gray;medium;Lívia;Jesus
+511;M;62;19611117;Luxembourg;Beaufort;Canton Echternach;4082.0;196111172370*;white;gray;medium;Ömer;Hermans
+512;F;29;19940121;Luxembourg;Luxembourg;Canton Luxembourg;7960.0;199401212654*;white;black;medium;Philippine;Huybrechts
+513;F;32;19911016;Luxembourg;Luxembourg;Canton Luxembourg;5960.0;199110163579*;latino;gray;long;Françoise;Lombard
+514;M;70;19530814;Luxembourg;Esch-sur-Alzette;Canton Esch;0.0;195308148061*;white;gray;medium;Stephan;Philippe
+515;F;42;19810601;Portugal;Luxembourg;Canton Luxembourg;5460.0;198106011188*;white;black;short;Carolina;Henriques
+516;F;27;19960625;Luxembourg;Luxembourg;Canton Luxembourg;6460.0;199606257635*;black;black;short;Emmanuelle;Cools
+517;F;27;19960518;Luxembourg;Pétange;Canton Esch;3528.0;199605186750*;white;black;short;Michelle;Aubry
+518;M;22;20010807;Luxembourg;Kehlen;Canton Capellen;4207.0;200108073348*;white;brown;long;Frédéric;Riou
+519;F;25;19980423;Luxembourg;Walferdange;Canton Luxembourg;4145.0;199804232691*;latino;black;long;Margaud;Fernandez
+520;F;46;19770716;Luxembourg;Kopstal;Canton Capellen;14892.0;197707169487*;white;black;medium;Christine;De Oliveira
+521;M;58;19651028;Luxembourg;Pétange;Canton Esch;3028.0;196510288240*;white;gray;medium;Lucas;Pottier
+522;M;22;20010527;Luxembourg;Differdange;Canton Esch;3468.0;200105273695*;latino;black;medium;Thomas;Devos
+523;F;31;19921027;Portugal;Helperknapp;Canton Mersch;2917.0;199210270205*;white;red;medium;Renata;Alves
+524;F;28;19950808;France;Mertert;Canton Grevenmacher;11008.0;199508082748*;white;black;medium;Alice;Weber
+525;F;31;19920129;Luxembourg;Esch-sur-Sûre;Canton Wiltz;7524.0;199201290408*;white;red;short;Célina;Allain
+526;F;23;20000919;Luxembourg;Schieren;Canton Diekirch;4719.0;200009192080*;white;brown;medium;Lore;Andre
+527;M;31;19920628;Luxembourg;Bettembourg;Canton Esch;2096.0;199206286409*;white;gray;long;Nathan;Bernard
+528;F;51;19720108;Luxembourg;Kehlen;Canton Capellen;4207.0;197201082942*;latino;black;medium;Astrid;Van Dijck
+529;M;61;19620414;Spain;Diekirch;Canton Diekirch;4890.0;196204143131*;white;gray;short;Cándido;Elorza
+530;F;31;19920513;Luxembourg;Koerich;Canton Capellen;13684.0;199205139589*;white;black;medium;Maggie;Verhaegen
+531;M;23;20000518;Luxembourg;Beaufort;Canton Echternach;6082.0;200005184280*;white;black;short;Patrick;Smits
+532;M;32;19910102;Portugal;Luxembourg;Canton Luxembourg;4460.0;199101027221*;white;gray;long;Manuel;Antunes
+533;F;59;19640727;Portugal;Luxembourg;Canton Luxembourg;3960.0;196407271830*;white;gray;long;Bárbara;Antunes
+534;F;61;19621213;Portugal;Niederanven;Canton Luxembourg;23955.0;196212137532*;white;black;long;Francisca;Miranda
+535;M;26;19970818;Luxembourg;Clervaux;Canton Clervaux;3979.0;199708189088*;white;gray;medium;Roger;De Cock
+536;M;38;19851014;Netherlands;Sanem;Canton Esch;5642.0;198510143962*;white;black;medium;Rafael;Backer
+537;M;37;19861123;Luxembourg;Clervaux;Canton Clervaux;4479.0;198611239420*;black;black;medium;Raymond;De Coster
+538;F;23;20000826;Luxembourg;Esch-sur-Alzette;Canton Esch;4303.0;200008262361*;white;black;short;Victoire;Lippens
+539;F;49;19741201;Luxembourg;Luxembourg;Canton Luxembourg;18460.0;197412013755*;white;gray;long;Emmanuelle;Vaillant
+540;F;76;19470613;Belgium;Schuttrange;Canton Luxembourg;0.0;194706130126*;white;gray;short;Vera;Declercq
+541;M;19;20040628;France;Kayl;Canton Esch;5116.0;200406287807*;white;black;medium;Rémy;Becker
+542;M;81;19420103;Portugal;Differdange;Canton Esch;0.0;194201032592*;white;gray;short;Vasco;Branco
+543;M;28;19950613;France;Mertert;Canton Grevenmacher;2008.0;199506138760*;white;brown;medium;Thibaut;Bouvier
+544;M;46;19770205;Luxembourg;Pétange;Canton Esch;2028.0;197702057651*;white;gray;medium;Tristan;Martens
+545;M;32;19910804;Luxembourg;Roeser;Canton Esch;13132.0;199108043329*;latino;black;medium;Kevin;Martin
+546;M;75;19481019;Luxembourg;Roeser;Canton Esch;0.0;194810193567*;white;black;medium;Jens;Rocher
+547;F;36;19870311;Luxembourg;Niederanven;Canton Luxembourg;3455.0;198703112861*;white;black;medium;Susanne;Verbruggen
+548;M;63;19600131;Portugal;Luxembourg;Canton Luxembourg;8960.0;196001315454*;white;blond;long;Guilherme;Teixeira
+549;F;30;19930615;Germany;Hesperange;Canton Luxembourg;7654.0;199306153867*;white;brown;short;Sylvia;Riehl
+550;M;31;19920530;Luxembourg;Pétange;Canton Esch;2528.0;199205300427*;white;black;medium;Christophe;Gosselin
+551;F;26;19970429;Luxembourg;Rambrouch;Canton Redange;2046.0;199704294508*;black;gray;short;Louisa;Maertens
+552;M;23;20000219;Portugal;Luxembourg;Canton Luxembourg;15460.0;200002192520*;white;black;short;Tomé;Ramos
+553;M;20;20030720;Germany;Luxembourg;Canton Luxembourg;5960.0;200307203137*;white;red;short;Karl-Peter;Schüler
+554;F;54;19691111;Luxembourg;Bertrange;Canton Luxembourg;4587.0;196911119022*;latino;black;medium;Marcelle;Daems
+555;M;44;19790803;Netherlands;Mondercange;Canton Esch;8580.0;197908033147*;white;red;long;Robin;Zeemans
+556;M;54;19691007;Italy;Luxembourg;Canton Luxembourg;7960.0;196910079774*;white;black;long;Lucio;Nolcini
+557;F;40;19831220;Luxembourg;Ettelbruck;Canton Diekirch;4862.0;198312206814*;white;red;long;Monique;Lesage
+558;F;50;19730417;Luxembourg;Mertert;Canton Grevenmacher;3508.0;197304177727*;latino;black;long;Josette;Verfaillie
+559;F;69;19540707;Luxembourg;Differdange;Canton Esch;0.0;195407072437*;white;black;medium;Adèle;Beyens
+560;F;30;19930405;India;Hesperange;Canton Luxembourg;2154.0;199304057276*;south asians;black;short;Advik;Dixit
+561;F;20;20030109;Portugal;Esch-sur-Sûre;Canton Wiltz;1524.0;200301096607*;white;blond;long;Luna;Santos
+562;M;21;20020521;Luxembourg;Käerjeng;Canton Capellen;2141.0;200205212468*;white;brown;short;Émile;Bertin
+563;F;26;19970216;Luxembourg;Clervaux;Canton Clervaux;2479.0;199702160328*;latino;brown;short;Aurore;Riou
+564;M;49;19740730;Luxembourg;Mamer;Canton Capellen;17201.0;197407308993*;latino;red;medium;Steve;Pires
+565;F;37;19861113;Portugal;Mersch;Canton Mersch;16055.0;198611133421*;white;gray;short;Naiara;Vicente
+566;F;66;19570427;Portugal;Kopstal;Canton Capellen;0.0;195704275388*;white;black;medium;Lorena;Reis
+567;M;34;19890724;Luxembourg;Roeser;Canton Esch;11132.0;198907249464*;white;black;short;Auguste;Callens
+568;M;36;19871130;Luxembourg;Niederanven;Canton Luxembourg;5955.0;198711308368*;latino;black;medium;Michel;Vansteenkiste
+569;F;45;19781016;France;Sanem;Canton Esch;5142.0;197810163917*;white;black;long;Dorothée;Devaux
+570;M;54;19690920;Turkey;Biwer;Canton Grevenmacher;2984.0;196909207818*;turkish;black;medium;Server;Ertaş
+571;F;20;20030430;Portugal;Ettelbruck;Canton Diekirch;2862.0;200304300066*;white;blond;long;Carminho;Jesus
+572;F;59;19640804;Ireland;Helperknapp;Canton Mersch;1917.0;196408048899*;white;gray;short;Rhianna;Wallace
+573;F;48;19750908;Luxembourg;Dudelange;Canton Esch;7953.0;197509086162*;white;black;short;Els;De Cock
+574;F;38;19850703;Luxembourg;Goesdorf;Canton Wiltz;8111.0;198507032533*;white;gray;short;Isabelle;Fleury
+575;M;65;19580714;Portugal;Hesperange;Canton Luxembourg;0.0;195807143780*;white;black;short;Kévim;Vieira
+576;M;66;19570705;Ukraine;Biwer;Canton Grevenmacher;0.0;195707051054*;white;brown;medium;Валерій;Фастенко
+577;F;55;19680930;Luxembourg;Luxembourg;Canton Luxembourg;2460.0;196809306196*;white;black;long;Camille;Dijoux
+578;M;33;19900312;Luxembourg;Mersch;Canton Mersch;1055.0;199003126353*;white;black;long;Jonas;Georges
+579;M;45;19780919;Luxembourg;Käerjeng;Canton Capellen;1641.0;197809194051*;black;black;long;Robby;Yilmaz
+580;F;70;19530717;Luxembourg;Esch-sur-Alzette;Canton Esch;0.0;195307177431*;latino;black;medium;Laura;Roels
+581;F;83;19400114;Luxembourg;Esch-sur-Alzette;Canton Esch;0.0;194001149086*;white;gray;short;Sarah;Martel
+582;M;34;19890515;Luxembourg;Mondercange;Canton Esch;1580.0;198905158567*;white;gray;short;Simon;Hendrickx
+583;M;66;19570621;Luxembourg;Luxembourg;Canton Luxembourg;0.0;195706219128*;latino;gray;medium;Lucas;De Bruyn
+584;M;59;19640910;Luxembourg;Mertzig;Canton Diekirch;8242.0;196409107893*;white;gray;short;Alexandre;Goossens
+585;F;57;19660114;Luxembourg;Bettembourg;Canton Esch;5596.0;196601145503*;white;black;long;Christiane;Imbert
+586;F;33;19900219;Luxembourg;Lorentzweiler;Canton Mersch;9726.0;199002197966*;white;gray;short;Griet;Fouquet
+587;M;45;19780302;Luxembourg;Beaufort;Canton Echternach;5582.0;197803022078*;white;brown;medium;Vincent;Andre
+588;F;29;19940806;Portugal;Dudelange;Canton Esch;3953.0;199408060813*;white;red;short;Gabriela;Correia
+589;M;33;19901217;Luxembourg;Luxembourg;Canton Luxembourg;4960.0;199012174487*;white;brown;short;Gilbert;Fernandez
+590;M;41;19821111;Luxembourg;Luxembourg;Canton Luxembourg;4460.0;198211110910*;white;gray;long;Charles;Christiaens
+591;F;43;19800712;Luxembourg;Bettembourg;Canton Esch;7096.0;198007125062*;white;black;short;Noémi;Becker
+592;F;33;19900811;Portugal;Lac de la Haute-Sûre;Canton Wiltz;3542.0;199008110794*;white;blond;medium;Adriana;Abreu
+593;M;22;20010126;Luxembourg;Mamer;Canton Capellen;12201.0;200101266293*;white;black;medium;Roger;Martens
+594;F;37;19860311;Luxembourg;Lac de la Haute-Sûre;Canton Wiltz;8042.0;198603119625*;white;black;medium;Laurence;Pelletier
+595;M;73;19500525;France;Sanem;Canton Esch;0.0;195005255884*;white;gray;long;Rémy;De Sousa
+596;M;43;19800916;Luxembourg;Strassen;Canton Luxembourg;2087.0;198009169906*;white;gray;long;Bernard;Claesen
+597;F;53;19701014;Portugal;Luxembourg;Canton Luxembourg;5960.0;197010148603*;white;black;short;Lara;Almeida
+598;F;37;19860116;Luxembourg;Helperknapp;Canton Mersch;3917.0;198601161799*;white;black;long;Isabelle;Rémy
+599;M;60;19630320;Luxembourg;Feulen;Canton Diekirch;3342.0;196303200750*;white;blond;long;Johan;Fleury
+600;F;25;19980406;France;Bertrange;Canton Luxembourg;6087.0;199804061201*;black;black;short;Martine;Bourdon
+601;M;44;19790224;Portugal;Luxembourg;Canton Luxembourg;13960.0;197902240046*;white;black;medium;Jaime;Pinheiro
+602;F;33;19900720;Luxembourg;Schifflange;Canton Esch;3542.0;199007205247*;white;black;short;Nadia;Gros
+603;M;73;19500315;Italy;Luxembourg;Canton Luxembourg;0.0;195003153907*;white;gray;medium;Pierpaolo;Bellini
+604;M;61;19620929;Luxembourg;Beaufort;Canton Echternach;10082.0;196209292267*;white;black;medium;Léon;Michel
+605;F;82;19410624;Luxembourg;Sanem;Canton Esch;0.0;194106243514*;black;gray;long;Marine;Lecomte
+606;M;18;20050329;Luxembourg;Kehlen;Canton Capellen;1207.0;200503297597*;white;blond;medium;Arne;Slegers
+607;M;49;19740827;Portugal;Bissen;Canton Mersch;3055.0;197408274844*;white;black;long;Vicente;Machado
+608;F;85;19380707;Portugal;Remich;Canton Remich;0.0;193807071088*;white;gray;long;Pilar;Ferreira
+609;F;95;19280307;Luxembourg;Luxembourg;Canton Luxembourg;0.0;192803075730*;white;black;short;Céline;Van Rompaey
+610;M;76;19471123;Luxembourg;Garnich;Canton Capellen;0.0;194711234601*;white;gray;medium;Andy;Houben
+611;F;72;19510418;Luxembourg;Pétange;Canton Esch;0.0;195104180065*;white;gray;medium;Laure;Coulon
+612;F;54;19691125;France;Luxembourg;Canton Luxembourg;5960.0;196911257424*;black;black;short;Capucine;Rocher
+613;M;48;19750130;Portugal;Pétange;Canton Esch;2028.0;197501304832*;white;brown;long;Diego;Tavares
+614;F;39;19841003;Luxembourg;Mondercange;Canton Esch;3580.0;198410032979*;white;gray;medium;Danielle;Diaz
+615;F;79;19441214;Spain;Mamer;Canton Capellen;0.0;194412143743*;white;gray;medium;Calista;Albero
+616;F;29;19940602;Luxembourg;Luxembourg;Canton Luxembourg;8460.0;199406026031*;white;black;short;Gitte;Dupont
+617;F;76;19470223;Portugal;Mertert;Canton Grevenmacher;0.0;194702238275*;white;gray;medium;Renata;Henriques
+618;M;75;19481125;France;Luxembourg;Canton Luxembourg;0.0;194811257696*;white;gray;medium;Timothée;Mary
+619;M;32;19911101;France;Differdange;Canton Esch;3968.0;199111010051*;white;blond;medium;Hugues;Gallet
+620;F;31;19921211;Luxembourg;Käerjeng;Canton Capellen;1141.0;199212116917*;white;brown;short;Nicole;Toussaint
+621;M;24;19991026;Luxembourg;Garnich;Canton Capellen;4243.0;199910262731*;white;brown;long;François;Pichon
+622;M;66;19571202;Luxembourg;Schifflange;Canton Esch;0.0;195712020398*;white;gray;long;Daniel;Verdonck
+623;F;52;19710111;Portugal;Walferdange;Canton Luxembourg;5645.0;197101117352*;white;black;medium;Erica;Marques
+624;F;30;19930511;Sweden;Luxembourg;Canton Luxembourg;2960.0;199305111102*;white;blond;medium;Anna;Olsson
+625;F;65;19581021;Luxembourg;Differdange;Canton Esch;0.0;195810212572*;black;black;short;Lucie;Maes
+626;M;42;19810623;France;Weiler-la-Tour;Canton Luxembourg;10857.0;198106230530*;white;brown;short;Auguste;Sanchez
+627;M;24;19990406;Luxembourg;Bettembourg;Canton Esch;5096.0;199904062683*;white;red;medium;Roland;Grondin
+628;F;26;19970707;Luxembourg;Luxembourg;Canton Luxembourg;7960.0;199707072679*;latino;blond;short;Lea;Pierre
+629;M;31;19920915;Luxembourg;Frisange;Canton Esch;5128.0;199209158457*;white;black;medium;Miguel;De Smet
+630;F;30;19930219;France;Erpeldange-sur-Sûre;Canton Diekirch;10145.0;199302196838*;white;brown;short;Laetitia;Klein
+631;F;57;19660527;Luxembourg;Pétange;Canton Esch;3528.0;196605275263*;white;gray;short;Célina;Fernandez
+632;M;80;19430620;France;Luxembourg;Canton Luxembourg;0.0;194306202236*;white;gray;short;Augustin;Henry
+633;F;73;19500830;France;Luxembourg;Canton Luxembourg;0.0;195008305715*;black;gray;medium;Olivie;Rocher
+634;F;18;20050612;Luxembourg;Differdange;Canton Esch;2468.0;200506128713*;white;red;long;Mariette;Marie
+635;M;30;19931014;Portugal;Dudelange;Canton Esch;8453.0;199310141605*;white;brown;medium;João;Baptista
+636;M;73;19500117;Luxembourg;Boulaide;Canton Wiltz;0.0;195001174368*;black;gray;long;Robert;Bossuyt
+637;M;71;19520714;Luxembourg;Bettembourg;Canton Esch;0.0;195207147163*;white;gray;medium;Mats;Staelens
+638;F;49;19740905;Luxembourg;Bettembourg;Canton Esch;4596.0;197409052200*;white;black;medium;Sofie;Claessens
+639;F;47;19761017;Luxembourg;Diekirch;Canton Diekirch;7390.0;197610172204*;white;blond;medium;Monique;Beernaert
+640;M;51;19721104;Luxembourg;Schifflange;Canton Esch;3542.0;197211044732*;white;gray;medium;Stefan;Belmans
+641;F;87;19361226;Luxembourg;Luxembourg;Canton Luxembourg;0.0;193612260902*;latino;gray;short;Cindy;Engelen
+642;F;40;19830710;Luxembourg;Boulaide;Canton Wiltz;6895.0;198307105346*;white;gray;medium;Nathalie;Mercier
+643;M;44;19790806;Luxembourg;Rambrouch;Canton Redange;1046.0;197908062832*;black;black;medium;Marc;Snauwaert
+644;M;44;19790124;France;Kehlen;Canton Capellen;2207.0;197901241837*;white;blond;short;François;Charles
+645;F;24;19990606;Portugal;Differdange;Canton Esch;7468.0;199906060717*;white;red;medium;Luana;Pereira
+646;M;40;19830510;Luxembourg;Esch-sur-Alzette;Canton Esch;4803.0;198305108626*;white;gray;medium;Axel;Van Looveren
+647;M;49;19740718;Luxembourg;Schifflange;Canton Esch;8542.0;197407184515*;latino;gray;medium;Stefan;Lombard
+648;M;42;19810106;Portugal;Esch-sur-Alzette;Canton Esch;3803.0;198101064915*;white;black;short;Gil;Marques
+649;M;19;20040419;Luxembourg;Echternach;Canton Echternach;3223.0;200404197539*;white;blond;short;Alfred;Dupuy
+650;M;24;19990616;Spain;Dudelange;Canton Esch;5453.0;199906163014*;white;red;short;Pepe;Llamas
+651;M;34;19890925;Italy;Luxembourg;Canton Luxembourg;9460.0;198909251370*;white;gray;short;Cipriano;Forza
+652;M;52;19710721;Hungary;Luxembourg;Canton Luxembourg;1960.0;197107214274*;white;red;medium;Antal;Kiss
+653;M;57;19660705;Luxembourg;Flaxweiler;Canton Grevenmacher;1766.0;196607052651*;black;gray;long;Noah;De Bruyn
+654;M;82;19410626;Luxembourg;Walferdange;Canton Luxembourg;0.0;194106268004*;latino;gray;medium;Siebe;Meyers
+655;M;64;19590303;Luxembourg;Bertrange;Canton Luxembourg;5587.0;195903032570*;latino;gray;medium;Daniel;Gomes
+656;F;52;19710926;Belgium;Luxembourg;Canton Luxembourg;3460.0;197109263029*;white;black;medium;Monique;Huybrechts
+657;M;18;20050215;Luxembourg;Grevenmacher;Canton Grevenmacher;11361.0;200502158982*;black;black;long;Arthur;Callewaert
+658;M;64;19591219;Luxembourg;Luxembourg;Canton Luxembourg;5960.0;195912191109*;white;gray;medium;Steven;Pascal
+659;M;21;20020106;France;Luxembourg;Canton Luxembourg;5960.0;200201069547*;white;black;long;Tristan;Bouvet
+660;M;42;19810811;Luxembourg;Sanem;Canton Esch;5642.0;198108110888*;white;red;medium;Wim;Boucher
+661;F;36;19871218;Italy;Bertrange;Canton Luxembourg;18087.0;198712187691*;white;brown;long;Luisa;Mannoia
+662;M;36;19870413;Luxembourg;Consdorf;Canton Echternach;3063.0;198704137754*;black;black;long;Flor;Brouwers
+663;M;46;19770404;Luxembourg;Walferdange;Canton Luxembourg;8145.0;197704045938*;white;brown;long;Dirk;Guillot
+664;M;71;19520528;France;Luxembourg;Canton Luxembourg;0.0;195205289050*;black;gray;short;Noël;Lopez
+665;M;26;19970427;Luxembourg;Roeser;Canton Esch;2132.0;199704272680*;black;red;short;Patrick;Wauters
+666;F;46;19780101;Ukraine;Luxembourg;Canton Luxembourg;960.0;197801010980*;white;brown;long;Володимира;Теліженко
+667;F;38;19850313;Luxembourg;Luxembourg;Canton Luxembourg;3960.0;198503130198*;white;black;medium;Marianne;Dupont
+668;F;52;19710619;Portugal;Luxembourg;Canton Luxembourg;2460.0;197106198658*;white;black;short;Renata;Vaz
+669;F;44;19790520;Luxembourg;Kayl;Canton Esch;3616.0;197905207568*;white;blond;long;Karen;Lucas
+670;M;47;19760509;Ukraine;Wiltz;Canton Wiltz;2833.0;197605099872*;white;brown;medium;Остап;Кибкало
+671;M;52;19710314;France;Waldbillig;Canton Echternach;1050.0;197103142306*;white;brown;long;Martin;Teixeira
+672;F;85;19381022;Luxembourg;Schifflange;Canton Esch;0.0;193810229607*;white;gray;medium;Anne;Pires
+673;F;22;20010114;Luxembourg;Mondercange;Canton Esch;4080.0;200101148024*;latino;black;medium;Gerda;Pages
+674;F;30;19930429;Hungary;Kehlen;Canton Capellen;11207.0;199304297220*;white;black;long;Margit;Gál
+675;F;62;19610523;Spain;Lenningen;Canton Remich;20068.0;196105231502*;white;gray;medium;Nidia;Cámara
+676;M;24;19991203;Luxembourg;Dippach;Canton Capellen;7166.0;199912038987*;black;black;long;Amir;Derycke
+677;M;20;20030917;Luxembourg;Roeser;Canton Esch;12132.0;200309178153*;white;red;long;Maurice;De Smet
+678;F;25;19980606;Portugal;Bettembourg;Canton Esch;3596.0;199806064475*;white;black;short;Leonor;Marques
+679;M;40;19830711;Luxembourg;Esch-sur-Sûre;Canton Wiltz;6524.0;198307112644*;white;gray;long;Michel;Charrier
+680;M;50;19730914;Portugal;Roeser;Canton Esch;8632.0;197309140275*;white;brown;medium;Márcio;Loureiro
+681;F;73;19500609;Portugal;Luxembourg;Canton Luxembourg;0.0;195006090871*;white;gray;long;Clara;Amaral
+682;F;53;19701023;Portugal;Luxembourg;Canton Luxembourg;2460.0;197010230366*;white;brown;short;Diana;Nascimento
+683;F;18;20051216;Portugal;Dudelange;Canton Esch;3953.0;200512166304*;white;red;long;Jéssica;Neves
+684;F;74;19491114;Luxembourg;Bettembourg;Canton Esch;0.0;194911144690*;white;gray;long;Marie;Hervé
+685;M;48;19750124;Luxembourg;Hesperange;Canton Luxembourg;4154.0;197501241800*;white;black;medium;Jeroen;Van Loock
+686;M;34;19890420;Luxembourg;Esch-sur-Alzette;Canton Esch;3803.0;198904204197*;black;gray;long;Robert;Bernier
+687;F;42;19810210;Luxembourg;Bous;Canton Remich;12637.0;198102105939*;white;black;medium;Denise;Cousin
+688;F;22;20010612;France;Niederanven;Canton Luxembourg;14955.0;200106125486*;white;black;long;Lucie;Andre
+689;F;60;19630822;United States of Ameria;Luxembourg;Canton Luxembourg;5960.0;196308227775*;white;gray;medium;Anna;Branch
+690;F;46;19770112;Portugal;Beaufort;Canton Echternach;4582.0;197701124146*;white;gray;long;Ana;Teixeira
+691;F;59;19641013;Luxembourg;Kayl;Canton Esch;1616.0;196410138986*;black;brown;medium;Katelijne;De Witte
+692;M;33;19900803;Romania;Wiltz;Canton Wiltz;3333.0;199008033879*;white;gray;short;Codin;Stan
+693;M;55;19680923;Luxembourg;Remich;Canton Remich;3288.0;196809237778*;white;blond;long;Lorenzo;De Block
+694;F;38;19850524;Luxembourg;Leudelange;Canton Esch;1983.0;198505245887*;black;brown;medium;Marcelle;Techer
+695;F;60;19631125;Portugal;Luxembourg;Canton Luxembourg;7960.0;196311252590*;white;gray;long;Inês;Castro
+696;F;69;19540830;Germany;Lintgen;Canton Mersch;0.0;195408302627*;white;black;short;Mechtild;Scheibe
+697;F;21;20021225;Portugal;Luxembourg;Canton Luxembourg;4960.0;200212254302*;white;blond;medium;Sofia;Vaz
+698;M;30;19930308;Luxembourg;Differdange;Canton Esch;2968.0;199303086707*;black;gray;medium;Davy;Claes
+699;F;44;19790212;Luxembourg;Roeser;Canton Esch;17632.0;197902127589*;black;brown;short;Jeannine;Schneider
+700;F;53;19700409;France;Luxembourg;Canton Luxembourg;24960.0;197004099438*;white;red;medium;Arnaude;Colas
+701;F;34;19890618;Luxembourg;Vallée de l'Ernz;Canton Diekirch;3597.0;198906184876*;latino;brown;long;Dorine;Snauwaert
+702;M;41;19820923;Luxembourg;Luxembourg;Canton Luxembourg;12460.0;198209235797*;white;black;short;Dany;Demeyere
+703;M;51;19720901;Luxembourg;Sanem;Canton Esch;3642.0;197209018336*;white;blond;medium;Kristof;François
+704;F;71;19520414;France;Esch-sur-Alzette;Canton Esch;0.0;195204148117*;white;gray;short;Susan;Tessier
+705;F;34;19890701;Luxembourg;Bettembourg;Canton Esch;3596.0;198907013862*;white;black;short;An;Labbé
+706;M;21;20020226;Luxembourg;Schifflange;Canton Esch;9042.0;200202261177*;white;blond;long;Vincent;Pineau
+707;M;75;19480509;Luxembourg;Remich;Canton Remich;0.0;194805091682*;white;gray;medium;Simon;Meyer
+708;F;22;20010208;Luxembourg;Vianden;Canton Vianden;4539.0;200102085437*;white;red;short;Hortense;Valentin
+709;F;65;19580214;Luxembourg;Luxembourg;Canton Luxembourg;0.0;195802146993*;white;black;medium;Jana;Renard
+710;M;47;19760214;Portugal;Rambrouch;Canton Redange;9046.0;197602144348*;white;black;medium;Enzo;Pereira
+711;M;47;19760723;Luxembourg;Mertzig;Canton Diekirch;8242.0;197607237730*;black;brown;short;Louis;Courtois
+712;F;76;19471015;Luxembourg;Luxembourg;Canton Luxembourg;0.0;194710158814*;white;gray;long;Charlotte;Delmas
+713;F;76;19470423;Luxembourg;Luxembourg;Canton Luxembourg;0.0;194704234778*;black;gray;short;Alix;Vlaeminck
+714;M;40;19830726;France;Esch-sur-Sûre;Canton Wiltz;2524.0;198307269388*;white;blond;short;Aimé;Bourdon
+715;M;30;19930917;Luxembourg;Sanem;Canton Esch;10642.0;199309172800*;white;black;long;Maarten;Vidal
+716;F;24;19990602;France;Mersch;Canton Mersch;1555.0;199906025596*;white;black;long;Martine;Pascal
+717;F;57;19660709;France;Leudelange;Canton Esch;5483.0;196607096377*;white;black;short;Astrid;Renault
+718;M;45;19781009;Luxembourg;Clervaux;Canton Clervaux;3979.0;197810097957*;white;brown;medium;Étienne;Renault
+719;M;30;19930314;Portugal;Luxembourg;Canton Luxembourg;24960.0;199303145937*;white;black;short;David;Azevedo
+720;F;70;19530418;Luxembourg;Mersch;Canton Mersch;0.0;195304185922*;white;gray;long;Odette;Lippens
+721;M;19;20041216;France;Hesperange;Canton Luxembourg;9654.0;200412164856*;black;brown;short;Alfred;Germain
+722;F;56;19670106;Luxembourg;Rumelange;Canton Esch;7404.0;196701063666*;white;gray;long;Griet;Cornelis
+723;M;45;19780909;Belgium;Dudelange;Canton Esch;2453.0;197809097314*;white;gray;short;Kevin;De Wulf
+724;M;27;19960920;Luxembourg;Mersch;Canton Mersch;17055.0;199609202517*;white;blond;short;Yves;Faivre
+725;M;58;19650416;Luxembourg;Dudelange;Canton Esch;1953.0;196504165380*;white;gray;short;Richard;Thibault
+726;M;47;19760425;France;Mondercange;Canton Esch;7080.0;197604258771*;white;gray;medium;Richard;Leroy
+727;F;27;19960528;Portugal;Contern;Canton Luxembourg;4208.0;199605281662*;white;blond;short;Emília;Faria
+728;M;30;19930305;France;Differdange;Canton Esch;2468.0;199303056831*;black;red;long;Charles;Weber
+729;M;40;19831024;Portugal;Schengen;Canton Remich;8539.0;198310249709*;white;gray;medium;Marcos;Paiva
+730;F;55;19680413;Luxembourg;Dudelange;Canton Esch;1453.0;196804139444*;white;black;long;Claude;Tessier
+731;F;81;19421207;Portugal;Hesperange;Canton Luxembourg;0.0;194212074046*;white;gray;medium;Juliana;Marques
+732;M;19;20040503;Luxembourg;Sanem;Canton Esch;3142.0;200405036666*;black;black;long;Denis;Lamy
+733;M;32;19911024;Luxembourg;Troisvierges;Canton Clervaux;3332.0;199110248282*;white;blond;medium;René;Bertin
+734;M;77;19461201;Luxembourg;Remich;Canton Remich;0.0;194612018787*;white;gray;short;Adrien;Guillou
+735;F;27;19961214;Luxembourg;Steinfort;Canton Capellen;3157.0;199612146934*;black;black;short;Maria;Vidal
+736;F;35;19880708;Portugal;Mamer;Canton Capellen;2201.0;198807081974*;white;black;short;Salomé;Pereira
+737;F;46;19770823;Spain;Lac de la Haute-Sûre;Canton Wiltz;2042.0;197708233879*;white;blond;medium;Inmaculada;Pol
+738;F;39;19840731;Luxembourg;Esch-sur-Alzette;Canton Esch;5303.0;198407313755*;white;black;long;Charlotte;Lenaerts
+739;F;80;19431229;Luxembourg;Hesperange;Canton Luxembourg;0.0;194312296203*;white;gray;short;Kelly;Chevallier
+740;M;39;19840314;Belgium;Colmar-Berg;Canton Mersch;2224.0;198403145403*;white;red;long;Victor;De Smedt
+741;F;25;19980225;Luxembourg;Dudelange;Canton Esch;3953.0;199802257406*;white;black;short;Anne;Loiseau
+742;F;34;19890101;Luxembourg;Wormeldange;Canton Grevenmacher;6822.0;198901017397*;white;black;medium;Noémi;Duval
+743;M;86;19370102;Luxembourg;Bettendorf;Canton Diekirch;0.0;193701029251*;white;gray;long;Christophe;Sterckx
+744;M;40;19830729;Luxembourg;Esch-sur-Alzette;Canton Esch;4303.0;198307293020*;white;brown;short;Koen;Wouters
+745;M;31;19920202;Luxembourg;Contern;Canton Luxembourg;4708.0;199202021081*;white;red;long;Marc;Bernard
+746;M;49;19740121;Luxembourg;Biwer;Canton Grevenmacher;1484.0;197401213708*;white;black;short;André;Polfliet
+747;F;28;19951229;Luxembourg;Mondercange;Canton Esch;3580.0;199512293441*;black;brown;short;Maggie;De Ridder
+748;F;22;20010905;Luxembourg;Troisvierges;Canton Clervaux;2832.0;200109050776*;white;red;short;Hanne;Godard
+749;M;43;19800829;Luxembourg;Mamer;Canton Capellen;3201.0;198008298216*;white;brown;medium;Xavier;Perez
+750;M;34;19890603;Portugal;Luxembourg;Canton Luxembourg;19460.0;198906032124*;white;black;short;Alexandre;Pinho
+751;F;36;19871214;Luxembourg;Parc Hosingen;Canton Clervaux;2585.0;198712149244*;white;brown;long;Susanne;Albert
+752;M;80;19431124;Poland;Luxembourg;Canton Luxembourg;0.0;194311249012*;white;gray;medium;Tymoteusz;Subocz
+753;F;27;19960428;Luxembourg;Luxembourg;Canton Luxembourg;8960.0;199604289395*;white;red;short;Viviane;Maes
+754;F;26;19971112;Luxembourg;Wincrange;Canton Clervaux;4032.0;199711127397*;latino;black;short;Maggie;Bauwens
+755;M;67;19561112;Luxembourg;Berdorf;Canton Echternach;0.0;195611127634*;latino;black;medium;Erwin;Julien
+756;F;20;20030110;Portugal;Luxembourg;Canton Luxembourg;3460.0;200301106041*;white;red;medium;Violeta;Valente
+757;F;73;19500404;Luxembourg;Luxembourg;Canton Luxembourg;0.0;195004041801*;white;gray;short;Martine;Devaux
+758;F;75;19481102;Portugal;Ell;Canton Redange;0.0;194811024479*;white;gray;medium;Valentina;Magalhães
+759;F;43;19800820;France;Luxembourg;Canton Luxembourg;960.0;198008203659*;black;black;medium;Marcelle;Benard
+760;M;30;19930725;United States of Ameria;Luxembourg;Canton Luxembourg;9960.0;199307255831*;black;black;long;James;Bridges
+761;M;39;19841225;Portugal;Leudelange;Canton Esch;20483.0;198412253239*;white;brown;medium;Francisco;Ramos
+762;M;27;19960116;Luxembourg;Troisvierges;Canton Clervaux;832.0;199601167007*;white;brown;long;Xander;Singh
+763;M;33;19900807;Luxembourg;Luxembourg;Canton Luxembourg;1960.0;199008070361*;white;gray;short;Mathieu;Alexandre
+764;M;37;19860817;Luxembourg;Niederanven;Canton Luxembourg;45955.0;198608178959*;latino;gray;medium;Serge;Vos
+765;F;32;19911014;France;Kayl;Canton Esch;2616.0;199110141478*;white;gray;short;Audrey;Alves
+766;F;33;19900909;Turkey;Differdange;Canton Esch;6468.0;199009091205*;turkish;black;short;Simten;Bilir
+767;F;18;20050615;Portugal;Mondorf-les-Bains;Canton Remich;3384.0;200506157022*;white;black;long;Pilar;Morais
+768;F;79;19440829;Luxembourg;Schengen;Canton Remich;0.0;194408295728*;white;black;short;Renée;Boucher
+769;F;46;19770616;Luxembourg;Luxembourg;Canton Luxembourg;2460.0;197706161236*;black;black;short;Stéphanie;Merle
+770;F;46;19771006;Luxembourg;Kehlen;Canton Capellen;5707.0;197710066123*;white;brown;long;Sophie;Buyse
+771;F;40;19831027;Belgium;Junglinster;Canton Grevenmacher;2744.0;198310275340*;white;black;medium;Monika;Vermeire
+772;F;41;19820417;Luxembourg;Remich;Canton Remich;4788.0;198204178884*;white;red;long;Susan;Barbier
+773;M;22;20010210;Ireland;Erpeldange-sur-Sûre;Canton Diekirch;6645.0;200102105354*;white;black;medium;Darrell;Barrnette
+774;M;58;19650424;Luxembourg;Roeser;Canton Esch;4132.0;196504246644*;black;gray;long;Patrick;Le Gall
+775;F;56;19670112;Luxembourg;Dudelange;Canton Esch;6453.0;196701127981*;white;black;medium;Merel;Martin
+776;F;21;20020725;Luxembourg;Mamer;Canton Capellen;6701.0;200207256524*;black;black;short;Josephina;Blanchard
+777;M;66;19570505;Belgium;Frisange;Canton Esch;0.0;195705059390*;white;blond;medium;Marc;De Maeyer
+778;F;55;19680131;Luxembourg;Betzdorf;Canton Grevenmacher;4625.0;196801318519*;white;black;long;Elisabeth;Fontaine
+779;M;56;19671026;Luxembourg;Bettembourg;Canton Esch;7596.0;196710264055*;black;gray;short;Guido;Slegers
+780;M;46;19771109;Luxembourg;Sanem;Canton Esch;2642.0;197711091910*;white;black;long;Pieter;Lenaerts
+781;M;43;19800104;Turkey;Steinfort;Canton Capellen;5157.0;198001045737*;turkish;red;medium;Aykutalp;Akça
+782;F;40;19831116;Luxembourg;Lenningen;Canton Remich;5068.0;198311167597*;white;red;short;Suzanne;Nguyen
+783;F;60;19630818;Luxembourg;Pétange;Canton Esch;2028.0;196308189269*;white;brown;short;Petra;Van den Eynde
+784;F;44;19790209;Luxembourg;Dudelange;Canton Esch;4453.0;197902091618*;white;brown;short;Henriette;Gauthier
+785;M;38;19851201;Luxembourg;Käerjeng;Canton Capellen;1641.0;198512018506*;white;black;long;Grégoire;Simoens
+786;M;36;19871213;Luxembourg;Dudelange;Canton Esch;1953.0;198712137061*;latino;black;short;Emmanuel;Laureys
+787;M;41;19820227;Netherlands;Wincrange;Canton Clervaux;5032.0;198202274072*;white;gray;short;Ian;Middelkoop
+788;M;27;19960510;Luxembourg;Pétange;Canton Esch;1028.0;199605106317*;white;brown;short;Benoît;Meyer
+789;M;37;19860830;Portugal;Hesperange;Canton Luxembourg;2654.0;198608307381*;white;red;short;Emanuel;Baptista
+790;M;18;20050117;Luxembourg;Luxembourg;Canton Luxembourg;5460.0;200501172566*;white;brown;long;Bryan;Dumont
+791;M;61;19620613;Luxembourg;Dudelange;Canton Esch;8953.0;196206137161*;white;blond;short;Ruben;Cornelis
+792;M;36;19870124;Luxembourg;Useldange;Canton Redange;3396.0;198701241079*;white;black;medium;Théodore;Debruyne
+793;F;29;19940423;Luxembourg;Mondercange;Canton Esch;8580.0;199404236973*;white;black;medium;Aurélie;Courtois
+794;M;56;19670109;Portugal;Bettendorf;Canton Diekirch;7138.0;196701097591*;white;black;medium;Tiago;Costa
+795;M;27;19961017;Netherlands;Dudelange;Canton Esch;3953.0;199610178598*;white;gray;short;Robin;Kosten
+796;M;26;19970525;France;Erpeldange-sur-Sûre;Canton Diekirch;6645.0;199705258613*;black;black;long;Louis;Besson
+797;F;34;19890329;Luxembourg;Hesperange;Canton Luxembourg;6154.0;198903294539*;white;brown;medium;Amy;Lemmens
+798;F;55;19680501;Germany;Préizerdaul;Canton Redange;4365.0;196805010262*;white;brown;long;Wally;Krein
+799;M;19;20040918;Portugal;Käerjeng;Canton Capellen;8641.0;200409183544*;white;blond;medium;Gil;Loureiro
+800;M;49;19740510;Luxembourg;Luxembourg;Canton Luxembourg;7460.0;197405102418*;black;black;medium;Joost;Chrétien
+801;M;42;19810922;Italy;Luxembourg;Canton Luxembourg;8960.0;198109223788*;white;black;long;Coriolano;Morellato
+802;M;44;19791213;Luxembourg;Kopstal;Canton Capellen;34392.0;197912137731*;white;black;short;Léon;Verbruggen
+803;F;59;19641018;Luxembourg;Redange-sur-Attert;Canton Redange;Nan;196410188367*;black;black;short;Caroline;Verdier
+804;M;23;20000216;Bosnia and Herzegovina;Strassen;Canton Luxembourg;8587.0;200002165031*;white;red;short;Artur;Beranová
+805;M;29;19940314;Italy;Stadtbredimus;Canton Remich;1568.0;199403146705*;white;brown;short;Alfredo;Piccio
+806;F;29;19941123;Portugal;Kehlen;Canton Capellen;5207.0;199411233520*;white;black;long;Raquel;Borges
+807;F;40;19830409;France;Sandweiler;Canton Luxembourg;23583.0;198304099215*;white;black;long;Anouk;Munoz
+808;M;81;19420804;Luxembourg;Dudelange;Canton Esch;0.0;194208046738*;white;gray;medium;Laurent;Mortier
+809;F;34;19890619;Luxembourg;Junglinster;Canton Grevenmacher;4744.0;198906195718*;white;black;medium;Christine;Cordier
+810;F;31;19921012;Luxembourg;Hesperange;Canton Luxembourg;10154.0;199210121131*;white;gray;short;Véronique;Masson
+811;F;52;19710730;United Kingdom;Luxembourg;Canton Luxembourg;7460.0;197107309510*;asian;brown;medium;Stephanie;Mann
+812;F;79;19441104;Luxembourg;Kopstal;Canton Capellen;0.0;194411049712*;white;gray;long;Nathalie;Martel
+813;F;54;19690202;Luxembourg;Luxembourg;Canton Luxembourg;9960.0;196902025894*;white;black;short;Élodie;Le Gall
+814;F;61;19621023;Luxembourg;Rumelange;Canton Esch;7404.0;196210236146*;white;brown;medium;Greet;Lemmens
+815;M;63;19600730;Luxembourg;Differdange;Canton Esch;4468.0;196007309857*;white;gray;long;Adrien;Bouchet
+816;M;55;19680112;Luxembourg;Pétange;Canton Esch;3528.0;196801124391*;white;blond;long;Gilles;Charles
+817;F;37;19860510;Luxembourg;Beaufort;Canton Echternach;6082.0;198605101106*;white;black;long;Nadia;Munoz
+818;F;44;19790802;Luxembourg;Esch-sur-Alzette;Canton Esch;4303.0;197908026540*;white;black;medium;Constance;Poulain
+819;M;51;19720218;Luxembourg;Luxembourg;Canton Luxembourg;4960.0;197202181887*;white;black;short;Johan;Dupont
+820;F;56;19670922;France;Bettembourg;Canton Esch;5096.0;196709228053*;white;black;long;Diane;Imbert
+821;M;37;19860528;Luxembourg;Differdange;Canton Esch;5468.0;198605280431*;black;black;short;Guillaume;Goossens
+822;M;77;19460615;Luxembourg;Wiltz;Canton Wiltz;0.0;194606153245*;latino;gray;medium;Arthur;Bousquet
+823;M;32;19911026;Luxembourg;Steinsel;Canton Luxembourg;13060.0;199110262361*;white;blond;short;Daan;Marion
+824;F;28;19950218;Luxembourg;Mondercange;Canton Esch;3580.0;199502187889*;white;gray;long;Marguerite;Everaert
+825;M;62;19610729;Luxembourg;Differdange;Canton Esch;3968.0;196107298770*;white;black;short;Dennis;Le Roux
+826;F;79;19440706;India;Echternach;Canton Echternach;0.0;194407060128*;south asians;gray;short;Farhan;Bose
+827;F;58;19651025;Portugal;Diekirch;Canton Diekirch;5390.0;196510252931*;white;gray;short;Ana;Baptista
+828;F;24;19990722;Luxembourg;Luxembourg;Canton Luxembourg;5960.0;199907221017*;white;red;long;Dominique;Thibault
+829;M;53;19700831;Luxembourg;Koerich;Canton Capellen;9684.0;197008319858*;white;black;long;Abdul;Deckers
+830;M;63;19600924;France;Dudelange;Canton Esch;953.0;196009242766*;white;blond;medium;Auguste;Costa
+831;F;53;19701225;Luxembourg;Lorentzweiler;Canton Mersch;3226.0;197012256721*;white;brown;short;Margaret;Nicolas
+832;F;36;19871213;Luxembourg;Manternach;Canton Grevenmacher;10380.0;198712131088*;black;black;short;Amélie;Coene
+833;M;30;19931208;France;Luxembourg;Canton Luxembourg;11460.0;199312083686*;white;gray;long;Jules;Delannoy
+834;M;46;19770717;Belgium;Echternach;Canton Echternach;1223.0;197707177248*;white;brown;short;Mohamed;De Meester
+835;F;45;19780417;Luxembourg;Dippach;Canton Capellen;5666.0;197804176207*;white;red;long;Alex;Leduc
+836;M;46;19770224;France;Bettembourg;Canton Esch;16096.0;197702246012*;white;black;medium;Olivier;Marchal
+837;F;62;19610903;Luxembourg;Bertrange;Canton Luxembourg;3087.0;196109034634*;black;black;short;Claire;Blondel
+838;F;70;19530205;Luxembourg;Luxembourg;Canton Luxembourg;0.0;195302050225*;white;gray;short;Anneleen;Maes
+839;F;35;19880601;France;Dippach;Canton Capellen;5666.0;198806017596*;white;gray;medium;Élisabeth;Langlois
+840;F;27;19960620;Luxembourg;Kayl;Canton Esch;2616.0;199606206118*;black;brown;medium;Philippine;Diaz
+841;F;58;19651129;Luxembourg;Niederanven;Canton Luxembourg;18455.0;196511298876*;white;gray;medium;Christine;Masse
+842;F;43;19800703;Luxembourg;Lintgen;Canton Mersch;8616.0;198007038332*;latino;black;medium;Laure;Gautier
+843;F;65;19581127;Luxembourg;Hesperange;Canton Luxembourg;0.0;195811270342*;white;gray;medium;Anouk;De Maeyer
+844;F;46;19771030;Luxembourg;Hesperange;Canton Luxembourg;5654.0;197710304920*;white;gray;medium;Alix;De Clercq
+845;M;73;19501125;Luxembourg;Luxembourg;Canton Luxembourg;0.0;195011251744*;white;gray;medium;Ruben;Vlaeminck
+846;F;28;19951025;Portugal;Luxembourg;Canton Luxembourg;5960.0;199510253239*;white;red;short;Caetana;Batista
+847;M;61;19620105;Luxembourg;Esch-sur-Alzette;Canton Esch;3303.0;196201054106*;white;black;medium;Julien;Roche
+848;F;44;19791101;Luxembourg;Vianden;Canton Vianden;3539.0;197911012942*;white;black;long;Johanna;Dumont
+849;F;73;19501005;Luxembourg;Dudelange;Canton Esch;0.0;195010058547*;white;black;short;Pénélope;Beernaert
+850;F;48;19750603;France;Biwer;Canton Grevenmacher;1984.0;197506039864*;white;blond;medium;Hélène;Salmon
+851;F;64;19590501;Luxembourg;Dudelange;Canton Esch;2953.0;195905017563*;white;blond;short;Adélaïde;Geerts
+852;F;54;19690518;Luxembourg;Luxembourg;Canton Luxembourg;1960.0;196905181358*;white;blond;medium;Margaret;Lopez
+853;F;57;19660227;Luxembourg;Junglinster;Canton Grevenmacher;20744.0;196602277031*;white;gray;short;Alexandrie;Maes
+854;M;33;19900603;France;Käerjeng;Canton Capellen;1641.0;199006038464*;white;red;short;Raymond;Pottier
+855;M;39;19840929;Romania;Luxembourg;Canton Luxembourg;6460.0;198409295377*;white;blond;medium;Severin;Cristea
+856;F;48;19750708;Luxembourg;Pétange;Canton Esch;2528.0;197507085573*;black;brown;medium;Arnaude;Janssens
+857;F;59;19640604;Luxembourg;Sanem;Canton Esch;5142.0;196406048330*;white;brown;medium;Melissa;Lévy
+858;M;89;19341203;Luxembourg;Grevenmacher;Canton Grevenmacher;0.0;193412032851*;latino;gray;long;Olivier;Bogaert
+859;M;66;19570826;Luxembourg;Dudelange;Canton Esch;0.0;195708265606*;white;gray;long;Erik;Wouters
+860;F;78;19450903;Luxembourg;Echternach;Canton Echternach;0.0;194509031020*;white;gray;medium;Adèle;Claes
+861;M;31;19921211;Italy;Luxembourg;Canton Luxembourg;1960.0;199212112256*;white;blond;long;Hugo;Agnesi
+862;F;47;19760118;Portugal;Redange-sur-Attert;Canton Redange;Nan;197601180697*;white;red;short;Renata;Carneiro
+863;F;66;19570107;Belgium;Kayl;Canton Esch;0.0;195701070261*;white;black;long;Tamara;Lambrechts
+864;M;49;19740613;Luxembourg;Schengen;Canton Remich;2039.0;197406138265*;white;black;long;Youssef;Fleury
+865;M;54;19690630;Luxembourg;Schuttrange;Canton Luxembourg;14544.0;196906305457*;white;gray;short;Ruben;Alexandre
+866;F;69;19540423;Luxembourg;Niederanven;Canton Luxembourg;0.0;195404233634*;latino;gray;medium;Liesbet;Willems
+867;M;50;19730907;Portugal;Sanem;Canton Esch;3142.0;197309079979*;white;gray;short;Ricardo;Esteves
+868;M;55;19681122;Luxembourg;Junglinster;Canton Grevenmacher;12244.0;196811229230*;white;gray;long;Édouard;Lemonnier
+869;F;85;19381017;India;Bissen;Canton Mersch;0.0;193810176434*;south asians;gray;medium;Divit;Basu
+870;F;31;19920816;Luxembourg;Esch-sur-Alzette;Canton Esch;4303.0;199208165064*;white;black;short;Claude;Chauvin
+871;F;41;19820720;Portugal;Käerjeng;Canton Capellen;9641.0;198207207004*;white;black;short;Renata;Pinho
+872;F;77;19460103;France;Strassen;Canton Luxembourg;0.0;194601033372*;white;gray;short;Christelle;Caron
+873;M;23;20000513;Luxembourg;Mamer;Canton Capellen;8201.0;200005136288*;white;red;long;Joseph;Maes
+874;F;41;19820830;Luxembourg;Differdange;Canton Esch;1468.0;198208309455*;white;black;long;Édith;Dejonghe
+875;F;26;19970927;Luxembourg;Luxembourg;Canton Luxembourg;7960.0;199709273504*;black;gray;medium;Gabrielle;Pascal
+876;M;72;19510305;Luxembourg;Beaufort;Canton Echternach;0.0;195103051686*;latino;gray;medium;Jarne;Govaerts
+877;F;93;19300609;Luxembourg;Biwer;Canton Grevenmacher;0.0;193006093021*;latino;black;long;Britt;Janssens
+878;F;59;19640703;Luxembourg;Pétange;Canton Esch;3028.0;196407033644*;white;brown;short;Zoé;Guérin
+879;M;59;19641002;Portugal;Esch-sur-Alzette;Canton Esch;4303.0;196410027614*;white;blond;medium;Sandro;Ribeiro
+880;M;59;19640505;France;Bous;Canton Remich;3137.0;196405057383*;white;black;long;Noël;Gallet
+881;M;44;19790113;Luxembourg;Esch-sur-Alzette;Canton Esch;3803.0;197901132508*;black;blond;short;Danny;Peron
+882;F;62;19611115;Luxembourg;Mamer;Canton Capellen;7201.0;196111153263*;white;brown;long;Valentine;Maillard
+883;F;26;19970705;Luxembourg;Luxembourg;Canton Luxembourg;2460.0;199707050493*;white;black;long;Émilie;Debruyne
+884;F;36;19870320;Portugal;Niederanven;Canton Luxembourg;21455.0;198703200833*;white;blond;medium;Mara;Correia
+885;F;38;19851212;Belgium;Esch-sur-Sûre;Canton Wiltz;2524.0;198512128916*;white;black;medium;Annelies;Verhulst
+886;F;54;19690526;Luxembourg;Stadtbredimus;Canton Remich;5068.0;196905260140*;white;brown;long;Émilie;Alves
+887;F;27;19960910;Portugal;Käerjeng;Canton Capellen;7141.0;199609101398*;white;black;long;Gabriela;Lima
+888;F;32;19910516;Italy;Parc Hosingen;Canton Clervaux;6085.0;199105163577*;white;black;medium;Annalisa;Calbo
+889;F;26;19970511;Spain;Biwer;Canton Grevenmacher;7484.0;199705113647*;white;black;medium;Mar;Narváez
+890;M;54;19690503;Luxembourg;Mersch;Canton Mersch;1555.0;196905039106*;black;brown;medium;Bart;Maes
+891;M;62;19611205;Luxembourg;Rosport-Mompach;Canton Echternach;7096.0;196112059378*;white;blond;long;Olivier;Segers
+892;M;76;19471130;Luxembourg;Schifflange;Canton Esch;0.0;194711305260*;white;gray;short;Maxim;Heylen
+893;F;75;19480715;Luxembourg;Schuttrange;Canton Luxembourg;0.0;194807151833*;white;gray;short;Jade;Goossens
+894;F;36;19870815;Luxembourg;Differdange;Canton Esch;1968.0;198708158540*;black;red;short;Agnes;Barbier
+895;M;22;20010507;Luxembourg;Vianden;Canton Vianden;4039.0;200105075086*;white;brown;short;Pierre;Vermeulen
+896;M;57;19660324;Luxembourg;Luxembourg;Canton Luxembourg;3460.0;196603246385*;white;gray;short;Kurt;Toussaint
+897;F;47;19760724;Luxembourg;Lorentzweiler;Canton Mersch;4726.0;197607248259*;white;brown;long;Simone;Degryse
+898;M;61;19620331;Italy;Grevenmacher;Canton Grevenmacher;861.0;196203311026*;white;black;long;Ciro;Mimun
+899;F;26;19971117;Luxembourg;Garnich;Canton Capellen;3743.0;199711177308*;white;black;long;Geneviève;De Wit
+900;M;22;20011003;Luxembourg;Sanem;Canton Esch;2142.0;200110033848*;latino;blond;medium;Olivier;Hernandez
+901;F;92;19320101;Luxembourg;Feulen;Canton Diekirch;0.0;193201019152*;white;gray;short;Annie;Put
+902;M;50;19731114;Luxembourg;Schengen;Canton Remich;5539.0;197311148503*;latino;red;long;René;De Backer
+903;M;46;19770425;France;Sandweiler;Canton Luxembourg;6083.0;197704254492*;black;red;medium;Nicolas;Monnier
+904;M;77;19460318;Luxembourg;Luxembourg;Canton Luxembourg;0.0;194603186094*;white;gray;long;Nicky;Schmitt
+905;M;58;19650423;Portugal;Mondercange;Canton Esch;4080.0;196504232493*;white;blond;medium;André;Almeida
+906;M;35;19880117;Luxembourg;Frisange;Canton Esch;12128.0;198801172259*;white;gray;long;Antoine;Dufour
+907;F;35;19880123;United States of Ameria;Hesperange;Canton Luxembourg;1154.0;198801230612*;latino;blond;short;Anne;Wang
+908;M;76;19470927;Belgium;Contern;Canton Luxembourg;0.0;194709270820*;white;black;short;Rafael;Hendrickx
+909;F;41;19821110;Portugal;Ettelbruck;Canton Diekirch;2362.0;198211101689*;white;blond;long;Leonor;Amorim
+910;F;23;20001006;Luxembourg;Helperknapp;Canton Mersch;2917.0;200010065538*;white;black;medium;Geneviève;Joos
+911;F;70;19530715;Luxembourg;Luxembourg;Canton Luxembourg;0.0;195307154919*;white;gray;long;Hannah;Decoster
+912;F;36;19870226;Luxembourg;Strassen;Canton Luxembourg;2587.0;198702268411*;white;gray;medium;Zoé;Leemans
+913;M;47;19760912;Luxembourg;Kehlen;Canton Capellen;23207.0;197609122821*;black;gray;long;Willem;Charrier
+914;F;60;19630129;Luxembourg;Wincrange;Canton Clervaux;2032.0;196301296610*;black;gray;medium;Noa;Huybrechts
+915;M;23;20001231;Luxembourg;Sanem;Canton Esch;5142.0;200012315028*;white;brown;long;Gabriel;Hendrickx
+916;F;70;19530902;Luxembourg;Leudelange;Canton Esch;0.0;195309026473*;latino;gray;short;Antoinette;Legros
+917;F;20;20030526;Belgium;Luxembourg;Canton Luxembourg;1460.0;200305267724*;white;brown;medium;Marie;Leysen
+918;F;31;19921209;France;Mersch;Canton Mersch;11555.0;199212094404*;white;brown;long;Diane;Lemaître
+919;F;18;20050814;Luxembourg;Pétange;Canton Esch;3028.0;200508142595*;latino;black;medium;Maria;De Bruyne
+920;M;32;19910407;Luxembourg;Pétange;Canton Esch;8028.0;199104078811*;white;brown;short;Tom;Roose
+921;M;65;19581209;France;Vallée de l'Ernz;Canton Diekirch;0.0;195812094823*;black;gray;medium;Maurice;David
+922;M;80;19430220;Poland;Mondercange;Canton Esch;0.0;194302204011*;white;gray;short;Albert;Kosidło
+923;F;53;19700216;Luxembourg;Schifflange;Canton Esch;3042.0;197002161233*;white;black;short;Clémence;Moens
+924;M;49;19740913;Luxembourg;Luxembourg;Canton Luxembourg;2460.0;197409136757*;latino;black;medium;Bernard;Didier
+925;M;46;19770826;Portugal;Lac de la Haute-Sûre;Canton Wiltz;2542.0;197708269394*;white;blond;medium;Vicente;Henriques
+926;F;21;20020512;France;Esch-sur-Alzette;Canton Esch;7803.0;200205126870*;black;brown;medium;Marthe;Baron
+927;M;53;19700906;Luxembourg;Wormeldange;Canton Grevenmacher;822.0;197009065251*;black;gray;long;Jason;Delorme
+928;F;30;19930809;Luxembourg;Luxembourg;Canton Luxembourg;7960.0;199308090627*;white;black;short;Pascale;Guillon
+929;M;46;19771025;Luxembourg;Steinfort;Canton Capellen;6157.0;197710254344*;latino;black;medium;André;Cornelis
+930;F;49;19741007;Luxembourg;Ettelbruck;Canton Diekirch;4862.0;197410073446*;white;brown;medium;Anneleen;Pascal
+931;M;22;20011109;Germany;Beckerich;Canton Redange;8632.0;200111090575*;white;brown;medium;Anatoli;Zimmer
+932;M;34;19890330;Portugal;Flaxweiler;Canton Grevenmacher;8266.0;198903306225*;white;black;medium;Fábio;Brito
+933;M;56;19670926;Italy;Wiltz;Canton Wiltz;4333.0;196709263358*;white;blond;long;Gianfrancesco;Bompiani
+934;M;42;19811226;Luxembourg;Troisvierges;Canton Clervaux;832.0;198112266506*;white;black;long;Théodore;Maréchal
+935;F;36;19870328;Portugal;Echternach;Canton Echternach;723.0;198703285084*;white;blond;short;Camila;Pinto
+936;M;20;20031206;Luxembourg;Hesperange;Canton Luxembourg;6154.0;200312066245*;white;blond;medium;Andreas;Gonzalez
+937;M;47;19760108;Luxembourg;Junglinster;Canton Grevenmacher;2244.0;197601080854*;black;black;medium;Jérôme;Dupuy
+938;F;35;19880508;Luxembourg;Wormeldange;Canton Grevenmacher;4322.0;198805089781*;white;black;long;Dorothée;De Bruyn
+939;M;38;19850909;Luxembourg;Differdange;Canton Esch;2468.0;198509096970*;black;brown;medium;Kim;Decoster
+940;M;38;19851114;Luxembourg;Bissen;Canton Mersch;2555.0;198511144206*;white;black;medium;Thierry;Peeters
+941;F;25;19980817;Portugal;Beckerich;Canton Redange;4132.0;199808175817*;white;brown;medium;Beatriz;Fernandes
+942;F;55;19680214;Portugal;Esch-sur-Alzette;Canton Esch;1803.0;196802149650*;white;black;medium;Nicole;Barros
+943;M;27;19960613;Luxembourg;Lintgen;Canton Mersch;12116.0;199606135109*;latino;black;short;Alfred;Van Praet
+944;F;27;19960724;Brazil;Luxembourg;Canton Luxembourg;3460.0;199607249414*;black;gray;long;Laura;Nogueira
+945;F;72;19511209;Portugal;Walferdange;Canton Luxembourg;0.0;195112092149*;white;gray;long;Lúcia;Alves
+946;M;33;19900513;Luxembourg;Pétange;Canton Esch;7528.0;199005131137*;latino;brown;short;Honoré;Segers
+947;F;46;19770901;Poland;Walferdange;Canton Luxembourg;18645.0;197709012044*;white;gray;short;Natasza;Ścieszka
+948;M;40;19830505;Portugal;Heffingen;Canton Mersch;4358.0;198305053651*;white;blond;medium;Sebastião;Pacheco
+949;F;59;19640206;Netherlands;Remich;Canton Remich;12788.0;196402064219*;white;black;long;Tara;Spruyt
+950;F;24;19990211;Luxembourg;Luxembourg;Canton Luxembourg;3460.0;199902116928*;white;brown;medium;Samira;Chevallier
+951;M;23;20000909;Luxembourg;Sanem;Canton Esch;2642.0;200009098692*;white;brown;medium;Davy;Descamps
+952;F;76;19470317;Luxembourg;Luxembourg;Canton Luxembourg;0.0;194703177749*;white;gray;long;Lien;Ribeiro
+953;M;50;19730507;Luxembourg;Helperknapp;Canton Mersch;6417.0;197305075395*;white;black;short;Maurice;Vranckx
+954;M;28;19950310;Luxembourg;Bettendorf;Canton Diekirch;12638.0;199503102659*;white;red;long;Hannes;Van den Bergh
+955;F;92;19310301;United States of Ameria;Sanem;Canton Esch;0.0;193103011101*;black;gray;long;Sandra;Valentine
+956;M;35;19880318;Luxembourg;Schifflange;Canton Esch;1042.0;198803182188*;white;gray;short;Grégoire;Schepers
+957;F;55;19681130;Luxembourg;Esch-sur-Alzette;Canton Esch;1803.0;196811306451*;black;gray;medium;Claire;Raes
+958;M;42;19811017;Italy;Lenningen;Canton Remich;19068.0;198110175850*;white;black;medium;Giancarlo;Pinamonte
+959;M;24;19991007;Luxembourg;Lac de la Haute-Sûre;Canton Wiltz;1042.0;199910073660*;white;brown;short;Étienne;Dupuy
+960;M;40;19831118;Luxembourg;Reckange-sur-Mess;Canton Esch;8483.0;198311188251*;white;brown;short;Tibo;Maes
+961;M;40;19830326;Luxembourg;Lintgen;Canton Mersch;3616.0;198303264526*;black;red;medium;Eugène;Nicolas
+962;M;45;19781105;Hungary;Bissen;Canton Mersch;6555.0;197811055171*;white;blond;medium;Dániel;Szilágyi
+963;F;26;19970124;Luxembourg;Esch-sur-Alzette;Canton Esch;2303.0;199701240370*;white;black;long;Laetitia;Van Dyck
+964;M;30;19930102;France;Luxembourg;Canton Luxembourg;2460.0;199301029700*;white;black;long;Julien;Salmon
+965;F;52;19711105;Luxembourg;Dudelange;Canton Esch;5453.0;197111053187*;white;black;medium;Dorothée;Mertens
+966;F;33;19901208;Spain;Diekirch;Canton Diekirch;2890.0;199012086920*;white;brown;short;Isidora;Palacio
+967;F;28;19950428;Luxembourg;Schifflange;Canton Esch;7542.0;199504288150*;latino;black;medium;Marie;Christiaens
+968;F;31;19920911;United States of Ameria;Pétange;Canton Esch;4528.0;199209118353*;latino;black;medium;Jane;Love
+969;F;44;19790625;Luxembourg;Manternach;Canton Grevenmacher;3380.0;197906250996*;white;black;long;Anne;Buisson
+970;M;30;19930223;Spain;Contern;Canton Luxembourg;5708.0;199302238999*;white;red;long;José Mari;Suarez
+971;F;83;19401120;Portugal;Ell;Canton Redange;0.0;194011209689*;white;gray;medium;Letícia;Fonseca
+972;F;22;20010828;Luxembourg;Luxembourg;Canton Luxembourg;3960.0;200108286186*;white;black;long;Irena;Verschueren
+973;F;63;19600615;Luxembourg;Luxembourg;Canton Luxembourg;3460.0;196006159190*;white;brown;medium;Maria;Everaert
+974;F;44;19790228;Belgium;Luxembourg;Canton Luxembourg;7460.0;197902282632*;white;black;medium;Christiane;Janssen
+975;F;48;19751215;Portugal;Kehlen;Canton Capellen;7207.0;197512159539*;white;black;long;Laura;Moreira
+976;F;32;19910521;France;Mertzig;Canton Diekirch;3742.0;199105215231*;white;red;medium;Nicole;Andre
+977;M;27;19961014;Luxembourg;Goesdorf;Canton Wiltz;3611.0;199610141894*;white;gray;long;Tuur;Étienne
+978;M;72;19510123;Italy;Clervaux;Canton Clervaux;0.0;195101236663*;white;gray;long;Fiorenzo;Alfieri
+979;M;31;19921221;Luxembourg;Redange-sur-Attert;Canton Redange;Nan;199212212359*;white;black;medium;Jules;Colas
+980;F;55;19680621;Luxembourg;Mersch;Canton Mersch;1055.0;196806211291*;latino;gray;short;Alexandria;Guilbert
+981;F;32;19911210;Luxembourg;Esch-sur-Alzette;Canton Esch;7303.0;199112101420*;white;black;medium;Isabelle;Evrard
+982;F;72;19511123;Luxembourg;Junglinster;Canton Grevenmacher;0.0;195111232958*;white;gray;short;Hélène;Couturier
+983;F;39;19840803;Ukraine;Bettembourg;Canton Esch;4096.0;198408036280*;white;black;medium;Орина;Данькевич
+984;M;62;19610525;Luxembourg;Clervaux;Canton Clervaux;2479.0;196105258995*;white;gray;long;Tony;Vranckx
+985;F;90;19330310;Luxembourg;Weiler-la-Tour;Canton Luxembourg;0.0;193303107417*;white;gray;medium;Julie;Julien
+986;F;36;19871217;Luxembourg;Ettelbruck;Canton Diekirch;3862.0;198712176371*;white;black;medium;Marcella;Pereira
+987;F;60;19630912;Portugal;Mertert;Canton Grevenmacher;5008.0;196309122520*;white;black;short;Flor;Anjos
+988;F;55;19681205;Luxembourg;Esch-sur-Sûre;Canton Wiltz;8024.0;196812057498*;black;gray;long;Michelle;Legros
+989;F;32;19910625;Luxembourg;Dudelange;Canton Esch;6453.0;199106257059*;white;black;short;Philippine;Lievens
+990;M;34;19891216;Portugal;Hesperange;Canton Luxembourg;1154.0;198912168761*;white;black;medium;William;Brito
+991;M;76;19471006;Poland;Luxembourg;Canton Luxembourg;0.0;194710064382*;white;gray;long;Olgierd;Osipiuk
+992;F;66;19571216;Portugal;Differdange;Canton Esch;0.0;195712168320*;white;gray;short;Larissa;Ramos
+993;F;37;19861118;Ukraine;Hesperange;Canton Luxembourg;2654.0;198611185451*;white;black;short;Єлисавета;Воблий
+994;F;45;19780731;Italy;Lintgen;Canton Mersch;12616.0;197807311578*;white;red;short;Ornella;Malaparte
+995;F;36;19870607;Luxembourg;Sandweiler;Canton Luxembourg;8083.0;198706077591*;latino;black;long;Antoinette;Verstraeten
+996;F;31;19921005;Luxembourg;Wiltz;Canton Wiltz;3333.0;199210051210*;white;black;long;Adrienne;Neyens
+997;F;65;19580525;Luxembourg;Erpeldange-sur-Sûre;Canton Diekirch;0.0;195805253050*;latino;brown;short;Ann;Weber
+998;F;67;19560505;Luxembourg;Luxembourg;Canton Luxembourg;0.0;195605055667*;latino;gray;short;Barbara;Lopes
+999;M;41;19820930;Luxembourg;Lac de la Haute-Sûre;Canton Wiltz;3042.0;198209301485*;white;black;long;Noël;Hermans
